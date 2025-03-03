@@ -1,19 +1,13 @@
 {
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-03 18:31:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-03 18:31:33 +0000"
-    },
-    "done": false
-  },
   "kom:kotm": {
     "criteria": {
       "kotm_0": "2025-03-03 18:31:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-03-03 18:31:31 +0000"
     },
     "done": true
   },
@@ -41,17 +35,53 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-03 18:31:33 +0000"
-    },
-    "done": false
-  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-03-03 18:31:32 +0000"
     },
     "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-03-03 18:31:32 +0000"
+    },
+    "done": true
+  },
+  "grave.ht:root": {
+    "criteria": {
+      "requirement": "2025-03-03 18:31:32 +0000"
+    },
+    "done": true
+  },
+  "rats:root": {
+    "criteria": {
+      "tick": "2025-03-03 18:31:32 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-03-03 18:31:32 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 18:31:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 18:31:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 18:31:33 +0000"
+    },
+    "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
@@ -62,12 +92,6 @@
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "coniferous_forest": "2025-03-03 18:31:33 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2025-03-03 18:31:32 +0000"
     },
     "done": true
   },
@@ -95,12 +119,6 @@
     },
     "done": false
   },
-  "grave.ht:root": {
-    "criteria": {
-      "requirement": "2025-03-03 18:31:32 +0000"
-    },
-    "done": true
-  },
   "incendium:technical/feed_ghastling": {
     "criteria": {
       "log_spam_fixer": "2025-03-03 18:31:33 +0000"
@@ -125,18 +143,6 @@
     },
     "done": false
   },
-  "rats:root": {
-    "criteria": {
-      "tick": "2025-03-03 18:31:32 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2025-03-03 18:31:32 +0000"
-    },
-    "done": true
-  },
   "incendium:technical/give_ghastling": {
     "criteria": {
       "log_spam_fixer": "2025-03-03 18:31:33 +0000"
@@ -160,12 +166,6 @@
       "log_spam_fixer": "2025-03-03 18:31:33 +0000"
     },
     "done": false
-  },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2025-03-03 18:31:31 +0000"
-    },
-    "done": true
   },
   "incendium:technical/using/trailblazer": {
     "criteria": {
