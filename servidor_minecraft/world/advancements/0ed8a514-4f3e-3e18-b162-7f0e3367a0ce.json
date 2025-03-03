@@ -821,6 +821,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-03 23:08:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-03-03 23:03:21 +0000"
@@ -1009,8 +1015,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-03-03 23:08:54 +0000",
       "minecraft:spider": "2025-03-03 22:55:01 +0000",
-      "minecraft:zombie": "2025-03-03 22:54:31 +0000"
+      "minecraft:zombie": "2025-03-03 22:54:31 +0000",
+      "minecraft:zombie_villager": "2025-03-03 23:09:39 +0000"
     },
     "done": false
   },
@@ -1041,6 +1049,12 @@
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2025-03-03 22:49:31 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/rat_seed_bowl": {
+    "criteria": {
+      "has_seeds": "2025-03-03 23:07:01 +0000"
     },
     "done": true
   },
@@ -1104,6 +1118,18 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/farmer_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-03-03 23:07:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-03-03 23:07:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_trampoline": {
     "criteria": {
       "has_iron": "2025-03-03 23:01:03 +0000"
@@ -1158,6 +1184,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-03-03 23:07:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-03-03 22:41:43 +0000"
@@ -1191,6 +1223,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-03-03 23:03:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-03-03 23:07:00 +0000"
     },
     "done": true
   },
@@ -1446,6 +1484,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/gardener_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-03-03 23:07:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-03-03 22:49:31 +0000"
@@ -1656,6 +1700,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-03-03 23:06:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-03 22:52:48 +0000"
@@ -1665,6 +1715,12 @@
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-03-03 22:49:31 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/pickpocket_upgrade": {
+    "criteria": {
+      "has_emerald": "2025-03-03 23:06:51 +0000"
     },
     "done": true
   },
@@ -1734,6 +1790,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/bow_upgrade": {
+    "criteria": {
+      "has_arrow": "2025-03-03 23:08:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-03-03 23:01:03 +0000"
@@ -1761,6 +1823,12 @@
   "rats:recipes/misc/upgrades/lumberjack_upgrade": {
     "criteria": {
       "has_black_wool": "2025-03-03 22:41:43 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/replanter_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-03-03 23:07:01 +0000"
     },
     "done": true
   },
@@ -1986,6 +2054,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/chicken_mount_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-03-03 23:07:01 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/decorations/rat_trap": {
     "criteria": {
       "has_iron": "2025-03-03 23:01:03 +0000"
@@ -2001,6 +2075,12 @@
   "ad_astra:recipes/misc/light_gray_flag": {
     "criteria": {
       "has_light_gray_flag": "2025-03-03 22:49:10 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/breeder_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-03-03 23:07:01 +0000"
     },
     "done": true
   },
@@ -2235,6 +2315,12 @@
   "cfm:recipes/decorations/red_grill": {
     "criteria": {
       "has_iron": "2025-03-03 23:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-03-03 23:07:00 +0000"
     },
     "done": true
   },
