@@ -1191,6 +1191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-03 23:40:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-03 22:52:48 +0000"
@@ -1428,6 +1434,12 @@
   "cfm:recipes/decorations/gray_trampoline": {
     "criteria": {
       "has_iron": "2025-03-03 23:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-03 23:40:20 +0000"
     },
     "done": true
   },
@@ -2145,6 +2157,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-03 23:40:20 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-03-03 22:49:31 +0000"
@@ -2291,7 +2309,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-03-03 23:31:58 +0000"
+      "in_better_zombie_dungeon": "2025-03-03 23:31:58 +0000",
+      "in_better_spider_dungeon": "2025-03-03 23:39:02 +0000"
     },
     "done": false
   },
@@ -2409,6 +2428,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-03 23:40:20 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/compressor": {
     "criteria": {
       "has_compressor": "2025-03-03 23:01:03 +0000"
@@ -2443,6 +2468,12 @@
   "palladium:recipes/building_blocks/lead_block": {
     "criteria": {
       "has_lead_ingot": "2025-03-03 23:18:19 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-03-03 23:39:02 +0000"
     },
     "done": true
   },

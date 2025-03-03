@@ -135,7 +135,8 @@
       "coniferous_forest": "2025-03-03 18:33:00 +0000",
       "seasonal_forest": "2025-03-03 22:26:33 +0000",
       "fir_clearing": "2025-03-03 22:37:28 +0000",
-      "pumpkin_patch": "2025-03-03 23:16:41 +0000"
+      "pumpkin_patch": "2025-03-03 23:16:41 +0000",
+      "ominous_woods": "2025-03-03 23:42:33 +0000"
     },
     "done": false
   },
@@ -1779,6 +1780,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-03-03 23:38:24 +0000",
       "minecraft:river": "2025-03-03 22:36:54 +0000",
       "minecraft:stony_shore": "2025-03-03 22:34:31 +0000",
       "minecraft:snowy_plains": "2025-03-03 22:47:42 +0000",
@@ -1799,6 +1801,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-03-03 23:12:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-03-03 23:45:18 +0000"
     },
     "done": true
   },
@@ -2459,6 +2467,12 @@
   "cfm:recipes/decorations/mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-03-03 23:36:13 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_spruce": "2025-03-03 23:44:25 +0000"
     },
     "done": true
   },
@@ -3242,6 +3256,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-03-03 23:42:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-03-03 23:01:35 +0000"
@@ -3380,6 +3400,12 @@
     },
     "done": true
   },
+  "rats:recipes/food/herb_bundle": {
+    "criteria": {
+      "has_flower": "2025-03-03 23:42:10 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-03-03 22:36:53 +0000"
@@ -3431,6 +3457,12 @@
   "rats:recipes/misc/rat_banner_pattern": {
     "criteria": {
       "has_paper": "2025-03-03 23:33:25 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-03-03 23:44:25 +0000"
     },
     "done": true
   },
@@ -3533,6 +3565,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-03 23:10:26 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-03-03 23:45:03 +0000"
     },
     "done": true
   },
