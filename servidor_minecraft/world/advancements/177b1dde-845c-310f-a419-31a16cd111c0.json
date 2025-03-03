@@ -129,9 +129,12 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "highland": "2025-03-03 23:26:53 +0000",
+      "maple_woods": "2025-03-03 23:16:54 +0000",
       "coniferous_forest": "2025-03-03 18:33:00 +0000",
       "seasonal_forest": "2025-03-03 22:26:33 +0000",
-      "fir_clearing": "2025-03-03 22:37:28 +0000"
+      "fir_clearing": "2025-03-03 22:37:28 +0000",
+      "pumpkin_patch": "2025-03-03 23:16:41 +0000"
     },
     "done": false
   },
@@ -1623,7 +1626,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-03 22:43:09 +0000",
-      "porkchop": "2025-03-03 22:29:23 +0000"
+      "porkchop": "2025-03-03 22:29:23 +0000",
+      "golden_apple": "2025-03-03 23:21:22 +0000"
     },
     "done": false
   },
@@ -1799,6 +1803,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-03 22:49:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-03-03 23:21:56 +0000"
     },
     "done": true
   },
@@ -1988,6 +1998,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-03-03 23:21:32 +0000"
+    },
+    "done": true
+  },
   "palladium:recipes/misc/lead_ingot_from_smelting_raw_lead": {
     "criteria": {
       "has_raw_lead": "2025-03-03 22:40:12 +0000"
@@ -2057,6 +2073,12 @@
   "aether:recipes/tools/aether_saddle": {
     "criteria": {
       "has_leather": "2025-03-03 23:12:03 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-03-03 23:21:43 +0000"
     },
     "done": true
   },
@@ -2396,6 +2418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-03 23:21:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-03-03 22:36:53 +0000"
@@ -2546,6 +2574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ice_from_freezing": {
+    "criteria": {
+      "has_water": "2025-03-03 23:21:56 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_pickaxe_repairing": {
     "criteria": {
       "has_iron_pickaxe": "2025-03-03 22:39:31 +0000"
@@ -2567,6 +2601,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-03-03 23:13:40 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-03-03 23:21:43 +0000"
     },
     "done": true
   },
@@ -2738,6 +2778,18 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-03-03 23:21:56 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-03-03 23:21:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-03-03 23:14:12 +0000"
@@ -2780,6 +2832,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-03-03 23:21:43 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-03-03 22:36:53 +0000"
@@ -2813,6 +2871,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-03 22:49:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-03-03 23:21:56 +0000"
     },
     "done": true
   },
@@ -2879,6 +2943,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-03 22:49:25 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/elite_energy_upgrade": {
+    "criteria": {
+      "has_blaze": "2025-03-03 23:21:32 +0000"
     },
     "done": true
   },
@@ -3098,6 +3168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-03 23:21:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-03 23:09:41 +0000"
@@ -3227,6 +3303,12 @@
   "rats:recipes/misc/dragon_wing": {
     "criteria": {
       "has_leather": "2025-03-03 23:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-03 23:21:32 +0000"
     },
     "done": true
   },

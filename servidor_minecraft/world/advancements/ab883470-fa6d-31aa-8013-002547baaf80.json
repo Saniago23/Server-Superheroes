@@ -131,6 +131,7 @@
     "criteria": {
       "coniferous_forest": "2025-03-03 22:33:10 +0000",
       "aspen_glade": "2025-03-03 22:48:27 +0000",
+      "seasonal_forest": "2025-03-03 23:19:51 +0000",
       "fir_clearing": "2025-03-03 22:45:13 +0000",
       "crag": "2025-03-03 22:40:52 +0000"
     },
@@ -1506,9 +1507,21 @@
     },
     "done": true
   },
+  "rats:recipes/misc/hammocks/rat_hammock_magenta": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/armor_upgrade": {
     "criteria": {
       "has_iron": "2025-03-03 22:59:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
     },
     "done": true
   },
@@ -1596,6 +1609,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/hammocks/rat_hammock_brown": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_gray": {
     "criteria": {
       "has_iron_ingot": "2025-03-03 22:59:01 +0000"
@@ -1628,6 +1647,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-03-03 23:16:04 +0000",
       "minecraft:creeper": "2025-03-03 23:06:43 +0000"
     },
     "done": false
@@ -1641,6 +1661,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-03-03 22:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
     },
     "done": true
   },
@@ -1662,6 +1688,18 @@
     },
     "done": true
   },
+  "rats:recipes/combat/chef_toque": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-03-03 23:11:56 +0000"
@@ -1671,6 +1709,12 @@
   "cfm:recipes/decorations/blue_trampoline": {
     "criteria": {
       "has_iron": "2025-03-03 22:59:01 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_gray": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
     },
     "done": true
   },
@@ -1689,6 +1733,30 @@
   "aether:recipes/combat/shield_repairing": {
     "criteria": {
       "has_shield": "2025-03-03 22:59:14 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/bottler_upgrade": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_light_gray": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_purple": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/combat/fisherman_hat": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
     },
     "done": true
   },
@@ -1725,6 +1793,12 @@
   "cfm:recipes/decorations/orange_trampoline": {
     "criteria": {
       "has_iron": "2025-03-03 22:59:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
     },
     "done": true
   },
@@ -1770,6 +1844,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/hammocks/rat_hammock_orange": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-03-03 22:59:01 +0000"
@@ -1785,6 +1865,12 @@
   "nethersdelight:recipes/tools/iron_machete": {
     "criteria": {
       "has_iron_ingot": "2025-03-03 22:59:01 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/jury_rigged_upgrade": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
     },
     "done": true
   },
@@ -1818,6 +1904,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/hammocks/rat_hammock_blue": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-03-03 22:59:01 +0000"
@@ -1833,6 +1925,12 @@
   "rats:recipes/building_blocks/rat_attractor": {
     "criteria": {
       "has_lantern": "2025-03-03 23:13:25 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_lime": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
     },
     "done": true
   },
@@ -1884,6 +1982,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_cyan": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/door_mat": {
     "criteria": {
       "has_wheat": "2025-03-03 23:11:56 +0000"
@@ -1899,6 +2009,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-03-03 22:59:01 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_black": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
     },
     "done": true
   },
@@ -1956,6 +2072,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-03-03 22:59:01 +0000"
@@ -2010,6 +2132,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/coal_generator": {
     "criteria": {
       "has_coal_generator": "2025-03-03 22:59:01 +0000"
@@ -2028,6 +2156,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/rat_breeding_lantern": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_ingot": {
     "criteria": {
       "has_item": "2025-03-03 22:59:01 +0000"
@@ -2037,6 +2171,18 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-03-03 22:59:01 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_green": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_white": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
     },
     "done": true
   },
@@ -2160,6 +2306,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/hammocks/rat_hammock_yellow": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_trampoline": {
     "criteria": {
       "has_iron": "2025-03-03 22:59:01 +0000"
@@ -2196,6 +2348,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_light_blue": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_grill": {
     "criteria": {
       "has_iron": "2025-03-03 22:59:01 +0000"
@@ -2205,6 +2369,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_cyan": {
     "criteria": {
       "has_iron_ingot": "2025-03-03 22:59:01 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/rat_hammock_pink": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
     },
     "done": true
   },
@@ -2250,9 +2420,21 @@
     },
     "done": true
   },
+  "rats:recipes/misc/hammocks/rat_hammock_red": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-03-03 23:06:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-03-03 23:16:10 +0000"
     },
     "done": true
   },

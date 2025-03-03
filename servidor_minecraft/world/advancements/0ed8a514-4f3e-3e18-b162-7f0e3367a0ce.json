@@ -1064,6 +1064,12 @@
     },
     "done": true
   },
+  "palladium:recipes/misc/lead_flux_capacitor": {
+    "criteria": {
+      "has_lead_ingot": "2025-03-03 23:18:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-03-03 23:01:03 +0000"
@@ -1091,6 +1097,12 @@
   "grave.core:recipes/black_fabric": {
     "criteria": {
       "has_wool": "2025-03-03 22:41:43 +0000"
+    },
+    "done": true
+  },
+  "palladium:recipes/misc/lead_circuit": {
+    "criteria": {
+      "has_lead_ingot": "2025-03-03 23:18:19 +0000"
     },
     "done": true
   },
@@ -1157,6 +1169,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-03 22:52:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-03-03 23:17:22 +0000"
     },
     "done": true
   },
@@ -1484,6 +1502,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-03-03 23:17:31 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/gardener_upgrade": {
     "criteria": {
       "has_seeds": "2025-03-03 23:07:01 +0000"
@@ -1532,6 +1556,18 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-03-03 23:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-03-03 23:17:22 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/hammocks/rat_hammock_black": {
     "criteria": {
       "has_wool": "2025-03-03 22:41:43 +0000"
@@ -1541,6 +1577,12 @@
   "rats:recipes/misc/upgrades/crossbow_upgrade": {
     "criteria": {
       "has_iron": "2025-03-03 23:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-03 23:17:31 +0000"
     },
     "done": true
   },
@@ -2240,6 +2282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-03-03 23:17:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-03-03 22:44:29 +0000"
@@ -2297,6 +2345,18 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-03 22:52:48 +0000"
+    },
+    "done": true
+  },
+  "palladium:recipes/building_blocks/lead_block": {
+    "criteria": {
+      "has_lead_ingot": "2025-03-03 23:18:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2025-03-03 23:17:37 +0000"
     },
     "done": true
   },
