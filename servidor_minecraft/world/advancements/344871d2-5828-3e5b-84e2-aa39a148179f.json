@@ -1010,6 +1010,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-03-03 22:56:08 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2025-03-03 22:44:22 +0000"
@@ -1106,6 +1112,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-03-03 22:56:08 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_fletching_table": {
     "criteria": {
       "has_flint": "2025-03-03 22:44:22 +0000"
@@ -1139,6 +1151,12 @@
   "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2025-03-03 22:37:54 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-03-03 22:50:11 +0000"
     },
     "done": true
   },
@@ -1295,6 +1313,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-03-03 22:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-03-03 22:56:08 +0000"
     },
     "done": true
   },
