@@ -1394,3 +1394,110 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Mar2025 22:33:09.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [Ice and Fire]
 [03Mar2025 22:33:10.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 lost connection: Disconnected
 [03Mar2025 22:33:10.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 left the game
+[03Mar2025 22:34:07.709] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Camaila04[/127.64.191.5:58593] logged in with entity id 2453 at (-9.5, 100.0, 3.5)
+[03Mar2025 22:34:07.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 joined the game
+[03Mar2025 22:34:07.957] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (ab883470-fa6d-31aa-8013-002547baaf80)
+[03Mar2025 22:34:07.958] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[03Mar2025 22:34:07.958] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Camaila04
+[03Mar2025 22:34:07.959] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Camaila04 run scoreboard objectives add FSang.Gamerule.item dummy
+[03Mar2025 22:34:07.959] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Camaila04 run scoreboard players set .sang FSang.Gamerule.item 1
+[03Mar2025 22:34:07.959] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Camaila04 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[03Mar2025 22:34:07.959] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Camaila04 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[03Mar2025 22:34:09.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 lost connection: Disconnected
+[03Mar2025 22:34:09.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 left the game
+[03Mar2025 22:34:36.817] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki lost connection: Disconnected
+[03Mar2025 22:34:36.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki left the game
+[03Mar2025 22:34:39.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 lost connection: Disconnected
+[03Mar2025 22:34:39.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 left the game
+[03Mar2025 22:34:41.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 lost connection: Disconnected
+[03Mar2025 22:34:41.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 left the game
+[03Mar2025 22:35:09.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Saniago23[/127.247.123.130:35469] logged in with entity id 2963 at (45.43494703198934, 72.0, -92.88973107089402)
+[03Mar2025 22:35:09.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 joined the game
+[03Mar2025 22:35:10.178] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (0ed8a514-4f3e-3e18-b162-7f0e3367a0ce)
+[03Mar2025 22:35:10.179] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[03Mar2025 22:35:10.180] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Saniago23
+[03Mar2025 22:35:10.180] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.item dummy
+[03Mar2025 22:35:10.180] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.item 1
+[03Mar2025 22:35:10.181] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[03Mar2025 22:35:10.181] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[03Mar2025 22:35:12.595] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Camaila04[/127.64.191.5:59321] logged in with entity id 3088 at (-9.5, 100.0, 3.5)
+[03Mar2025 22:35:12.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 joined the game
+[03Mar2025 22:35:12.804] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (ab883470-fa6d-31aa-8013-002547baaf80)
+[03Mar2025 22:35:12.805] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[03Mar2025 22:35:12.805] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Camaila04
+[03Mar2025 22:35:12.806] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Camaila04 run scoreboard objectives add FSang.Gamerule.item dummy
+[03Mar2025 22:35:12.806] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Camaila04 run scoreboard players set .sang FSang.Gamerule.item 1
+[03Mar2025 22:35:12.806] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Camaila04 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[03Mar2025 22:35:12.806] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Camaila04 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[03Mar2025 22:35:14.541] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 lost connection: Disconnected
+[03Mar2025 22:35:14.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 left the game
+[03Mar2025 22:35:21.143] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Todoroxki[/127.136.36.252:39563] logged in with entity id 3180 at (15.404761692613341, 64.0, 72.30000001192093)
+[03Mar2025 22:35:21.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki joined the game
+[03Mar2025 22:35:21.566] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (344871d2-5828-3e5b-84e2-aa39a148179f)
+[03Mar2025 22:35:21.566] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[03Mar2025 22:35:21.567] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Todoroxki
+[03Mar2025 22:35:21.567] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Todoroxki run scoreboard objectives add FSang.Gamerule.item dummy
+[03Mar2025 22:35:21.567] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Todoroxki run scoreboard players set .sang FSang.Gamerule.item 1
+[03Mar2025 22:35:21.568] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Todoroxki run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[03Mar2025 22:35:21.568] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Todoroxki run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[03Mar2025 22:35:49.344] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4f538d77[id=<null>,name=bryanc2613,properties={},legacy=false] (/127.142.62.170:41739) lost connection: Disconnected
+[03Mar2025 22:35:54.803] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Camaila04[/127.64.191.5:44427] logged in with entity id 3419 at (-9.5, 100.0, 3.5)
+[03Mar2025 22:35:54.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 joined the game
+[03Mar2025 22:35:55.101] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (ab883470-fa6d-31aa-8013-002547baaf80)
+[03Mar2025 22:35:55.102] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[03Mar2025 22:35:55.108] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Camaila04
+[03Mar2025 22:35:55.108] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Camaila04 run scoreboard objectives add FSang.Gamerule.item dummy
+[03Mar2025 22:35:55.109] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Camaila04 run scoreboard players set .sang FSang.Gamerule.item 1
+[03Mar2025 22:35:55.109] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Camaila04 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[03Mar2025 22:35:55.109] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Camaila04 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[03Mar2025 22:35:56.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 lost connection: Disconnected
+[03Mar2025 22:35:56.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 left the game
+[03Mar2025 22:36:02.161] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bryanc2613[/127.142.62.170:41945] logged in with entity id 3462 at (-97.32862176275023, 70.0, -125.21039790930078)
+[03Mar2025 22:36:02.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 joined the game
+[03Mar2025 22:36:02.407] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (177b1dde-845c-310f-a419-31a16cd111c0)
+[03Mar2025 22:36:02.408] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[03Mar2025 22:36:02.408] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: bryanc2613
+[03Mar2025 22:36:02.408] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as bryanc2613 run scoreboard objectives add FSang.Gamerule.item dummy
+[03Mar2025 22:36:02.409] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as bryanc2613 run scoreboard players set .sang FSang.Gamerule.item 1
+[03Mar2025 22:36:02.409] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as bryanc2613 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[03Mar2025 22:36:02.409] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as bryanc2613 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[03Mar2025 22:36:15.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[03Mar2025 22:36:34.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[03Mar2025 22:36:52.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03Mar2025 22:37:13.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5763ms or 115 ticks behind
+[03Mar2025 22:37:32.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4150ms or 83 ticks behind
+[03Mar2025 22:37:53.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5763ms or 115 ticks behind
+[03Mar2025 22:38:17.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9373ms or 187 ticks behind
+[03Mar2025 22:38:28.005] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Camaila04[/127.64.191.5:34741] logged in with entity id 5198 at (-9.5, 100.0, 3.5)
+[03Mar2025 22:38:28.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 joined the game
+[03Mar2025 22:38:28.440] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (ab883470-fa6d-31aa-8013-002547baaf80)
+[03Mar2025 22:38:28.440] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[03Mar2025 22:38:28.441] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Camaila04
+[03Mar2025 22:38:28.441] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Camaila04 run scoreboard objectives add FSang.Gamerule.item dummy
+[03Mar2025 22:38:28.442] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Camaila04 run scoreboard players set .sang FSang.Gamerule.item 1
+[03Mar2025 22:38:28.442] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Camaila04 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[03Mar2025 22:38:28.443] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Camaila04 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[03Mar2025 22:38:41.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8666ms or 173 ticks behind
+[03Mar2025 22:39:03.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6443ms or 128 ticks behind
+[03Mar2025 22:39:23.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5932ms or 118 ticks behind
+[03Mar2025 22:39:31.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [Isn't It Iron Pick]
+[03Mar2025 22:39:43.076] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4167ms or 83 ticks behind
+[03Mar2025 22:39:47.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Saniago23: Set the time to 1000]
+[03Mar2025 22:39:58.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Saniago23: Set the time to 500]
+[03Mar2025 22:40:01.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3287ms or 65 ticks behind
+[03Mar2025 22:40:06.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Saniago23: Set the time to 0]
+[03Mar2025 22:40:07.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [Crops of the Wild]
+[03Mar2025 22:40:19.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3473ms or 69 ticks behind
+[03Mar2025 22:40:37.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2649ms or 52 ticks behind
+[03Mar2025 22:40:57.421] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[03Mar2025 22:41:10.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [Stone Age]
+[03Mar2025 22:41:16.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4386ms or 87 ticks behind
+[03Mar2025 22:41:19.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [Getting an Upgrade]
+[03Mar2025 22:41:36.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4712ms or 94 ticks behind
+[03Mar2025 22:41:56.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4943ms or 98 ticks behind
+[03Mar2025 22:42:18.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6824ms or 136 ticks behind
+[03Mar2025 22:42:41.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8767ms or 175 ticks behind
+[03Mar2025 22:42:51.200] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-23, y=35, z=-508} but found not block entity block Block{minecraft:water}[level=7] at location
+[03Mar2025 22:42:51.200] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=7] but failed at location BlockPos{x=-23, y=35, z=-508}
+[03Mar2025 22:43:05.138] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8229ms or 164 ticks behind
+[03Mar2025 22:43:27.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7882ms or 157 ticks behind
