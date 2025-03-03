@@ -1401,3 +1401,76 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Mar2025 04:05:03.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 left the game
 [03Mar2025 04:05:55.660] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3df932ca[id=<null>,name=bryanc2613,properties={},legacy=false] (/127.16.126.222:52261) lost connection: Disconnected
 [03Mar2025 04:06:29.158] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@647528e6[id=<null>,name=bryanc2613,properties={},legacy=false] (/127.16.126.222:60053) lost connection: Disconnected
+[03Mar2025 04:12:27.005] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=64, z=1} BlockPos{x=2, y=63, z=16}
+[03Mar2025 04:12:28.130] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=64, z=1} BlockPos{x=2, y=63, z=16}
+[03Mar2025 04:12:30.710] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=64, z=1} BlockPos{x=1, y=63, z=16}
+[03Mar2025 04:12:31.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=64, z=1} BlockPos{x=2, y=63, z=16}
+[03Mar2025 04:12:31.358] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=64, z=1} BlockPos{x=1, y=63, z=16}
+[03Mar2025 04:12:31.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=64, z=1} BlockPos{x=2, y=63, z=16}
+[03Mar2025 04:12:32.179] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=64, z=1} BlockPos{x=1, y=63, z=16}
+[03Mar2025 04:12:32.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=64, z=1} BlockPos{x=2, y=63, z=16}
+[03Mar2025 04:12:32.606] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=64, z=1} BlockPos{x=1, y=63, z=16}
+[03Mar2025 04:12:40.662] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=64, z=1} BlockPos{x=-1, y=63, z=15}
+[03Mar2025 04:12:51.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=63, z=17} BlockPos{x=2, y=62, z=14}
+[03Mar2025 04:12:54.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=63, z=17} BlockPos{x=-3, y=63, z=5}
+[03Mar2025 04:13:00.655] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=63, z=17} BlockPos{x=-4, y=65, z=-1}
+[03Mar2025 04:13:02.759] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=63, z=17} BlockPos{x=0, y=63, z=-1}
+[03Mar2025 04:13:06.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=63, z=17} BlockPos{x=9, y=63, z=-12}
+[03Mar2025 04:14:22.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=63, z=17} BlockPos{x=7, y=63, z=10}
+[03Mar2025 04:14:22.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[03Mar2025 04:14:22.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Mar2025 04:14:22.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Mar2025 04:14:22.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 lost connection: Disconnected
+[03Mar2025 04:14:22.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 left the game
+[03Mar2025 04:14:22.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Mar2025 04:14:23.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes]'/minecraft:overworld
+[03Mar2025 04:14:23.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes]'/ad_astra:venus
+[03Mar2025 04:14:23.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes]'/grave.ht:omnitrix
+[03Mar2025 04:14:23.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes]'/ad_astra:glacio
+[03Mar2025 04:14:23.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes]'/ad_astra:glacio_orbit
+[03Mar2025 04:14:23.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes]'/ad_astra:moon_orbit
+[03Mar2025 04:14:23.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes]'/speedforce_by_yofadda:the_negative_speedforce
+[03Mar2025 04:14:23.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes]'/grave.core:space
+[03Mar2025 04:14:23.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes]'/ad_astra:moon
+[03Mar2025 04:14:23.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes]'/lostcities:lostcity
+[03Mar2025 04:14:23.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes]'/fsang:pocket_dimension
+[03Mar2025 04:14:23.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes]'/speedforce_by_yofadda:the_speedforce
+[03Mar2025 04:14:23.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes]'/ad_astra:mars
+[03Mar2025 04:14:23.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes]'/ad_astra:venus_orbit
+[03Mar2025 04:14:23.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes]'/minecraft:the_nether
+[03Mar2025 04:14:23.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes]'/fsang:speedforce
+[03Mar2025 04:14:23.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes]'/fsang:the_radiant
+[03Mar2025 04:14:23.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes]'/ad_astra:mercury
+[03Mar2025 04:14:23.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes]'/deeperdarker:otherside
+[03Mar2025 04:14:23.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes]'/ad_astra:earth_orbit
+[03Mar2025 04:14:23.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes]'/ad_astra:mercury_orbit
+[03Mar2025 04:14:23.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes]'/aether:the_aether
+[03Mar2025 04:14:23.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes]'/minecraft:the_end
+[03Mar2025 04:14:23.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes]'/ad_astra:mars_orbit
+[03Mar2025 04:14:23.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes]'/fsang:negative_speedforce
+[03Mar2025 04:14:23.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Mar2025 04:14:23.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[03Mar2025 04:14:23.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (omnitrix): All chunks are saved
+[03Mar2025 04:14:23.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[03Mar2025 04:14:23.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[03Mar2025 04:14:23.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[03Mar2025 04:14:23.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_negative_speedforce): All chunks are saved
+[03Mar2025 04:14:23.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (space): All chunks are saved
+[03Mar2025 04:14:23.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[03Mar2025 04:14:23.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[03Mar2025 04:14:23.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[03Mar2025 04:14:23.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_speedforce): All chunks are saved
+[03Mar2025 04:14:23.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[03Mar2025 04:14:23.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[03Mar2025 04:14:23.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Mar2025 04:14:23.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (speedforce): All chunks are saved
+[03Mar2025 04:14:23.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_radiant): All chunks are saved
+[03Mar2025 04:14:23.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[03Mar2025 04:14:23.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[03Mar2025 04:14:23.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[03Mar2025 04:14:23.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[03Mar2025 04:14:23.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[03Mar2025 04:14:23.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Mar2025 04:14:23.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[03Mar2025 04:14:23.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (negative_speedforce): All chunks are saved
+[03Mar2025 04:14:23.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
