@@ -1,69 +1,9 @@
 {
-  "biomesoplenty:recipes/redstone/willow_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-03-03 03:01:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ladder": {
-    "criteria": {
-      "has_stick": "2025-03-03 03:01:32 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/willow_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-03-03 03:01:11 +0000"
-    },
-    "done": true
-  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
       "log_spam_fixer": "2025-03-03 02:59:58 +0000"
     },
     "done": false
-  },
-  "supplementaries:recipes/crank": {
-    "criteria": {
-      "forge:rods/wooden": "2025-03-03 03:01:32 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_orange": {
-    "criteria": {
-      "has_stick": "2025-03-03 03:01:32 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_magenta": {
-    "criteria": {
-      "has_stick": "2025-03-03 03:01:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-03-03 03:01:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2025-03-03 03:01:58 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/lock_block": {
-    "criteria": {
-      "minecraft:planks": "2025-03-03 03:01:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2025-03-03 03:01:32 +0000"
-    },
-    "done": true
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
@@ -83,63 +23,15 @@
     },
     "done": true
   },
-  "rats:recipes/building_blocks/rat_crafting_table": {
-    "criteria": {
-      "has_table": "2025-03-03 03:01:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2025-03-03 03:01:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-03-03 03:01:58 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/willow_door": {
-    "criteria": {
-      "has_planks": "2025-03-03 03:01:11 +0000"
-    },
-    "done": true
-  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-03-03 02:59:58 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/willow_sign": {
-    "criteria": {
-      "has_planks": "2025-03-03 03:01:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone": {
-    "criteria": {
-      "has_cobblestone": "2025-03-03 03:01:58 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/wooden_pickaxe_repairing": {
-    "criteria": {
-      "has_wooden_pickaxe": "2025-03-03 03:01:39 +0000"
-    },
-    "done": true
-  },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-03-03 02:59:58 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/daub_cross_brace": {
-    "criteria": {
-      "forge:rods/wooden": "2025-03-03 03:01:32 +0000"
     },
     "done": true
   },
@@ -161,21 +53,339 @@
     },
     "done": true
   },
-  "supplementaries:recipes/flags/flag_pink": {
+  "incendium:technical/on_inventory_change": {
     "criteria": {
-      "has_stick": "2025-03-03 03:01:32 +0000"
+      "log_spam_fixer": "2025-03-03 02:59:58 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "bayou": "2025-03-03 02:59:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_pickaxe": {
+  "betterdungeons:root": {
     "criteria": {
-      "has_cobblestone": "2025-03-03 03:01:58 +0000"
+      "always": "2025-03-03 02:59:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 02:59:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 02:59:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 02:59:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 02:59:58 +0000"
+    },
+    "done": false
+  },
+  "grave.ht:root": {
+    "criteria": {
+      "requirement": "2025-03-03 02:59:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 02:59:58 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "bayou": "2025-03-03 02:59:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 02:59:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 02:59:58 +0000"
+    },
+    "done": false
+  },
+  "rats:root": {
+    "criteria": {
+      "tick": "2025-03-03 02:59:58 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-03-03 02:59:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 02:59:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 02:59:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 02:59:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 02:59:58 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-03-03 02:59:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-03 02:59:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-03-03 03:00:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/willow_planks": {
+    "criteria": {
+      "has_logs": "2025-03-03 03:00:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/willow_wood": {
+    "criteria": {
+      "has_log": "2025-03-03 03:00:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/willow_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-03 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/willow_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-03 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lock_block": {
+    "criteria": {
+      "minecraft:planks": "2025-03-03 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-03-03 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/willow_door": {
+    "criteria": {
+      "has_planks": "2025-03-03 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/willow_sign": {
+    "criteria": {
+      "has_planks": "2025-03-03 03:01:11 +0000"
     },
     "done": true
   },
   "biomesoplenty:recipes/redstone/willow_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-03 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/turn_table": {
+    "criteria": {
+      "minecraft:planks": "2025-03-03 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/clock_block": {
+    "criteria": {
+      "minecraft:planks": "2025-03-03 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/willow_button": {
+    "criteria": {
+      "has_planks": "2025-03-03 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-03-03 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/dj_upgrade": {
+    "criteria": {
+      "has_planks": "2025-03-03 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_willow": {
+    "criteria": {
+      "has_planks": "2025-03-03 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bed_from_feather_block": {
+    "criteria": {
+      "minecraft:planks": "2025-03-03 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2025-03-03 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "minecraft:planks": "2025-03-03 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/crafting_upgrade": {
+    "criteria": {
+      "has_planks": "2025-03-03 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/willow_fence": {
+    "criteria": {
+      "has_planks": "2025-03-03 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "minecraft:planks": "2025-03-03 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/willow_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-03 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/willow_slab": {
+    "criteria": {
+      "has_planks": "2025-03-03 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pulley": {
+    "criteria": {
+      "minecraft:planks": "2025-03-03 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/rat_crafting_table": {
+    "criteria": {
+      "has_table": "2025-03-03 03:01:20 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/rat_quarry": {
+    "criteria": {
+      "has_table": "2025-03-03 03:01:20 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-03-03 03:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-03-03 03:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-03-03 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crank": {
+    "criteria": {
+      "forge:rods/wooden": "2025-03-03 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_orange": {
+    "criteria": {
+      "has_stick": "2025-03-03 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_magenta": {
+    "criteria": {
+      "has_stick": "2025-03-03 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-03-03 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub_cross_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2025-03-03 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_pink": {
+    "criteria": {
+      "has_stick": "2025-03-03 03:01:32 +0000"
     },
     "done": true
   },
@@ -197,18 +407,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-03-03 03:00:50 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-03 02:59:58 +0000"
-    },
-    "done": false
-  },
   "supplementaries:recipes/slingshot": {
     "criteria": {
       "forge:rods/wooden": "2025-03-03 03:01:32 +0000"
@@ -221,39 +419,9 @@
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "bayou": "2025-03-03 02:59:58 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/turn_table": {
-    "criteria": {
-      "minecraft:planks": "2025-03-03 03:01:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-03-03 03:01:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
-    "criteria": {
-      "has_cobblestone": "2025-03-03 03:01:58 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/clock_block": {
-    "criteria": {
-      "minecraft:planks": "2025-03-03 03:01:11 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/willow_button": {
-    "criteria": {
-      "has_planks": "2025-03-03 03:01:11 +0000"
     },
     "done": true
   },
@@ -269,65 +437,11 @@
     },
     "done": true
   },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2025-03-03 02:59:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2025-03-03 03:01:11 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/dj_upgrade": {
-    "criteria": {
-      "has_planks": "2025-03-03 03:01:11 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-03 02:59:58 +0000"
-    },
-    "done": false
-  },
   "supplementaries:recipes/flags/flag_green": {
     "criteria": {
       "has_stick": "2025-03-03 03:01:32 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-03-03 03:01:58 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/building_blocks/rat_quarry": {
-    "criteria": {
-      "has_table": "2025-03-03 03:01:20 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-03 02:59:58 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2025-03-03 03:01:58 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-03 02:59:58 +0000"
-    },
-    "done": false
   },
   "supplementaries:recipes/flags/flag_purple": {
     "criteria": {
@@ -335,27 +449,9 @@
     },
     "done": true
   },
-  "aquamirae:adventure/root": {
-    "criteria": {
-      "crafting_table": "2025-03-03 03:01:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2025-03-03 03:01:58 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/flags/flag_white": {
     "criteria": {
       "has_stick": "2025-03-03 03:01:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lever": {
-    "criteria": {
-      "has_cobblestone": "2025-03-03 03:01:58 +0000"
     },
     "done": true
   },
@@ -368,36 +464,6 @@
   "rats:recipes/tools/cheese_stick": {
     "criteria": {
       "has_stick": "2025-03-03 03:01:32 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-03 02:59:58 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/combat/stone_sword": {
-    "criteria": {
-      "has_cobblestone": "2025-03-03 03:01:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2025-03-03 03:01:58 +0000"
-    },
-    "done": true
-  },
-  "grave.ht:root": {
-    "criteria": {
-      "requirement": "2025-03-03 02:59:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_axe": {
-    "criteria": {
-      "has_cobblestone": "2025-03-03 03:01:58 +0000"
     },
     "done": true
   },
@@ -419,23 +485,11 @@
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/biomesoplenty/sign_post_willow": {
-    "criteria": {
-      "has_planks": "2025-03-03 03:01:11 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/faucet": {
     "criteria": {
       "forge:rods/wooden": "2025-03-03 03:01:32 +0000"
     },
     "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-03 02:59:58 +0000"
-    },
-    "done": false
   },
   "rats:recipes/tools/radius_stick": {
     "criteria": {
@@ -443,87 +497,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/bed_from_feather_block": {
-    "criteria": {
-      "minecraft:planks": "2025-03-03 03:01:11 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/checker": {
-    "criteria": {
-      "has_cobblestone": "2025-03-03 03:01:58 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "bayou": "2025-03-03 02:59:58 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/misc/earplugs": {
-    "criteria": {
-      "has_item": "2025-03-03 03:01:11 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-03 02:59:58 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/speaker_block": {
-    "criteria": {
-      "minecraft:planks": "2025-03-03 03:01:11 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2025-03-03 03:01:32 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/crafting_upgrade": {
-    "criteria": {
-      "has_planks": "2025-03-03 03:01:11 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-03 02:59:58 +0000"
-    },
-    "done": false
-  },
-  "rats:root": {
-    "criteria": {
-      "tick": "2025-03-03 02:59:58 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/willow_fence": {
-    "criteria": {
-      "has_planks": "2025-03-03 03:01:11 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2025-03-03 02:59:58 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-03 02:59:58 +0000"
-    },
-    "done": false
-  },
-  "aether:recipes/tools/wooden_axe_repairing": {
-    "criteria": {
-      "has_wooden_axe": "2025-03-03 03:01:41 +0000"
     },
     "done": true
   },
@@ -539,35 +515,11 @@
     },
     "done": true
   },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-03 02:59:58 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/notice_board": {
-    "criteria": {
-      "minecraft:planks": "2025-03-03 03:01:11 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/daub_frame": {
     "criteria": {
       "forge:rods/wooden": "2025-03-03 03:01:32 +0000"
     },
     "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-03 02:59:58 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-03 02:59:58 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
@@ -575,27 +527,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2025-03-03 02:59:58 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/willow_planks": {
-    "criteria": {
-      "has_logs": "2025-03-03 03:00:50 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/flags/flag_cyan": {
     "criteria": {
       "has_stick": "2025-03-03 03:01:32 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/willow_stairs": {
-    "criteria": {
-      "has_planks": "2025-03-03 03:01:11 +0000"
     },
     "done": true
   },
@@ -611,39 +545,9 @@
     },
     "done": true
   },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-03 02:59:58 +0000"
-    },
-    "done": false
-  },
-  "biomesoplenty:recipes/building_blocks/willow_slab": {
-    "criteria": {
-      "has_planks": "2025-03-03 03:01:11 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/flags/flag_red": {
     "criteria": {
       "has_stick": "2025-03-03 03:01:32 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/willow_wood": {
-    "criteria": {
-      "has_log": "2025-03-03 03:00:50 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/pulley": {
-    "criteria": {
-      "minecraft:planks": "2025-03-03 03:01:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-03-03 03:01:58 +0000"
     },
     "done": true
   },
@@ -653,27 +557,123 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2025-03-03 03:01:58 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/tools/patrol_stick": {
     "criteria": {
       "has_stick": "2025-03-03 03:01:32 +0000"
     },
     "done": true
   },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-03-03 03:01:20 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/flags/flag_lime": {
     "criteria": {
       "has_stick": "2025-03-03 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_pickaxe_repairing": {
+    "criteria": {
+      "has_wooden_pickaxe": "2025-03-03 03:01:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_axe_repairing": {
+    "criteria": {
+      "has_wooden_axe": "2025-03-03 03:01:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-03-03 03:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-03-03 03:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-03-03 03:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-03-03 03:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-03-03 03:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-03-03 03:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-03-03 03:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-03-03 03:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-03-03 03:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-03-03 03:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-03-03 03:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-03-03 03:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-03-03 03:01:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/checker": {
+    "criteria": {
+      "has_cobblestone": "2025-03-03 03:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-03-03 03:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-03-03 03:01:58 +0000"
     },
     "done": true
   },
