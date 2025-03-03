@@ -132,6 +132,7 @@
       "coniferous_forest": "2025-03-03 22:33:10 +0000",
       "aspen_glade": "2025-03-03 22:48:27 +0000",
       "seasonal_forest": "2025-03-03 23:19:51 +0000",
+      "lavender_field": "2025-03-03 23:33:59 +0000",
       "fir_clearing": "2025-03-03 22:45:13 +0000",
       "crag": "2025-03-03 22:40:52 +0000"
     },
@@ -1425,7 +1426,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-03-03 22:53:30 +0000",
-      "minecraft:stony_shore": "2025-03-03 22:53:46 +0000"
+      "minecraft:stony_shore": "2025-03-03 22:53:46 +0000",
+      "minecraft:meadow": "2025-03-03 23:35:00 +0000",
+      "minecraft:plains": "2025-03-03 23:34:01 +0000"
     },
     "done": false
   },
@@ -1943,6 +1946,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-03-03 22:59:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2025-03-03 23:37:48 +0000"
     },
     "done": true
   },

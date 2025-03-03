@@ -821,6 +821,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-03 23:37:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-03-03 23:08:50 +0000"
@@ -929,6 +935,18 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/basic_mount_upgrade": {
+    "criteria": {
+      "has_saddle": "2025-03-03 23:35:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-03 23:37:27 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/decorations/blackstone_blast_furnace": {
     "criteria": {
       "has_iron": "2025-03-03 23:01:03 +0000"
@@ -1017,6 +1035,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-03 23:08:54 +0000",
       "minecraft:spider": "2025-03-03 22:55:01 +0000",
+      "minecraft:creeper": "2025-03-03 23:31:14 +0000",
       "minecraft:zombie": "2025-03-03 22:54:31 +0000",
       "minecraft:zombie_villager": "2025-03-03 23:09:39 +0000"
     },
@@ -1139,6 +1158,12 @@
   "supplementaries:recipes/ash_brick": {
     "criteria": {
       "forge:ash": "2025-03-03 23:07:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-03-03 23:33:07 +0000"
     },
     "done": true
   },
@@ -1280,6 +1305,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2025-03-03 23:30:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-03-03 23:01:03 +0000"
@@ -1364,6 +1395,12 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-03-03 23:31:58 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_grill": {
     "criteria": {
       "has_iron": "2025-03-03 23:01:03 +0000"
@@ -1409,6 +1446,12 @@
   "cfm:recipes/decorations/black_grill": {
     "criteria": {
       "has_iron": "2025-03-03 23:01:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2025-03-03 23:29:41 +0000"
     },
     "done": true
   },
@@ -1712,6 +1755,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-03 23:37:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-03-03 23:01:03 +0000"
@@ -1751,6 +1800,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-03 22:52:48 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/assorted_vegetables": {
+    "criteria": {
+      "has_a_veggie": "2025-03-03 23:37:27 +0000"
     },
     "done": true
   },
@@ -1922,6 +1977,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-03 23:37:27 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_brown": {
     "criteria": {
       "has_iron_ingot": "2025-03-03 23:01:03 +0000"
@@ -1949,6 +2010,18 @@
   "cfm:recipes/decorations/light_gray_trampoline": {
     "criteria": {
       "has_wool": "2025-03-03 22:49:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-03-03 23:29:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-03-03 23:35:54 +0000"
     },
     "done": true
   },
@@ -2051,6 +2124,12 @@
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-03-03 22:49:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-03 23:37:27 +0000"
     },
     "done": true
   },
@@ -2174,6 +2253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-03-03 23:37:27 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/platter_upgrade": {
     "criteria": {
       "has_iron": "2025-03-03 23:01:03 +0000"
@@ -2203,6 +2288,12 @@
       "has_any_ingredient": "2025-03-03 22:41:25 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-03-03 23:31:58 +0000"
+    },
+    "done": false
   },
   "rats:recipes/misc/upgrades/shears_upgrade": {
     "criteria": {
@@ -2326,7 +2417,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_mutton": "2025-03-03 22:44:32 +0000"
+      "cooked_mutton": "2025-03-03 22:44:32 +0000",
+      "carrot": "2025-03-03 23:37:33 +0000"
     },
     "done": false
   },
@@ -2354,6 +2446,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-03 23:37:27 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_boots_repairing": {
     "criteria": {
       "has_iron_boots": "2025-03-03 23:17:37 +0000"
@@ -2363,6 +2461,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_yellow": {
     "criteria": {
       "has_iron_ingot": "2025-03-03 23:01:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-03-03 23:35:59 +0000"
     },
     "done": true
   },
@@ -2393,6 +2497,12 @@
   "grave.core:recipes/white_fabric": {
     "criteria": {
       "has_wool": "2025-03-03 22:41:25 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/enchanter_upgrade": {
+    "criteria": {
+      "has_bottle": "2025-03-03 23:36:28 +0000"
     },
     "done": true
   },
