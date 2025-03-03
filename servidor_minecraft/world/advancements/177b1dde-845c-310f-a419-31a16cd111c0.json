@@ -1922,6 +1922,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-03 23:01:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-03-03 22:51:10 +0000"
@@ -2120,6 +2126,12 @@
     },
     "done": true
   },
+  "rats:recipes/combat/halo_hat": {
+    "criteria": {
+      "has_nugget": "2025-03-03 23:01:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-03-03 22:51:10 +0000"
@@ -2141,6 +2153,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-03-03 22:48:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-03-03 23:01:39 +0000"
     },
     "done": true
   },
@@ -2348,6 +2366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-03 23:01:39 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_chair": {
     "criteria": {
       "has_planks": "2025-03-03 22:48:29 +0000"
@@ -2393,6 +2417,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-03-03 22:48:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-03 23:01:35 +0000"
     },
     "done": true
   },
@@ -2498,6 +2528,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-03 23:01:39 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-03-03 22:36:53 +0000"
@@ -2561,6 +2597,18 @@
   "palladium:recipes/misc/lead_ingot_from_blasting_raw_lead": {
     "criteria": {
       "has_raw_lead": "2025-03-03 22:40:12 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/undead_upgrade": {
+    "criteria": {
+      "has_bone": "2025-03-03 23:01:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-03-03 23:01:35 +0000"
     },
     "done": true
   },

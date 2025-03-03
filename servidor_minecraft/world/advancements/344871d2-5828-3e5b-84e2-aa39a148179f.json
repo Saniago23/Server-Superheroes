@@ -980,6 +980,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-03-03 23:00:20 +0000"
+    },
+    "done": true
+  },
   "palladium:recipes/building_blocks/raw_lead_block": {
     "criteria": {
       "has_raw_lead": "2025-03-03 22:41:15 +0000"
@@ -995,6 +1001,12 @@
   "palladium:recipes/misc/lead_ingot_from_smelting_raw_lead": {
     "criteria": {
       "has_raw_lead": "2025-03-03 22:41:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_piston": {
+    "criteria": {
+      "has_redstone": "2025-03-03 23:00:20 +0000"
     },
     "done": true
   },
@@ -1028,6 +1040,12 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_note_block": {
+    "criteria": {
+      "has_redstone": "2025-03-03 23:00:20 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/cog_block": {
     "criteria": {
       "has_copper_ingot": "2025-03-03 22:41:43 +0000"
@@ -1052,6 +1070,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/basic_energy_upgrade": {
+    "criteria": {
+      "has_redstone": "2025-03-03 23:00:20 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-03-03 22:40:37 +0000"
@@ -1064,9 +1088,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-03-03 23:00:20 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2025-03-03 22:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-03-03 23:00:20 +0000"
+    },
+    "done": true
+  },
+  "grave.core:recipes/basic_battery": {
+    "criteria": {
+      "has_redstone": "2025-03-03 23:00:20 +0000"
     },
     "done": true
   },
@@ -1094,9 +1136,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2025-03-03 23:00:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-03 22:44:28 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/jury_rigged_upgrade": {
+    "criteria": {
+      "has_redstone": "2025-03-03 23:04:50 +0000"
     },
     "done": true
   },
@@ -1115,6 +1169,18 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-03-03 22:56:08 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/rat_attractor": {
+    "criteria": {
+      "has_redstone": "2025-03-03 23:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-03-03 23:00:20 +0000"
     },
     "done": true
   },
@@ -1148,9 +1214,21 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/speed_upgrade": {
+    "criteria": {
+      "has_dust": "2025-03-03 23:00:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2025-03-03 22:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-03-03 23:00:20 +0000"
     },
     "done": true
   },
@@ -1214,9 +1292,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-03-03 23:04:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-03-03 22:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-03-03 23:00:20 +0000"
     },
     "done": true
   },
@@ -1274,6 +1364,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2025-03-03 23:00:20 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-03-03 22:40:37 +0000"
@@ -1310,6 +1406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-03-03 23:00:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-03-03 22:44:28 +0000"
@@ -1319,6 +1421,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-03-03 22:56:08 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/advanced_energy_upgrade": {
+    "criteria": {
+      "has_redstone": "2025-03-03 23:04:50 +0000"
     },
     "done": true
   },
@@ -1361,6 +1469,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-03-03 22:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-03-03 23:00:20 +0000"
     },
     "done": true
   },
