@@ -2984,15 +2984,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-03-04 03:01:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-03-04 02:24:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-03-04 02:55:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-03-04 02:55:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
     "criteria": {
       "has_item": "2025-03-04 02:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-03-04 02:55:01 +0000"
     },
     "done": true
   },
@@ -3016,7 +3040,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "direct": "2025-03-04 02:24:54 +0000"
+      "direct": "2025-03-04 02:55:28 +0000"
     },
     "done": false
   },
@@ -3038,9 +3062,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-03-04 03:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-03-04 02:55:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_crate": {
     "criteria": {
       "has_log": "2025-03-04 01:57:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-03-04 03:01:11 +0000"
     },
     "done": true
   },
@@ -3095,6 +3137,18 @@
   "rats:recipes/misc/upgrades/farmer_upgrade": {
     "criteria": {
       "has_seeds": "2025-03-04 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-03-04 02:55:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-03-04 02:55:01 +0000"
     },
     "done": true
   },
@@ -3158,6 +3212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-03-04 03:01:11 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_tripwire_hook": {
     "criteria": {
       "has_string": "2025-03-04 02:05:26 +0000"
@@ -3179,6 +3239,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-03-04 02:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-04 03:01:11 +0000"
     },
     "done": true
   },
@@ -3206,6 +3272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-03-04 02:55:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_desk": {
     "criteria": {
       "has_log": "2025-03-04 01:57:40 +0000"
@@ -3221,6 +3293,18 @@
   "cfm:recipes/decorations/oak_blinds": {
     "criteria": {
       "has_log": "2025-03-04 01:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-03-04 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2025-03-04 02:55:01 +0000"
     },
     "done": true
   },
@@ -3266,9 +3350,21 @@
     },
     "done": true
   },
+  "rats:recipes/misc/purifying_liquid": {
+    "criteria": {
+      "has_diamond": "2025-03-04 02:55:01 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/white_cape": {
     "criteria": {
       "has_white_wool": "2025-03-04 01:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-03-04 02:55:01 +0000"
     },
     "done": true
   },
@@ -3284,15 +3380,33 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/big_bucket_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-03-04 02:55:01 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sack": {
     "criteria": {
       "has_string": "2025-03-04 02:05:26 +0000"
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-03-04 02:55:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-04 02:53:48 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/ore_doubling_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-03-04 02:55:01 +0000"
     },
     "done": true
   },
@@ -3344,6 +3458,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-03-04 02:55:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_kitchen_counter": {
     "criteria": {
       "has_log": "2025-03-04 01:57:40 +0000"
@@ -3353,6 +3473,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-03-04 02:49:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-03-04 02:55:01 +0000"
     },
     "done": true
   },
@@ -3398,6 +3524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-04 03:01:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-03-04 01:57:40 +0000"
@@ -3440,6 +3572,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_jukebox": {
+    "criteria": {
+      "has_diamond": "2025-03-04 02:55:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-03-04 01:56:27 +0000"
@@ -3476,6 +3614,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-04 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-03-04 03:01:11 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/rat_breeding_lantern": {
     "criteria": {
       "has_string": "2025-03-04 02:05:26 +0000"
@@ -3491,6 +3641,12 @@
   "rats:recipes/misc/hammocks/rat_hammock_white": {
     "criteria": {
       "has_wool": "2025-03-04 01:56:27 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/warrior_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-03-04 02:55:01 +0000"
     },
     "done": true
   },
@@ -3524,6 +3680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-03-04 03:01:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_coffee_table": {
     "criteria": {
       "has_planks": "2025-03-04 01:57:40 +0000"
@@ -3536,6 +3698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-03-04 02:55:01 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_gloves_repairing": {
     "criteria": {
       "has_iron_gloves": "2025-03-04 02:49:36 +0000"
@@ -3545,6 +3713,12 @@
   "rats:recipes/misc/upgrades/dragon_upgrade": {
     "criteria": {
       "has_charge": "2025-03-04 02:00:28 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/tools/diamond_machete": {
+    "criteria": {
+      "has_diamond": "2025-03-04 02:55:01 +0000"
     },
     "done": true
   },
@@ -3590,6 +3764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-04 03:01:11 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/hammocks/rat_hammock_yellow": {
     "criteria": {
       "has_string": "2025-03-04 02:05:26 +0000"
@@ -3623,6 +3803,12 @@
   "cfm:recipes/decorations/stripped_oak_chair": {
     "criteria": {
       "has_planks": "2025-03-04 01:57:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-03-04 03:01:11 +0000"
     },
     "done": true
   },
@@ -3671,7 +3857,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-04 01:54:25 +0000",
-      "bread": "2025-03-04 02:03:34 +0000"
+      "bread": "2025-03-04 02:03:34 +0000",
+      "rotten_flesh": "2025-03-04 02:57:21 +0000"
     },
     "done": false
   },
@@ -3690,6 +3877,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-03-04 02:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-03-04 02:55:01 +0000"
     },
     "done": true
   },
