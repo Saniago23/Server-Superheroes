@@ -142,6 +142,7 @@
       "coniferous_forest": "2025-03-03 18:31:33 +0000",
       "spider_nest": "2025-03-04 20:05:24 +0000",
       "dryland": "2025-03-04 04:50:30 +0000",
+      "wasteland": "2025-03-04 20:48:26 +0000",
       "lush_desert": "2025-03-04 20:23:07 +0000",
       "redwood_forest": "2025-03-04 04:37:30 +0000",
       "aspen_glade": "2025-03-03 22:47:49 +0000",
@@ -1435,6 +1436,7 @@
       "minecraft:vindicator": "2025-03-04 04:05:00 +0000",
       "minecraft:spider": "2025-03-03 22:55:01 +0000",
       "minecraft:creeper": "2025-03-03 23:31:14 +0000",
+      "minecraft:witch": "2025-03-04 20:41:33 +0000",
       "minecraft:husk": "2025-03-04 04:55:53 +0000",
       "minecraft:zombie": "2025-03-03 22:54:31 +0000",
       "minecraft:drowned": "2025-03-04 03:47:12 +0000",
@@ -5379,6 +5381,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-03-04 20:42:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-03-04 20:18:54 +0000"
@@ -5421,6 +5429,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/golem_mount_upgrade": {
+    "criteria": {
+      "has_emerald": "2025-03-04 20:42:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_sofa": {
     "criteria": {
       "has_wool": "2025-03-04 19:59:21 +0000"
@@ -5442,6 +5456,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-03-04 20:04:03 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/aristocrat_upgrade": {
+    "criteria": {
+      "has_emerald": "2025-03-04 20:42:10 +0000"
     },
     "done": true
   },
@@ -5496,6 +5516,12 @@
   "aether:recipes/combat/leather_leggings_repairing": {
     "criteria": {
       "has_leather_leggings": "2025-03-04 20:23:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-03-04 20:42:08 +0000"
     },
     "done": true
   },

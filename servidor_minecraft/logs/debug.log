@@ -12799,3 +12799,27 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 20:43:08.843] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
 [04Mar2025 20:43:15.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved too quickly! -19.973337563668025,0.0,-7.865587173076591
 [04Mar2025 20:43:44.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass has made the advancement [Convergent Evolution...]
+[04Mar2025 20:45:10.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 20:45:10.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 20:45:49.087] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:illusioner_tower/tower_2
+[04Mar2025 20:45:56.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki was slain by Zombie
+[04Mar2025 20:46:40.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki fell from a high place
+[04Mar2025 20:46:45.299] [pool-9-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=965, y=67, z=6187}
+[04Mar2025 20:46:54.394] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_4
+[04Mar2025 20:47:43.778] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[04Mar2025 20:47:43.846] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_entry/creeping_crypit_entry_house
+[04Mar2025 20:48:00.362] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[04Mar2025 20:48:00.366] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[04Mar2025 20:48:18.077] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:witch_villa/backyard/witch_villa_backyard_1
+[04Mar2025 20:48:20.697] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:ocean_ruin_pillager
+[04Mar2025 20:48:50.061] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
+[04Mar2025 20:49:03.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki burned to death
+[04Mar2025 20:49:13.890] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=76, z=9}
+[04Mar2025 20:49:14.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=78, z=9}
+[04Mar2025 20:49:25.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [Who You Gonna Call?]
+[04Mar2025 20:49:40.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 was slain by Ghost
+[04Mar2025 20:50:10.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 20:50:10.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 20:52:59.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass has made the advancement [Monster Hunter]
+[04Mar2025 20:52:59.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass was slain by Spider
+[04Mar2025 20:54:21.846] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot

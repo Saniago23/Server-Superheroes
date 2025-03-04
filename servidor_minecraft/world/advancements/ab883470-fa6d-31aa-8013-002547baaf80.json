@@ -130,6 +130,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-03-04 04:55:22 +0000",
+      "scrubland": "2025-03-04 20:44:47 +0000",
       "floodplain": "2025-03-04 20:17:19 +0000",
       "highland": "2025-03-04 04:11:58 +0000",
       "maple_woods": "2025-03-04 04:09:39 +0000",
@@ -137,6 +138,7 @@
       "orchard": "2025-03-04 04:35:03 +0000",
       "overgrown_greens": "2025-03-04 19:57:53 +0000",
       "coniferous_forest": "2025-03-03 22:33:10 +0000",
+      "spider_nest": "2025-03-04 20:46:06 +0000",
       "dryland": "2025-03-04 04:51:00 +0000",
       "lush_desert": "2025-03-04 04:54:38 +0000",
       "redwood_forest": "2025-03-04 19:51:30 +0000",
@@ -5146,6 +5148,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-03-04 20:48:52 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/tubes/rat_tube_red": {
     "criteria": {
       "has_dye": "2025-03-04 20:10:29 +0000"
@@ -5230,6 +5238,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-04 20:48:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dye_red_picket_gate": {
     "criteria": {
       "has_dye": "2025-03-04 20:10:29 +0000"
@@ -5245,6 +5259,12 @@
   "cfm:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_planks": "2025-03-04 19:52:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-04 20:49:25 +0000"
     },
     "done": true
   },
