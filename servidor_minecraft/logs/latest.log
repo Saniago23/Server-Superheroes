@@ -1830,3 +1830,42 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 20:23:29.339] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/381, l='ServerLevel[Mundo Superheroes 2]', x=553.52, y=64.54, z=7608.52] died, message: 'death.attack.traveloptics.cursed_revenants'
 [04Mar2025 20:23:52.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki lost connection: Timed out
 [04Mar2025 20:23:52.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki left the game
+[04Mar2025 20:24:47.393] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@740f7cc7[id=<null>,name=Todoroxki,properties={},legacy=false] (/127.136.36.252:36407) lost connection: Disconnected
+[04Mar2025 20:25:25.292] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@689ef68e[id=<null>,name=Todoroxki,properties={},legacy=false] (/127.136.36.252:54053) lost connection: Disconnected
+[04Mar2025 20:25:59.939] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1bbd76a0[id=<null>,name=Todoroxki,properties={},legacy=false] (/127.136.36.252:53495) lost connection: Disconnected
+[04Mar2025 20:26:45.889] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11774, l='ServerLevel[Mundo Superheroes 2]', x=298.72, y=64.00, z=6819.63] died, message: 'Villager suffocated in a wall'
+[04Mar2025 20:26:45.892] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11821, l='ServerLevel[Mundo Superheroes 2]', x=284.41, y=63.00, z=6828.66] died, message: 'Villager suffocated in a wall'
+[04Mar2025 20:26:45.893] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11824, l='ServerLevel[Mundo Superheroes 2]', x=275.37, y=63.56, z=6830.72] died, message: 'Villager suffocated in a wall'
+[04Mar2025 20:26:45.894] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11825, l='ServerLevel[Mundo Superheroes 2]', x=275.72, y=63.00, z=6828.63] died, message: 'Villager suffocated in a wall'
+[04Mar2025 20:26:45.895] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11843, l='ServerLevel[Mundo Superheroes 2]', x=264.37, y=64.00, z=6827.72] died, message: 'Villager suffocated in a wall'
+[04Mar2025 20:28:20.959] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Todoroxki[/127.136.36.252:51961] logged in with entity id 12810 at (-22.00964514452619, -14.0, 116.07519885791228)
+[04Mar2025 20:28:21.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki joined the game
+[04Mar2025 20:28:21.407] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (344871d2-5828-3e5b-84e2-aa39a148179f)
+[04Mar2025 20:28:21.407] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[04Mar2025 20:28:21.407] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Todoroxki
+[04Mar2025 20:28:21.408] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Todoroxki run scoreboard objectives add FSang.Gamerule.item dummy
+[04Mar2025 20:28:21.408] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Todoroxki run scoreboard players set .sang FSang.Gamerule.item 1
+[04Mar2025 20:28:21.408] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Todoroxki run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[04Mar2025 20:28:21.409] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Todoroxki run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[04Mar2025 20:28:24.397] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki lost connection: Disconnected
+[04Mar2025 20:28:24.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki left the game
+[04Mar2025 20:29:08.945] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11845, l='ServerLevel[Mundo Superheroes 2]', x=258.45, y=60.42, z=6819.70] died, message: 'Villager was slain by Zombie'
+[04Mar2025 20:29:08.999] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@46ae2905[id=<null>,name=Todoroxki,properties={},legacy=false] (/127.136.36.252:48195) lost connection: Disconnected
+[04Mar2025 20:29:22.860] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Todoroxki[/127.136.36.252:45721] logged in with entity id 13073 at (-22.00964514452619, -14.0, 116.07519885791228)
+[04Mar2025 20:29:22.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki joined the game
+[04Mar2025 20:29:23.246] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (344871d2-5828-3e5b-84e2-aa39a148179f)
+[04Mar2025 20:29:23.247] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[04Mar2025 20:29:23.247] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Todoroxki
+[04Mar2025 20:29:23.248] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Todoroxki run scoreboard objectives add FSang.Gamerule.item dummy
+[04Mar2025 20:29:23.248] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Todoroxki run scoreboard players set .sang FSang.Gamerule.item 1
+[04Mar2025 20:29:23.249] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Todoroxki run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[04Mar2025 20:29:23.249] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Todoroxki run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[04Mar2025 20:29:25.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki lost connection: Disconnected
+[04Mar2025 20:29:25.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki left the game
+[04Mar2025 20:29:46.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [Best Friends Forever]
+[04Mar2025 20:29:46.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass has made the advancement [Stone Age]
+[04Mar2025 20:30:11.547] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3e9a7b8d[id=<null>,name=Todoroxki,properties={},legacy=false] (/127.136.36.252:60163) lost connection: Disconnected
+[04Mar2025 20:30:45.450] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@333164aa[id=<null>,name=Todoroxki,properties={},legacy=false] (/127.136.36.252:53805) lost connection: Disconnected
+[04Mar2025 20:31:22.745] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@27ef744e[id=<null>,name=Todoroxki,properties={},legacy=false] (/127.136.36.252:45947) lost connection: Disconnected
+[04Mar2025 20:33:58.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass has made the advancement [Getting an Upgrade]
+[04Mar2025 20:34:11.194] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@609e6c57[id=<null>,name=Todoroxki,properties={},legacy=false] (/127.136.36.252:47559) lost connection: Disconnected

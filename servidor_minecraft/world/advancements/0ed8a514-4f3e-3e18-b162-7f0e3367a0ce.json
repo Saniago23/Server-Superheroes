@@ -142,6 +142,7 @@
       "coniferous_forest": "2025-03-03 18:31:33 +0000",
       "spider_nest": "2025-03-04 20:05:24 +0000",
       "dryland": "2025-03-04 04:50:30 +0000",
+      "lush_desert": "2025-03-04 20:23:07 +0000",
       "redwood_forest": "2025-03-04 04:37:30 +0000",
       "aspen_glade": "2025-03-03 22:47:49 +0000",
       "seasonal_forest": "2025-03-03 22:28:28 +0000",
@@ -1048,6 +1049,7 @@
       "apple": "2025-03-04 01:06:48 +0000",
       "cooked_cod": "2025-03-04 03:37:28 +0000",
       "bread": "2025-03-04 04:32:59 +0000",
+      "cookie": "2025-03-04 20:29:44 +0000",
       "cooked_salmon": "2025-03-04 02:55:49 +0000",
       "carrot": "2025-03-03 23:37:33 +0000"
     },
@@ -5394,6 +5396,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2025-03-04 20:23:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_upgraded_fence": {
     "criteria": {
       "has_log": "2025-03-04 20:04:03 +0000"
@@ -5484,6 +5492,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2025-03-04 20:23:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-03-04 20:04:03 +0000"
@@ -5493,6 +5507,12 @@
   "cfm:recipes/decorations/stripped_oak_cabinet": {
     "criteria": {
       "has_log": "2025-03-04 20:04:03 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2025-03-04 20:24:05 +0000"
     },
     "done": true
   },
