@@ -4434,6 +4434,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2025-03-04 03:28:11 +0000"
+    },
+    "done": true
+  },
   "rats:cheese": {
     "criteria": {
       "get_cheese": "2025-03-04 02:08:46 +0000"
@@ -4551,6 +4557,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-03-04 02:41:45 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-03-04 03:26:43 +0000"
     },
     "done": true
   },
@@ -4971,6 +4983,12 @@
   "rats:recipes/misc/upgrades/support_upgrade": {
     "criteria": {
       "has_bottle": "2025-03-04 02:38:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_shovel_repairing": {
+    "criteria": {
+      "has_stone_shovel": "2025-03-04 03:24:33 +0000"
     },
     "done": true
   },

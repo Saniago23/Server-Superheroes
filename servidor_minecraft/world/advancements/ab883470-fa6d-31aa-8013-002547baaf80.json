@@ -3860,6 +3860,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-03-04 03:27:50 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/hammocks/hammock_dyed_white": {
     "criteria": {
       "has_dye": "2025-03-04 02:11:28 +0000"

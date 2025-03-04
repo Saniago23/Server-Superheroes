@@ -8810,3 +8810,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 03:18:55.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=818, y=74, z=7402} BlockPos{x=819, y=71, z=7403}
 [04Mar2025 03:23:51.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
 [04Mar2025 03:23:51.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 03:26:43.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [Yellow Brick Road]
+[04Mar2025 03:28:11.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [Carbonated Swim]
+[04Mar2025 03:28:46.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Todoroxki> 208 8 -243
+[04Mar2025 03:28:51.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 03:28:51.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 03:28:53.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Todoroxki> 208 8 -423
+[04Mar2025 03:30:08.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Todoroxki> 209 5 -243
+[04Mar2025 03:30:15.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Todoroxki> 209 5 -423
+[04Mar2025 03:33:51.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 03:33:51.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 03:34:15.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 fell from a high place
