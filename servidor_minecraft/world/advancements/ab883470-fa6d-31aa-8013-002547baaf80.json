@@ -132,6 +132,7 @@
       "highland": "2025-03-04 04:11:58 +0000",
       "maple_woods": "2025-03-04 04:09:39 +0000",
       "field": "2025-03-04 04:15:19 +0000",
+      "orchard": "2025-03-04 04:35:03 +0000",
       "coniferous_forest": "2025-03-03 22:33:10 +0000",
       "aspen_glade": "2025-03-03 22:48:27 +0000",
       "seasonal_forest": "2025-03-03 23:19:51 +0000",
@@ -139,6 +140,7 @@
       "fir_clearing": "2025-03-03 22:45:13 +0000",
       "pumpkin_patch": "2025-03-04 04:08:32 +0000",
       "gravel_beach": "2025-03-04 03:56:04 +0000",
+      "rainforest": "2025-03-04 04:43:38 +0000",
       "crag": "2025-03-03 22:40:52 +0000"
     },
     "done": false
@@ -1282,6 +1284,7 @@
       "cooked_porkchop": "2025-03-03 22:58:10 +0000",
       "cooked_mutton": "2025-03-04 02:31:37 +0000",
       "cooked_beef": "2025-03-03 22:52:20 +0000",
+      "apple": "2025-03-04 04:25:47 +0000",
       "bread": "2025-03-04 01:58:51 +0000",
       "rotten_flesh": "2025-03-04 01:20:56 +0000",
       "cooked_chicken": "2025-03-04 01:23:03 +0000",
@@ -1435,11 +1438,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-03-04 04:26:52 +0000",
+      "minecraft:taiga": "2025-03-04 04:25:04 +0000",
+      "minecraft:birch_forest": "2025-03-04 04:40:17 +0000",
       "minecraft:beach": "2025-03-04 02:43:21 +0000",
       "minecraft:river": "2025-03-03 22:53:30 +0000",
       "minecraft:stony_shore": "2025-03-03 22:53:46 +0000",
       "minecraft:cold_ocean": "2025-03-04 02:38:16 +0000",
       "minecraft:forest": "2025-03-04 01:59:02 +0000",
+      "minecraft:jungle": "2025-03-04 04:40:31 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-03-04 04:25:12 +0000",
       "minecraft:meadow": "2025-03-03 23:35:00 +0000",
       "minecraft:plains": "2025-03-03 23:34:01 +0000"
     },
@@ -3014,6 +3022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-03-04 04:40:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
     "criteria": {
       "has_item": "2025-03-04 02:25:47 +0000"
@@ -3050,6 +3064,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:24:55 +0000"
+    },
+    "done": true
+  },
   "palladium:recipes/building_blocks/raw_lead_block": {
     "criteria": {
       "has_raw_lead": "2025-03-04 03:37:37 +0000"
@@ -3059,6 +3079,12 @@
   "cfm:recipes/decorations/gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:24:55 +0000"
     },
     "done": true
   },
@@ -3091,6 +3117,18 @@
       "has_gravel": "2025-03-04 02:20:50 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:24:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-03-04 04:37:59 +0000"
+    },
+    "done": false
   },
   "aether:recipes/misc/aether_iron_nugget_from_smelting": {
     "criteria": {
@@ -3125,6 +3163,12 @@
   "rats:recipes/food/cooked_rat_smelting": {
     "criteria": {
       "has_rat": "2025-03-04 03:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:24:55 +0000"
     },
     "done": true
   },
@@ -3200,6 +3244,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:24:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:24:55 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/maple_wood": {
     "criteria": {
       "has_log": "2025-03-04 02:44:01 +0000"
@@ -3212,9 +3268,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:24:55 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-03-04 04:40:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:24:55 +0000"
     },
     "done": true
   },
@@ -3233,6 +3307,12 @@
   "cfm:recipes/decorations/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:24:55 +0000"
     },
     "done": true
   },
@@ -3380,6 +3460,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-04 04:40:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-04 03:00:22 +0000"
@@ -3407,6 +3493,12 @@
   "cfm:recipes/decorations/cyan_cooler": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:51 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:24:55 +0000"
     },
     "done": true
   },
@@ -3440,9 +3532,21 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:24:55 +0000"
+    },
+    "done": true
+  },
   "grave.core:recipes/blast_silicon_wafer": {
     "criteria": {
       "has_amethyst_shard": "2025-03-04 03:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:24:55 +0000"
     },
     "done": true
   },
@@ -3539,6 +3643,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-04 03:40:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:24:55 +0000"
     },
     "done": true
   },
@@ -3764,6 +3874,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:24:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:24:55 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_mail_box": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:51 +0000"
@@ -3887,6 +4009,12 @@
   "rats:recipes/misc/upgrades/underwater_upgrade": {
     "criteria": {
       "has_gravel": "2025-03-04 02:20:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-03-04 04:24:55 +0000"
     },
     "done": true
   },
@@ -4082,6 +4210,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:24:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2025-03-04 02:11:28 +0000"
@@ -4097,6 +4231,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-04 03:40:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:24:55 +0000"
     },
     "done": true
   },
@@ -4148,6 +4288,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:24:55 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2025-03-04 03:43:27 +0000"
@@ -4190,6 +4336,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:24:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:24:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:24:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-04 04:25:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-03-04 02:25:47 +0000"
@@ -4211,6 +4381,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-03-04 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:24:55 +0000"
     },
     "done": true
   },
@@ -4292,6 +4468,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:24:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-04 03:00:22 +0000"
@@ -4361,6 +4543,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-03-04 02:20:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-04 04:25:14 +0000"
     },
     "done": true
   },
@@ -4592,6 +4780,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:24:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-03-04 03:40:01 +0000"
@@ -4667,6 +4861,12 @@
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2025-03-04 03:59:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:24:55 +0000"
     },
     "done": true
   },

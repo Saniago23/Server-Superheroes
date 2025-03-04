@@ -10029,3 +10029,50 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 04:24:37.988] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_7
 [04Mar2025 04:24:37.989] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_6
 [04Mar2025 04:24:40.948] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_15
+[04Mar2025 04:28:51.262] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[04Mar2025 04:28:51.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 04:28:51.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 04:28:58.125] [Worker-Main-28/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[04Mar2025 04:29:19.777] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[04Mar2025 04:30:34.527] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:mausoleum/building
+[04Mar2025 04:31:44.853] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_8
+[04Mar2025 04:33:51.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 04:33:51.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 04:36:16.183] [pool-9-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=955, y=97, z=3659}
+[04Mar2025 04:37:22.750] [pool-9-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=939, y=97, z=3973}
+[04Mar2025 04:38:51.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 04:38:51.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 04:39:56.002] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_7b
+[04Mar2025 04:39:56.665] [Worker-Main-28/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_hut_2 is being run through DFU (hash 86371af7267837aec071c2e40f75549e7be1b9cbdd30b9cf2cb1f292f6efb01b), this will cause launch time delays
+[04Mar2025 04:40:22.555] [Worker-Main-1/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_post_3 is being run through DFU (hash 098a96c1a7e55c9cbdb4a3557e3c4f79ef3da84d6e3475caad59ad5d8378959e), this will cause launch time delays
+[04Mar2025 04:40:22.562] [Worker-Main-1/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_hut_5 is being run through DFU (hash 4508266768d86a4355f9a13c8c1816e664e94bab9cb0556f50251788c70eecfb), this will cause launch time delays
+[04Mar2025 04:40:22.795] [Worker-Main-14/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_post_0 is being run through DFU (hash 41993b47b6a299d7545695cd0b2fb42a1c1bc03231a57947687cef1527cdd088), this will cause launch time delays
+[04Mar2025 04:40:22.906] [Worker-Main-2/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_post_2 is being run through DFU (hash 468b86aeb448489afb2a344fbae2d31528221d5c9de630efb2a41f68665feae0), this will cause launch time delays
+[04Mar2025 04:40:23.151] [Worker-Main-28/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_post_1 is being run through DFU (hash 206fb607e4a9c0ccef89bff4d8f756f8e92f47141f1711c8daa500bd79445f43), this will cause launch time delays
+[04Mar2025 04:40:59.931] [Worker-Main-1/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_hut_4 is being run through DFU (hash 1b220da911d5ed271f3af186764277519fde475840912a6fd4a27c455f0267cf), this will cause launch time delays
+[04Mar2025 04:41:09.707] [Worker-Main-28/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_hut_3 is being run through DFU (hash 1e3908db605d8826f0a9ae463ed633837cec70a4c8c9fdc9259d18995b0b0bd8), this will cause launch time delays
+[04Mar2025 04:42:18.400] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1086, y=-4, z=4868}
+[04Mar2025 04:42:18.409] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1086, y=-4, z=4868}
+[04Mar2025 04:42:24.324] [Worker-Main-14/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1087, y=-4, z=4879}
+[04Mar2025 04:42:24.324] [Worker-Main-14/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1086, y=-4, z=4868}
+[04Mar2025 04:42:24.326] [Worker-Main-14/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1076, y=3, z=4867}
+[04Mar2025 04:42:24.905] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1086, y=-4, z=4868}
+[04Mar2025 04:43:13.938] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1087, y=-4, z=4879}
+[04Mar2025 04:43:13.939] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1093, y=-4, z=4874}
+[04Mar2025 04:43:13.955] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1104, y=-11, z=4880}
+[04Mar2025 04:43:51.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 04:43:51.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 04:43:56.861] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[04Mar2025 04:44:04.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bryanc2613> xaero-waypoint:Umvuthi The Sun Bird:U:950:65:6145:3:false:0:Internal-overworld-waypoints
+[04Mar2025 04:44:50.392] [pool-9-thread-5/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=981, y=69, z=5173}
+[04Mar2025 04:44:50.904] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center3
+[04Mar2025 04:44:50.908] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center3
+[04Mar2025 04:45:09.543] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_acacia
+[04Mar2025 04:45:09.545] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_acacia
+[04Mar2025 04:45:09.546] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_acacia
+[04Mar2025 04:45:09.546] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_acacia
+[04Mar2025 04:45:09.547] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_acacia
+[04Mar2025 04:45:09.548] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_acacia
+[04Mar2025 04:45:28.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Safe Haven]
+[04Mar2025 04:45:29.586] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[04Mar2025 04:45:40.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Safe Haven]
