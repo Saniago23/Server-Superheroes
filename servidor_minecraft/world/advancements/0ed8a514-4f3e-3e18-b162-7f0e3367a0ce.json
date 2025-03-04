@@ -793,6 +793,7 @@
       "minecraft:snowy_plains": "2025-03-03 22:55:29 +0000",
       "minecraft:stony_shore": "2025-03-03 22:38:16 +0000",
       "minecraft:snowy_taiga": "2025-03-03 22:55:32 +0000",
+      "minecraft:cold_ocean": "2025-03-04 02:38:16 +0000",
       "minecraft:forest": "2025-03-03 22:55:38 +0000",
       "minecraft:meadow": "2025-03-03 22:57:57 +0000",
       "minecraft:plains": "2025-03-03 22:38:05 +0000"
@@ -2818,6 +2819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-03-04 02:38:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-03-04 01:55:36 +0000"
@@ -2908,9 +2915,21 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-03-04 02:38:43 +0000"
+    },
+    "done": false
+  },
   "rats:recipes/misc/hammocks/rat_hammock_brown": {
     "criteria": {
       "has_string": "2025-03-04 02:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-03-04 02:32:52 +0000"
     },
     "done": true
   },
@@ -2971,6 +2990,18 @@
   "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-04 02:38:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-04 02:38:26 +0000"
     },
     "done": true
   },
@@ -3223,6 +3254,12 @@
   "cfm:recipes/decorations/acacia_mail_box": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-03-04 02:32:52 +0000"
     },
     "done": true
   },
@@ -3520,9 +3557,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-04 02:38:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-03-04 02:33:08 +0000"
     },
     "done": true
   },
@@ -3535,6 +3584,12 @@
   "cfm:recipes/decorations/birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2025-03-04 02:32:58 +0000"
     },
     "done": true
   },
@@ -3718,6 +3773,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/aquatic_upgrade": {
+    "criteria": {
+      "has_feesh": "2025-03-04 02:38:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:48 +0000"
@@ -3772,6 +3833,12 @@
     },
     "done": true
   },
+  "rats:recipes/building_blocks/fish_barrel": {
+    "criteria": {
+      "has_fish": "2025-03-04 02:38:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_carpet": {
     "criteria": {
       "has_needed_dye": "2025-03-04 02:11:24 +0000"
@@ -3796,6 +3863,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-03-04 02:33:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-03-04 02:20:57 +0000"
@@ -3811,6 +3884,12 @@
   "cfm:recipes/decorations/black_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:48 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/fisherman_upgrade": {
+    "criteria": {
+      "has_fish": "2025-03-04 02:38:26 +0000"
     },
     "done": true
   },
@@ -3898,6 +3977,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-04 02:38:26 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/hammocks/rat_hammock_light_blue": {
     "criteria": {
       "has_string": "2025-03-04 02:08:28 +0000"
@@ -3934,6 +4019,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-03-04 02:34:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:48 +0000"
@@ -3967,6 +4058,12 @@
   "cfm:recipes/decorations/lime_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-03-04 02:38:26 +0000"
     },
     "done": true
   },

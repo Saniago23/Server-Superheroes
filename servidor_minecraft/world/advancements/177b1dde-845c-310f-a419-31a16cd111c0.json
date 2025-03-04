@@ -4430,9 +4430,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-04 02:38:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-03-04 01:55:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-04 02:38:13 +0000"
     },
     "done": true
   },
@@ -4450,9 +4462,27 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "direct": "2025-03-04 02:11:51 +0000"
+      "direct": "2025-03-04 02:32:33 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-04 02:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-04 02:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-04 02:38:13 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
@@ -4460,9 +4490,21 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/asbestos_upgrade": {
+    "criteria": {
+      "has_glass": "2025-03-04 02:38:13 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/cheese": {
     "criteria": {
       "has_cheese": "2025-03-04 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/remedy_upgrade": {
+    "criteria": {
+      "has_bottle": "2025-03-04 02:38:30 +0000"
     },
     "done": true
   },
@@ -4475,6 +4517,12 @@
   "supplementaries:recipes/sign_post_spruce": {
     "criteria": {
       "has_the_recipe": "2025-03-04 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-04 02:38:13 +0000"
     },
     "done": true
   },
@@ -4493,6 +4541,24 @@
   "rats:recipes/building_blocks/block_of_cheese": {
     "criteria": {
       "has_cheese": "2025-03-04 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-04 02:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-04 02:38:13 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/golem_mount_upgrade": {
+    "criteria": {
+      "has_glass": "2025-03-04 02:38:13 +0000"
     },
     "done": true
   },
@@ -4520,9 +4586,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-04 02:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-04 02:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-04 02:38:13 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/building_blocks/auto_curdler": {
     "criteria": {
       "has_cheese": "2025-03-04 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-04 02:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-03-04 02:32:01 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/crimson_liquid": {
+    "criteria": {
+      "has_bottle": "2025-03-04 02:38:30 +0000"
     },
     "done": true
   },
@@ -4556,6 +4658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-04 02:38:13 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_spruce": {
     "criteria": {
       "has_planks": "2025-03-04 02:21:42 +0000"
@@ -4565,6 +4673,24 @@
   "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
     "criteria": {
       "has_pink_daffodil": "2025-03-04 02:23:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-03-04 02:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-04 02:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-04 02:38:13 +0000"
     },
     "done": true
   },
@@ -4592,6 +4718,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-03-04 02:38:13 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/support_upgrade": {
+    "criteria": {
+      "has_bottle": "2025-03-04 02:38:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-03-04 01:55:26 +0000"
@@ -4613,6 +4751,30 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-04 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-04 02:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-04 02:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-04 02:32:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-03-04 02:34:07 +0000"
     },
     "done": true
   },
