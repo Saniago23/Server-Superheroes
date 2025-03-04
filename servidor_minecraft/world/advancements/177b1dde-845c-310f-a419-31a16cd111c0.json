@@ -4548,6 +4548,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-04 03:43:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-03-04 02:41:45 +0000"
@@ -4565,6 +4571,12 @@
       "has_glass": "2025-03-04 02:38:13 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-03-04 03:51:22 +0000"
+    },
+    "done": false
   },
   "rats:recipes/misc/cheese": {
     "criteria": {
@@ -4671,6 +4683,12 @@
   "rats:recipes/building_blocks/block_of_cheese": {
     "criteria": {
       "has_cheese": "2025-03-04 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-03-04 03:43:59 +0000"
     },
     "done": true
   },
@@ -4926,6 +4944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-04 03:48:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-04 02:38:13 +0000"
@@ -5013,6 +5037,12 @@
   "aether:recipes/tools/stone_shovel_repairing": {
     "criteria": {
       "has_stone_shovel": "2025-03-04 03:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-04 03:48:31 +0000"
     },
     "done": true
   },

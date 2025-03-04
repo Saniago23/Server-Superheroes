@@ -1406,6 +1406,7 @@
       "minecraft:spider": "2025-03-03 22:55:01 +0000",
       "minecraft:creeper": "2025-03-03 23:31:14 +0000",
       "minecraft:zombie": "2025-03-03 22:54:31 +0000",
+      "minecraft:drowned": "2025-03-04 03:47:12 +0000",
       "minecraft:zombie_villager": "2025-03-03 23:09:39 +0000"
     },
     "done": false
@@ -2997,7 +2998,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "direct": "2025-03-04 03:15:28 +0000"
+      "direct": "2025-03-04 03:49:21 +0000"
     },
     "done": false
   },

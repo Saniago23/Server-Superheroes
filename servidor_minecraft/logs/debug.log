@@ -8831,3 +8831,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 03:42:16.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [Pic-A-Nic Basket?]
 [04Mar2025 03:43:51.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
 [04Mar2025 03:43:51.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 03:47:09.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved too quickly! -16.927146186431713,0.41999998688697815,-13.417594437625496
+[04Mar2025 03:47:36.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki was shot by Skeleton
+[04Mar2025 03:48:51.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 03:48:51.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 03:49:54.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki fell from a high place
+[04Mar2025 03:51:53.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[04Mar2025 03:52:17.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 lost connection: Disconnected
+[04Mar2025 03:52:17.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 left the game
+[04Mar2025 03:53:51.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 03:53:51.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2

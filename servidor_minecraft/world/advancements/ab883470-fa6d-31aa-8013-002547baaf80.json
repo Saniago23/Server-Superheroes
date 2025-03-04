@@ -1279,7 +1279,8 @@
       "cooked_beef": "2025-03-03 22:52:20 +0000",
       "bread": "2025-03-04 01:58:51 +0000",
       "rotten_flesh": "2025-03-04 01:20:56 +0000",
-      "cooked_chicken": "2025-03-04 01:23:03 +0000"
+      "cooked_chicken": "2025-03-04 01:23:03 +0000",
+      "cooked_salmon": "2025-03-04 03:50:28 +0000"
     },
     "done": false
   },
@@ -2990,6 +2991,12 @@
     },
     "done": true
   },
+  "rats:plague": {
+    "criteria": {
+      "catch_plague": "2025-03-04 03:50:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-03-04 02:26:28 +0000"
@@ -3101,6 +3108,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-04 03:00:22 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/cooked_rat_smelting": {
+    "criteria": {
+      "has_rat": "2025-03-04 03:50:25 +0000"
     },
     "done": true
   },
@@ -3527,6 +3540,12 @@
   "cfm:recipes/decorations/acacia_mail_box": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:51 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/cooked_rat_campfire": {
+    "criteria": {
+      "has_rat": "2025-03-04 03:50:25 +0000"
     },
     "done": true
   },
@@ -4409,6 +4428,12 @@
   "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
       "has_needed_dye": "2025-03-04 02:11:28 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/cooked_rat_smoking": {
+    "criteria": {
+      "has_rat": "2025-03-04 03:50:25 +0000"
     },
     "done": true
   },
