@@ -130,6 +130,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "maple_woods": "2025-03-04 04:09:53 +0000",
+      "field": "2025-03-04 04:20:08 +0000",
       "coniferous_forest": "2025-03-03 22:25:26 +0000",
       "seasonal_forest": "2025-03-03 22:28:23 +0000",
       "pumpkin_patch": "2025-03-04 04:07:36 +0000",
@@ -3061,6 +3062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-03-04 04:14:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-03-04 04:06:15 +0000"
@@ -3069,7 +3076,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "direct": "2025-03-04 04:10:19 +0000"
+      "direct": "2025-03-04 04:19:18 +0000"
     },
     "done": false
   },
@@ -3133,6 +3140,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-04 04:14:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_blackstone": "2025-03-04 04:14:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-04 04:14:25 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/rat_seed_bowl": {
     "criteria": {
       "has_seeds": "2025-03-04 02:13:22 +0000"
@@ -3160,6 +3185,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-04 02:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-04 04:14:25 +0000"
     },
     "done": true
   },
@@ -3277,6 +3308,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-03-04 04:14:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-03-04 04:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-04 04:14:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-04 02:53:48 +0000"
@@ -3343,9 +3392,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-03-04 04:14:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-03-04 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-04 04:14:25 +0000"
     },
     "done": true
   },
@@ -3412,6 +3473,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-03-04 02:55:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-03-04 04:16:53 +0000"
     },
     "done": true
   },
@@ -3583,6 +3650,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-04 04:14:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-04 03:01:11 +0000"
@@ -3739,6 +3812,18 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/lumberjack_upgrade": {
+    "criteria": {
+      "has_sapling": "2025-03-04 04:18:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_bulb": {
+    "criteria": {
+      "has_blackstone": "2025-03-04 04:14:25 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/warrior_upgrade": {
     "criteria": {
       "has_diamond": "2025-03-04 02:55:01 +0000"
@@ -3754,6 +3839,12 @@
   "aether:recipes/misc/aether_iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_gloves": "2025-03-04 02:49:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "has_blackstone": "2025-03-04 04:14:25 +0000"
     },
     "done": true
   },
@@ -3775,9 +3866,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-04 04:14:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-03-04 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-04 04:14:25 +0000"
     },
     "done": true
   },
@@ -3811,9 +3914,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/blackstone_spines": {
+    "criteria": {
+      "has_blackstone": "2025-03-04 04:14:25 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/tools/diamond_machete": {
     "criteria": {
       "has_diamond": "2025-03-04 02:55:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-04 04:14:25 +0000"
     },
     "done": true
   },
@@ -3853,6 +3968,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-03-04 04:14:25 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/breeder_upgrade": {
     "criteria": {
       "has_seeds": "2025-03-04 02:13:22 +0000"
@@ -3862,6 +3983,12 @@
   "rats:recipes/misc/upgrades/undead_upgrade": {
     "criteria": {
       "has_flesh": "2025-03-04 02:05:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-03-04 04:16:53 +0000"
     },
     "done": true
   },
@@ -3892,6 +4019,12 @@
   "rats:recipes/misc/upgrades/shears_upgrade": {
     "criteria": {
       "has_wool": "2025-03-04 01:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-04 04:14:25 +0000"
     },
     "done": true
   },
@@ -3931,6 +4064,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-04 04:14:25 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/hammocks/rat_hammock_pink": {
     "criteria": {
       "has_string": "2025-03-04 02:05:26 +0000"
@@ -3952,6 +4091,12 @@
   "aether:recipes/tools/stone_axe_repairing": {
     "criteria": {
       "has_stone_axe": "2025-03-04 01:57:07 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/blackstone_furnace": {
+    "criteria": {
+      "has_blackstone": "2025-03-04 04:14:25 +0000"
     },
     "done": true
   },
@@ -4000,9 +4145,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-04 04:14:25 +0000"
+    },
+    "done": true
+  },
   "grave.core:recipes/white_fabric": {
     "criteria": {
       "has_wool": "2025-03-04 01:56:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_spines_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-04 04:14:25 +0000"
     },
     "done": true
   },

@@ -131,6 +131,7 @@
     "criteria": {
       "highland": "2025-03-04 04:11:58 +0000",
       "maple_woods": "2025-03-04 04:09:39 +0000",
+      "field": "2025-03-04 04:15:19 +0000",
       "coniferous_forest": "2025-03-03 22:33:10 +0000",
       "aspen_glade": "2025-03-03 22:48:27 +0000",
       "seasonal_forest": "2025-03-03 23:19:51 +0000",
@@ -3136,6 +3137,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-03-04 03:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-03-04 04:16:00 +0000"
     },
     "done": true
   },

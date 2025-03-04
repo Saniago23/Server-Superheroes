@@ -131,6 +131,7 @@
     "criteria": {
       "highland": "2025-03-03 22:46:38 +0000",
       "maple_woods": "2025-03-04 04:09:48 +0000",
+      "field": "2025-03-04 04:19:51 +0000",
       "coniferous_forest": "2025-03-03 18:31:33 +0000",
       "aspen_glade": "2025-03-03 22:47:49 +0000",
       "seasonal_forest": "2025-03-03 22:28:28 +0000",
@@ -2843,6 +2844,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-03-04 04:15:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:48 +0000"
@@ -3323,6 +3330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-03-04 04:15:38 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/combat/fisherman_hat": {
     "criteria": {
       "has_string": "2025-03-04 02:08:28 +0000"
@@ -3587,6 +3600,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-04 04:17:34 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candy": {
     "criteria": {
       "has_paper": "2025-03-04 03:08:50 +0000"
@@ -3644,6 +3663,12 @@
   "cfm:recipes/decorations/jungle_mail_box": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-03-04 04:20:56 +0000"
     },
     "done": true
   },
@@ -4253,6 +4278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-03-04 04:15:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/crimson_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-03-04 03:12:33 +0000"
@@ -4829,6 +4860,12 @@
     },
     "done": true
   },
+  "aether:recipes/food/moa_egg_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-03-04 04:15:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-03-04 02:38:26 +0000"
@@ -4862,6 +4899,12 @@
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2025-03-04 02:54:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-04 04:17:34 +0000"
     },
     "done": true
   },

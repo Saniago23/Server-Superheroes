@@ -1559,3 +1559,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 04:06:31.536] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as bryanc2613 run scoreboard objectives add FSang.Gamerule.symbiote dummy
 [04Mar2025 04:06:31.536] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as bryanc2613 run scoreboard players set .sang FSang.Gamerule.symbiote 1
 [04Mar2025 04:11:30.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bryanc2613> xaero-waypoint:aldeita:A:581:66:7646:4:false:0:Internal-overworld-waypoints
+[04Mar2025 04:15:48.775] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/27815, l='ServerLevel[Mundo Superheroes 2]', x=612.30, y=66.00, z=7668.35] died, message: 'Villager was slain by Zombie'
+[04Mar2025 04:16:53.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Hunt and Gather]
+[04Mar2025 04:17:34.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Ice Bucket Challenge]
+[04Mar2025 04:23:37.592] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
