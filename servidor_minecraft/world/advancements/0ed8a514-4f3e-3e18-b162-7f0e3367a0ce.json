@@ -130,10 +130,12 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "highland": "2025-03-03 22:46:38 +0000",
+      "maple_woods": "2025-03-04 04:09:48 +0000",
       "coniferous_forest": "2025-03-03 18:31:33 +0000",
       "aspen_glade": "2025-03-03 22:47:49 +0000",
       "seasonal_forest": "2025-03-03 22:28:28 +0000",
       "fir_clearing": "2025-03-03 22:49:53 +0000",
+      "pumpkin_patch": "2025-03-04 04:08:30 +0000",
       "gravel_beach": "2025-03-04 02:05:59 +0000"
     },
     "done": false
@@ -1403,6 +1405,7 @@
     "criteria": {
       "minecraft:pillager": "2025-03-04 02:10:18 +0000",
       "minecraft:skeleton": "2025-03-03 23:08:54 +0000",
+      "minecraft:vindicator": "2025-03-04 04:05:00 +0000",
       "minecraft:spider": "2025-03-03 22:55:01 +0000",
       "minecraft:creeper": "2025-03-03 23:31:14 +0000",
       "minecraft:zombie": "2025-03-03 22:54:31 +0000",
@@ -2792,6 +2795,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/poison_upgrade": {
+    "criteria": {
+      "has_eye": "2025-03-04 04:10:20 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/packed_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2025-03-04 03:19:44 +0000"
@@ -2996,12 +3005,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "direct": "2025-03-04 03:56:08 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/decorations/magenta_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-03-04 03:12:33 +0000"
@@ -3035,6 +3038,12 @@
   "grave.ht:recipes/blue_paper": {
     "criteria": {
       "has_paper": "2025-03-04 03:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-03-04 04:13:50 +0000"
     },
     "done": true
   },
@@ -3143,6 +3152,12 @@
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-03-04 02:38:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-03-04 04:13:50 +0000"
     },
     "done": true
   },
@@ -3281,6 +3296,12 @@
   "rats:recipes/misc/hammocks/rat_hammock_purple": {
     "criteria": {
       "has_string": "2025-03-04 02:08:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-03-04 04:05:20 +0000"
     },
     "done": true
   },
@@ -3770,6 +3791,12 @@
     },
     "done": true
   },
+  "rats:plague_doctor": {
+    "criteria": {
+      "meet_doctor": "2025-03-04 04:06:09 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/milker_upgrade": {
     "criteria": {
       "has_leather": "2025-03-04 02:03:00 +0000"
@@ -3914,6 +3941,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2025-03-04 04:13:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_cooler": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:48 +0000"
@@ -4016,6 +4049,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-03-04 04:05:10 +0000"
+    },
+    "done": false
+  },
   "rats:recipes/misc/upgrades/speed_upgrade": {
     "criteria": {
       "has_dust": "2025-03-04 02:48:31 +0000"
@@ -4028,9 +4067,21 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2025-03-04 04:13:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-04 04:13:50 +0000"
     },
     "done": true
   },
@@ -4166,6 +4217,12 @@
     },
     "done": true
   },
+  "rats:recipes/combat/farmer_hat": {
+    "criteria": {
+      "has_hay": "2025-03-04 04:05:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-04 01:59:58 +0000"
@@ -4247,6 +4304,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-04 02:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-04 04:13:50 +0000"
     },
     "done": true
   },
@@ -4424,6 +4487,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-04 04:13:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-04 01:59:58 +0000"
@@ -4457,6 +4526,12 @@
   "supplementaries:recipes/altimeter": {
     "criteria": {
       "has_redstone": "2025-03-04 02:48:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-04 04:10:20 +0000"
     },
     "done": true
   },
@@ -4739,6 +4814,12 @@
   "supplementaries:recipes/stonecutting/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2025-03-04 02:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-03-04 04:05:20 +0000"
     },
     "done": true
   },

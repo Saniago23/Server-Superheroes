@@ -5172,5 +5172,23 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-03-04 04:08:24 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/aquatic_upgrade": {
+    "criteria": {
+      "has_barrel": "2025-03-04 04:07:14 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/fisherman_upgrade": {
+    "criteria": {
+      "has_barrel": "2025-03-04 04:07:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

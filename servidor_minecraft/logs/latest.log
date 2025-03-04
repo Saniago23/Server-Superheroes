@@ -1549,3 +1549,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 04:02:58.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Sweet Dreams]
 [04Mar2025 04:02:59.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Sweet Dreams]
 [04Mar2025 04:03:39.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Mine? Mine? Mine?]
+[04Mar2025 04:06:31.130] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bryanc2613[/127.142.62.170:44611] logged in with entity id 27800 at (619.7256646829629, 70.0625, 7663.659723029019)
+[04Mar2025 04:06:31.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 joined the game
+[04Mar2025 04:06:31.535] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (177b1dde-845c-310f-a419-31a16cd111c0)
+[04Mar2025 04:06:31.535] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[04Mar2025 04:06:31.535] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: bryanc2613
+[04Mar2025 04:06:31.536] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as bryanc2613 run scoreboard objectives add FSang.Gamerule.item dummy
+[04Mar2025 04:06:31.536] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as bryanc2613 run scoreboard players set .sang FSang.Gamerule.item 1
+[04Mar2025 04:06:31.536] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as bryanc2613 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[04Mar2025 04:06:31.536] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as bryanc2613 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[04Mar2025 04:11:30.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bryanc2613> xaero-waypoint:aldeita:A:581:66:7646:4:false:0:Internal-overworld-waypoints
