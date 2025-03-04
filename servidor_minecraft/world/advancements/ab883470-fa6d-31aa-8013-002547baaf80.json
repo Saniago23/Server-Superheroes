@@ -5224,6 +5224,12 @@
     },
     "done": true
   },
+  "rats:all_hats": {
+    "criteria": {
+      "has_archeologist_hat": "2025-03-04 20:36:14 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/dye_red_picket_gate": {
     "criteria": {
       "has_dye": "2025-03-04 20:10:29 +0000"
