@@ -132,12 +132,15 @@
       "woodland": "2025-03-04 19:58:03 +0000",
       "shrubland": "2025-03-04 04:36:50 +0000",
       "scrubland": "2025-03-04 04:45:19 +0000",
+      "floodplain": "2025-03-04 20:07:18 +0000",
       "highland": "2025-03-03 22:46:38 +0000",
+      "old_growth_woodland": "2025-03-04 20:08:50 +0000",
       "maple_woods": "2025-03-04 04:09:48 +0000",
       "field": "2025-03-04 04:19:51 +0000",
       "orchard": "2025-03-04 04:37:29 +0000",
       "overgrown_greens": "2025-03-04 04:37:25 +0000",
       "coniferous_forest": "2025-03-03 18:31:33 +0000",
+      "spider_nest": "2025-03-04 20:05:24 +0000",
       "dryland": "2025-03-04 04:50:30 +0000",
       "redwood_forest": "2025-03-04 04:37:30 +0000",
       "aspen_glade": "2025-03-03 22:47:49 +0000",
@@ -5373,6 +5376,24 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-03-04 20:04:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-03-04 20:04:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_blinds": {
+    "criteria": {
+      "has_log": "2025-03-04 20:04:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_sofa": {
     "criteria": {
       "has_wool": "2025-03-04 19:59:21 +0000"
@@ -5385,9 +5406,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-03-04 20:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-04 20:04:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-03-04 20:04:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-03-04 20:04:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-03-04 20:04:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-03-04 19:59:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_table": {
+    "criteria": {
+      "has_planks": "2025-03-04 20:04:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-04 20:04:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-04 20:04:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-04 20:04:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-03-04 20:04:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-03-04 20:04:03 +0000"
     },
     "done": true
   },
@@ -5400,6 +5487,12 @@
   "grave.core:recipes/gray_fabric": {
     "criteria": {
       "has_wool": "2025-03-04 19:59:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-03-04 20:04:03 +0000"
     },
     "done": true
   },

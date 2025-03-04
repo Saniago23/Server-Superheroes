@@ -4969,6 +4969,18 @@
     },
     "done": true
   },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-03-04 20:08:35 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/cannonball": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-04 20:08:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_crate": {
     "criteria": {
       "has_planks": "2025-03-04 19:52:09 +0000"
@@ -5011,6 +5023,12 @@
     },
     "done": true
   },
+  "alekiships:recipes/crafting/crafting/cleat": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-04 20:08:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_table": {
     "criteria": {
       "has_planks": "2025-03-04 19:52:09 +0000"
@@ -5020,6 +5038,18 @@
   "cfm:recipes/decorations/oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-03-04 19:52:09 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/anchor": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-04 20:08:35 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/oarlock": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-04 20:08:35 +0000"
     },
     "done": true
   },
