@@ -3142,6 +3142,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-03-04 05:25:42 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/misc/aether_iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_gloves": "2025-03-04 02:49:36 +0000"
