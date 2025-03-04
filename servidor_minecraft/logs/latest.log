@@ -1956,3 +1956,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 21:42:58.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Not Today, Thank You]
 [04Mar2025 21:51:51.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass was doomed to fall by Skeleton
 [04Mar2025 21:52:44.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass fell from a high place
+[04Mar2025 21:57:30.631] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 lost connection: Timed out
+[04Mar2025 21:57:30.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 left the game
