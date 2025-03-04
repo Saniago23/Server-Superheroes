@@ -2888,5 +2888,17 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-03-04 01:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_dark": "2025-03-04 01:15:12 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

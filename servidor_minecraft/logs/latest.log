@@ -1365,3 +1365,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 01:12:38.438] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Camaila04 run scoreboard players set .sang FSang.Gamerule.symbiote 1
 [04Mar2025 01:12:58.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
 [04Mar2025 01:13:22.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki was shot by Skeleton
+[04Mar2025 01:15:46.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 was slain by Skeleton
+[04Mar2025 01:16:10.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [Sweet Dreams]
+[04Mar2025 01:16:19.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camaila04> zzzz
+[04Mar2025 01:17:00.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [Sweet Dreams]
+[04Mar2025 01:17:04.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bryanc2613> zzzzz
+[04Mar2025 01:19:25.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Tools of the Trade]
+[04Mar2025 01:20:25.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 was slain by Skeleton
+[04Mar2025 01:20:35.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki was shot by Skeleton
+[04Mar2025 01:21:31.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki was slain by Zombie
+[04Mar2025 01:23:07.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Convergent Evolution...]
+[04Mar2025 01:23:55.092] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
