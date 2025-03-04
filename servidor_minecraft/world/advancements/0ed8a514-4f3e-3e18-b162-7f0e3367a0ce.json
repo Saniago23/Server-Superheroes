@@ -5995,5 +5995,11 @@
     },
     "done": false
   },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2025-03-04 23:12:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

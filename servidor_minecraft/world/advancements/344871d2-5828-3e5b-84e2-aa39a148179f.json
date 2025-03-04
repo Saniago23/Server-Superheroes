@@ -3005,6 +3005,7 @@
     "criteria": {
       "cooked_porkchop": "2025-03-04 01:54:25 +0000",
       "cooked_mutton": "2025-03-04 04:29:36 +0000",
+      "potato": "2025-03-04 23:15:19 +0000",
       "bread": "2025-03-04 02:03:34 +0000",
       "rotten_flesh": "2025-03-04 02:57:21 +0000",
       "glow_berries": "2025-03-04 23:02:01 +0000",
@@ -4939,9 +4940,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-04 23:09:57 +0000"
+    },
+    "done": true
+  },
   "pantheonsent:recipes/building_blocks/gilded_sandstone": {
     "criteria": {
       "has_gold_ingot": "2025-03-04 22:42:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-03-04 23:12:45 +0000"
     },
     "done": true
   },
@@ -5023,9 +5036,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-03-04 23:16:25 +0000"
+    },
+    "done": true
+  },
   "alekiships:recipes/crafting/crafting/cannon": {
     "criteria": {
       "has_iron_nugget": "2025-03-04 22:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-03-04 23:12:45 +0000"
     },
     "done": true
   },
@@ -5089,9 +5114,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-04 23:09:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
       "has_rope": "2025-03-04 22:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-03-04 23:09:57 +0000"
     },
     "done": true
   },
@@ -5104,6 +5141,18 @@
   "supplementaries:recipes/gold_trapdoor": {
     "criteria": {
       "has_gold_ingot": "2025-03-04 22:42:31 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/combat/farmer_hat": {
+    "criteria": {
+      "has_hay": "2025-03-04 23:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-03-04 23:12:45 +0000"
     },
     "done": true
   },
@@ -5143,6 +5192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-03-04 23:09:57 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_gloves": {
     "criteria": {
       "has_gold": "2025-03-04 22:42:31 +0000"
@@ -5155,9 +5210,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-03-04 23:16:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-03-04 22:42:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/moa_egg_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-03-04 23:12:45 +0000"
     },
     "done": true
   },

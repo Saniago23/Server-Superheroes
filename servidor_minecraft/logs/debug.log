@@ -9011,3 +9011,112 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 23:05:49.794] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
 [04Mar2025 23:09:25.212] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
 [04Mar2025 23:09:25.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 23:13:30.636] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[04Mar2025 23:13:46.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Todoroxki> xaero-waypoint:aldeita:A:581:66:7646:4:false:0:Internal-overworld-waypoints
+[04Mar2025 23:14:25.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 23:14:25.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 23:14:28.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass has made the advancement [Safe Haven]
+[04Mar2025 23:15:38.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass has made the advancement [Call For Adventure]
+[04Mar2025 23:15:39.036] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_tower
+[04Mar2025 23:15:39.053] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_mob_evoker_void
+[04Mar2025 23:15:39.056] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_mob_vindicator_void
+[04Mar2025 23:15:39.057] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_mob_witch_void
+[04Mar2025 23:15:39.057] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_mob_evoker
+[04Mar2025 23:15:39.057] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_mob_vindicator
+[04Mar2025 23:15:39.059] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_mob_pillager_void
+[04Mar2025 23:15:39.059] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_mob_pillager
+[04Mar2025 23:15:39.060] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_mob_witch
+[04Mar2025 23:15:39.066] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_6
+[04Mar2025 23:15:39.070] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_3
+[04Mar2025 23:15:39.071] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_11
+[04Mar2025 23:15:39.073] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_17
+[04Mar2025 23:15:39.079] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_14
+[04Mar2025 23:15:39.086] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_mine_dirt
+[04Mar2025 23:15:39.089] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_path_curve_small
+[04Mar2025 23:15:39.101] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_path_t_curve_small
+[04Mar2025 23:15:39.113] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_4
+[04Mar2025 23:15:39.118] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_10
+[04Mar2025 23:15:39.123] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_21
+[04Mar2025 23:15:39.128] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_22
+[04Mar2025 23:15:39.142] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_path_straight_large
+[04Mar2025 23:15:39.144] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_12
+[04Mar2025 23:15:39.146] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_path_straight_medium
+[04Mar2025 23:15:39.151] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_mine_stairs
+[04Mar2025 23:15:39.156] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_24
+[04Mar2025 23:15:39.156] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_2
+[04Mar2025 23:15:39.161] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_19
+[04Mar2025 23:15:39.168] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_path_curve_big
+[04Mar2025 23:15:39.169] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_mine_cross
+[04Mar2025 23:15:39.169] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_18
+[04Mar2025 23:15:39.170] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_15
+[04Mar2025 23:15:39.171] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_9
+[04Mar2025 23:15:39.171] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_23
+[04Mar2025 23:15:39.172] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_20
+[04Mar2025 23:15:39.172] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_13
+[04Mar2025 23:15:39.173] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_8
+[04Mar2025 23:15:39.174] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_1
+[04Mar2025 23:15:39.174] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_path_crossroad_small
+[04Mar2025 23:15:39.181] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_path_crossroad_big
+[04Mar2025 23:15:39.182] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_7
+[04Mar2025 23:15:39.183] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_mine_entry
+[04Mar2025 23:15:39.192] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_5
+[04Mar2025 23:15:41.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2366ms or 47 ticks behind
+[04Mar2025 23:15:41.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved too quickly! 0.0,-10.119331703908003,-0.7726322905631378
+[04Mar2025 23:16:01.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [No Step on Snake]
+[04Mar2025 23:16:31.411] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_16
+[04Mar2025 23:16:33.599] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[04Mar2025 23:16:43.221] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_1
+[04Mar2025 23:17:01.669] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[04Mar2025 23:17:01.673] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/staircase
+[04Mar2025 23:17:01.680] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/basement
+[04Mar2025 23:17:01.682] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/stairway
+[04Mar2025 23:17:01.682] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction
+[04Mar2025 23:17:01.683] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end_2
+[04Mar2025 23:17:01.683] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_turn
+[04Mar2025 23:17:01.684] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction_cramped
+[04Mar2025 23:17:01.684] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/wall
+[04Mar2025 23:17:53.374] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[04Mar2025 23:17:53.378] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_south
+[04Mar2025 23:17:53.380] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/small_decorations
+[04Mar2025 23:17:53.381] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_north
+[04Mar2025 23:17:53.385] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/tree
+[04Mar2025 23:18:03.814] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_4
+[04Mar2025 23:18:13.178] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of domesticationinnovation:taiga_petshop
+[04Mar2025 23:18:13.181] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/taiga_scriber_1
+[04Mar2025 23:18:16.636] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_2
+[04Mar2025 23:18:30.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=94, y=118, z=934} BlockPos{x=92, y=116, z=937}
+[04Mar2025 23:18:42.412] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:sorcerer_hut/sorcerer_hut
+[04Mar2025 23:18:43.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass moved too quickly! 0.847166721806559,0.0,10.819535216538043
+[04Mar2025 23:18:48.318] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[04Mar2025 23:18:48.318] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[04Mar2025 23:18:49.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass moved too quickly! 0.6853032808192694,0.0,10.866824113209532
+[04Mar2025 23:18:53.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass moved too quickly! 0.909301777336907,0.0,10.827246015423498
+[04Mar2025 23:18:56.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass moved too quickly! 0.9032791535819769,0.0,10.754469242295272
+[04Mar2025 23:18:56.667] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[04Mar2025 23:18:59.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass moved too quickly! 0.9032791535819769,0.0,10.754469242295272
+[04Mar2025 23:19:01.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved too quickly! 0.268044364978536,0.07883297154323543,10.06414014582424
+[04Mar2025 23:19:01.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass moved too quickly! 0.8877012186951703,0.0,10.568997872857835
+[04Mar2025 23:19:01.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[04Mar2025 23:19:04.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass moved too quickly! 0.8924854411752818,0.0,10.625958972100761
+[04Mar2025 23:19:04.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved too quickly! 0.711838495187294,0.11388577954478762,10.639228638273607
+[04Mar2025 23:19:04.449] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/medium_decorations
+[04Mar2025 23:19:04.450] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/targets
+[04Mar2025 23:19:04.450] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/pumpkin
+[04Mar2025 23:19:06.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass moved too quickly! 0.8922943349426191,0.0,10.623683655446257
+[04Mar2025 23:19:06.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved too quickly! 0.7371351098123142,0.48466597929730426,10.106773828001678
+[04Mar2025 23:19:08.353] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center1
+[04Mar2025 23:19:08.359] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center1
+[04Mar2025 23:19:08.575] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[04Mar2025 23:19:16.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass moved wrongly!
+[04Mar2025 23:19:17.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass moved wrongly!
+[04Mar2025 23:19:22.767] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_2
+[04Mar2025 23:19:28.699] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[04Mar2025 23:19:29.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 23:19:29.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 23:19:30.138] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of pantheonsent:dig_site/desert/main
+[04Mar2025 23:19:35.245] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_8
+[04Mar2025 23:19:35.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass moved too quickly! 0.5697421014240831,-2.082445522748941,10.87392188736203
+[04Mar2025 23:19:37.330] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[04Mar2025 23:19:37.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass moved too quickly! 0.837969916717384,0.0,10.455655764307267
+[04Mar2025 23:19:38.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [It's an Emu!!!]
+[04Mar2025 23:19:41.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass moved too quickly! 0.9311152625106729,0.0,10.752092328164963
