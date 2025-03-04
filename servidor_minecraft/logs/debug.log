@@ -7815,3 +7815,87 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 01:23:07.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Convergent Evolution...]
 [04Mar2025 01:23:10.947] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_2
 [04Mar2025 01:23:55.092] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[04Mar2025 01:24:14.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 was slain by Skeleton
+[04Mar2025 01:24:36.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 01:24:36.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 01:24:52.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [Suit Up]
+[04Mar2025 01:25:15.671] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_9b
+[04Mar2025 01:26:44.405] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_20 is being run through DFU (hash a1156944d96aa3c0ef77c50d062c271c0b6c97008c2a5b0da9a15c23ebf70a0d), this will cause launch time delays
+[04Mar2025 01:26:46.953] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/main/conduit_ruin_ring_1
+[04Mar2025 01:27:16.430] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/temple/desert_ruins_temple_main_start
+[04Mar2025 01:28:47.405] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=588, y=114, z=4456} BlockPos{x=588, y=115, z=4457}
+[04Mar2025 01:29:16.009] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[04Mar2025 01:29:25.075] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:illusioner_tower/tower_1
+[04Mar2025 01:29:36.213] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 01:29:36.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 01:30:09.741] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_5b
+[04Mar2025 01:30:40.353] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[04Mar2025 01:31:00.806] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[04Mar2025 01:31:41.501] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[04Mar2025 01:31:54.075] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[04Mar2025 01:32:29.949] [Server thread/DEBUG] [mixin/]: Mixing AxolotlAiMixin from domesticationinnovation.mixins.json into net.minecraft.world.entity.animal.axolotl.AxolotlAi
+[04Mar2025 01:33:01.854] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[04Mar2025 01:33:37.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [Convergent Evolution...]
+[04Mar2025 01:33:39.365] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_1
+[04Mar2025 01:33:49.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Mar2025 01:33:49.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Mar2025 01:33:49.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Mar2025 01:33:49.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 lost connection: Disconnected
+[04Mar2025 01:33:49.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 left the game
+[04Mar2025 01:33:49.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki lost connection: Server closed
+[04Mar2025 01:33:49.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki left the game
+[04Mar2025 01:33:49.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Mar2025 01:33:49.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/minecraft:overworld
+[04Mar2025 01:33:51.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/ad_astra:glacio_orbit
+[04Mar2025 01:33:51.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/ad_astra:moon_orbit
+[04Mar2025 01:33:51.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/lostcities:lostcity
+[04Mar2025 01:33:51.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/ad_astra:mars_orbit
+[04Mar2025 01:33:51.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/grave.core:space
+[04Mar2025 01:33:51.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/speedforce_by_yofadda:the_negative_speedforce
+[04Mar2025 01:33:51.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/minecraft:the_nether
+[04Mar2025 01:33:51.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/aether:the_aether
+[04Mar2025 01:33:51.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/ad_astra:venus_orbit
+[04Mar2025 01:33:51.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/ad_astra:mercury_orbit
+[04Mar2025 01:33:51.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/fsang:negative_speedforce
+[04Mar2025 01:33:51.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/ad_astra:venus
+[04Mar2025 01:33:51.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/minecraft:the_end
+[04Mar2025 01:33:51.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/deeperdarker:otherside
+[04Mar2025 01:33:51.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/fsang:pocket_dimension
+[04Mar2025 01:33:51.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/ad_astra:moon
+[04Mar2025 01:33:51.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/speedforce_by_yofadda:the_speedforce
+[04Mar2025 01:33:51.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/ad_astra:mars
+[04Mar2025 01:33:51.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/ad_astra:glacio
+[04Mar2025 01:33:51.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/ad_astra:mercury
+[04Mar2025 01:33:51.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/fsang:speedforce
+[04Mar2025 01:33:51.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/grave.ht:omnitrix
+[04Mar2025 01:33:51.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/fsang:the_radiant
+[04Mar2025 01:33:51.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/ad_astra:earth_orbit
+[04Mar2025 01:33:51.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 01:33:51.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 01:33:51.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Mar2025 01:33:51.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[04Mar2025 01:33:51.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[04Mar2025 01:33:51.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[04Mar2025 01:33:51.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[04Mar2025 01:33:51.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (space): All chunks are saved
+[04Mar2025 01:33:51.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_negative_speedforce): All chunks are saved
+[04Mar2025 01:33:51.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Mar2025 01:33:51.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[04Mar2025 01:33:51.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[04Mar2025 01:33:51.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[04Mar2025 01:33:51.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (negative_speedforce): All chunks are saved
+[04Mar2025 01:33:51.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[04Mar2025 01:33:51.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Mar2025 01:33:51.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[04Mar2025 01:33:51.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[04Mar2025 01:33:51.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[04Mar2025 01:33:51.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_speedforce): All chunks are saved
+[04Mar2025 01:33:51.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[04Mar2025 01:33:51.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[04Mar2025 01:33:51.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[04Mar2025 01:33:51.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (speedforce): All chunks are saved
+[04Mar2025 01:33:51.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (omnitrix): All chunks are saved
+[04Mar2025 01:33:51.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_radiant): All chunks are saved
+[04Mar2025 01:33:51.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[04Mar2025 01:33:51.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Mar2025 01:33:51.157] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
