@@ -130,12 +130,15 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-03-04 04:36:49 +0000",
+      "scrubland": "2025-03-04 04:45:25 +0000",
       "highland": "2025-03-04 04:33:53 +0000",
       "maple_woods": "2025-03-04 04:09:53 +0000",
       "field": "2025-03-04 04:20:08 +0000",
       "orchard": "2025-03-04 04:37:30 +0000",
       "overgrown_greens": "2025-03-04 04:37:25 +0000",
       "coniferous_forest": "2025-03-03 22:25:26 +0000",
+      "dryland": "2025-03-04 04:52:20 +0000",
+      "lush_desert": "2025-03-04 04:55:54 +0000",
       "redwood_forest": "2025-03-04 04:37:31 +0000",
       "aspen_glade": "2025-03-04 04:33:52 +0000",
       "seasonal_forest": "2025-03-03 22:28:23 +0000",
@@ -2918,10 +2921,13 @@
       "minecraft:stony_shore": "2025-03-04 01:23:52 +0000",
       "minecraft:cold_ocean": "2025-03-04 03:57:36 +0000",
       "minecraft:forest": "2025-03-04 01:59:04 +0000",
+      "minecraft:desert": "2025-03-04 04:48:30 +0000",
       "minecraft:jungle": "2025-03-04 04:40:52 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-04 04:29:07 +0000",
+      "minecraft:warm_ocean": "2025-03-04 04:52:51 +0000",
       "minecraft:deep_dark": "2025-03-04 01:15:12 +0000",
       "minecraft:meadow": "2025-03-04 02:05:20 +0000",
+      "minecraft:savanna": "2025-03-04 04:45:12 +0000",
       "minecraft:plains": "2025-03-04 01:59:27 +0000"
     },
     "done": false
@@ -3064,6 +3070,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:46:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:46:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-03-04 02:16:23 +0000"
@@ -3094,11 +3112,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:46:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-03-04 04:26:44 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-03-04 04:58:40 +0000"
+    },
+    "done": false
   },
   "aether:recipes/misc/aether_iron_nugget_from_smelting": {
     "criteria": {
@@ -3115,6 +3145,12 @@
   "rats:recipes/misc/hammocks/rat_hammock_brown": {
     "criteria": {
       "has_string": "2025-03-04 02:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:46:57 +0000"
     },
     "done": true
   },
@@ -3190,15 +3226,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:46:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-03-04 02:05:26 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:46:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:46:57 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/combat/chef_toque": {
     "criteria": {
       "has_wool": "2025-03-04 01:56:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:46:57 +0000"
     },
     "done": true
   },
@@ -3229,6 +3289,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-03-04 04:26:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:46:57 +0000"
     },
     "done": true
   },
@@ -3286,6 +3352,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/orange_sandstone": {
+    "criteria": {
+      "has_orange_sand": "2025-03-04 05:01:10 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_chestplate_repairing": {
     "criteria": {
       "has_iron_chestplate": "2025-03-04 02:49:48 +0000"
@@ -3328,6 +3400,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:46:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-03-04 03:01:11 +0000"
@@ -3358,6 +3436,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:46:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-03-04 04:14:25 +0000"
@@ -3370,6 +3454,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:46:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-04 04:14:25 +0000"
@@ -3379,6 +3469,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-04 02:53:48 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_acacia": "2025-03-04 04:45:40 +0000"
     },
     "done": true
   },
@@ -3409,6 +3505,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-04 02:53:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:46:57 +0000"
     },
     "done": true
   },
@@ -3616,6 +3718,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:46:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:46:57 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/ore_doubling_upgrade": {
     "criteria": {
       "has_diamond": "2025-03-04 02:55:01 +0000"
@@ -3748,6 +3862,12 @@
     },
     "done": false
   },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-03-04 04:46:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-03-04 02:24:09 +0000"
@@ -3793,6 +3913,12 @@
   "iceandfire:recipes/misc/blindfold": {
     "criteria": {
       "has_item": "2025-03-04 04:26:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-03-04 05:01:10 +0000"
     },
     "done": true
   },
@@ -3874,6 +4000,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:46:57 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/pickpocket_upgrade": {
     "criteria": {
       "has_emerald": "2025-03-04 04:04:37 +0000"
@@ -3883,6 +4015,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-03-04 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:46:57 +0000"
     },
     "done": true
   },
@@ -3928,9 +4066,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-03-04 04:51:20 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/lumberjack_upgrade": {
     "criteria": {
       "has_sapling": "2025-03-04 04:18:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:46:57 +0000"
     },
     "done": true
   },
@@ -3976,6 +4126,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:46:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:46:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-03-04 02:17:06 +0000"
@@ -3985,6 +4153,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-04 04:14:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:46:57 +0000"
     },
     "done": true
   },
@@ -4036,6 +4210,12 @@
     },
     "done": true
   },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-03-04 04:45:40 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/dragon_upgrade": {
     "criteria": {
       "has_charge": "2025-03-04 02:00:28 +0000"
@@ -4045,6 +4225,12 @@
   "biomesoplenty:recipes/decorations/blackstone_spines": {
     "criteria": {
       "has_blackstone": "2025-03-04 04:14:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:46:57 +0000"
     },
     "done": true
   },
@@ -4258,6 +4444,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:46:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stonecutting/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2025-03-04 02:17:06 +0000"
@@ -4284,6 +4476,12 @@
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2025-03-04 02:24:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-04 04:46:57 +0000"
     },
     "done": true
   },
