@@ -4494,12 +4494,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "direct": "2025-03-04 03:19:36 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-04 02:38:13 +0000"
@@ -4590,9 +4584,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/sugar_rush": {
+    "criteria": {
+      "all_effects": "2025-03-04 03:40:00 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/remedy_upgrade": {
     "criteria": {
       "has_bottle": "2025-03-04 02:38:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-03-04 03:42:22 +0000"
     },
     "done": true
   },
@@ -4605,6 +4611,12 @@
   "supplementaries:recipes/sign_post_spruce": {
     "criteria": {
       "has_the_recipe": "2025-03-04 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/combat/piper_hat": {
+    "criteria": {
+      "has_feather": "2025-03-04 03:42:22 +0000"
     },
     "done": true
   },
@@ -4716,6 +4728,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/eat_block_of_chocolate": {
+    "criteria": {
+      "eat_block_of_chocolate": "2025-03-04 03:38:19 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/food/chef/string_cheese": {
     "criteria": {
       "has_input": "2025-03-04 02:08:46 +0000"
@@ -4809,6 +4827,12 @@
   "supplementaries:recipes/globe_sepia": {
     "criteria": {
       "has_antique_ink": "2025-03-04 03:07:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-03-04 03:42:22 +0000"
     },
     "done": true
   },
@@ -4998,6 +5022,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-03-04 03:42:16 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/redwood_stairs": {
     "criteria": {
       "has_planks": "2025-03-04 03:16:19 +0000"
@@ -5043,6 +5073,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-04 02:38:13 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/feathery_wing": {
+    "criteria": {
+      "has_feather": "2025-03-04 03:42:22 +0000"
     },
     "done": true
   },

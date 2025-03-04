@@ -2992,6 +2992,12 @@
     },
     "done": true
   },
+  "rats:plague": {
+    "criteria": {
+      "catch_plague": "2025-03-04 03:38:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-03-04 02:24:36 +0000"
@@ -3039,6 +3045,12 @@
       "has_granite": "2025-03-04 02:53:48 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-03-04 03:40:54 +0000"
+    },
+    "done": false
   },
   "aether:recipes/misc/aether_iron_nugget_from_smelting": {
     "criteria": {
@@ -3583,6 +3595,12 @@
   "ad_astra:recipes/misc/white_flag": {
     "criteria": {
       "has_white_flag": "2025-03-04 01:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-03-04 03:40:30 +0000"
     },
     "done": true
   },
