@@ -5312,9 +5312,27 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "direct": "2025-03-04 04:59:05 +0000"
+      "direct": "2025-03-04 05:13:08 +0000"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed": "2025-03-04 05:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-03-04 05:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-04 05:13:08 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

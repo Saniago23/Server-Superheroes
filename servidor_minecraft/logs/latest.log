@@ -2128,3 +2128,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 05:03:34.973] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.item 1
 [04Mar2025 05:03:34.973] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.symbiote dummy
 [04Mar2025 05:03:34.973] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[04Mar2025 05:08:25.071] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Mar2025 05:08:42.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [Hunt and Gather]
+[04Mar2025 05:08:54.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [The Desert Swimmers]
+[04Mar2025 05:10:48.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=74, z=6}
+[04Mar2025 05:10:49.020] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=73, z=8}
+[04Mar2025 05:10:51.986] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=74, z=12}
+[04Mar2025 05:10:55.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=74, z=13}
+[04Mar2025 05:10:56.086] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=73, z=12}
+[04Mar2025 05:13:08.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Eye of The Storm]
+[04Mar2025 05:16:20.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[04Mar2025 05:16:21.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[04Mar2025 05:16:22.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
