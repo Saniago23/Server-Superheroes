@@ -1471,3 +1471,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 03:07:25.634] [pool-9-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=709, y=70, z=7365}
 [04Mar2025 03:10:01.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has reached the goal [Quaint Scribe]
 [04Mar2025 03:11:08.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Lorem Ipsum]
+[04Mar2025 03:14:44.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has reached the goal [Pure Imagination]
+[04Mar2025 03:15:42.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 fell from a high place
+[04Mar2025 03:15:49.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki was blown up by Creeper
+[04Mar2025 03:18:55.684] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=819, y=73, z=7403} BlockPos{x=819, y=71, z=7403}
+[04Mar2025 03:18:55.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=818, y=74, z=7404} BlockPos{x=819, y=71, z=7403}
+[04Mar2025 03:18:55.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=818, y=74, z=7404} BlockPos{x=819, y=71, z=7403}
+[04Mar2025 03:18:55.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=818, y=74, z=7402} BlockPos{x=819, y=71, z=7403}

@@ -1801,6 +1801,7 @@
       "minecraft:bamboo_jungle": "2025-03-04 02:02:49 +0000",
       "minecraft:beach": "2025-03-04 02:04:54 +0000",
       "minecraft:stony_peaks": "2025-03-04 01:30:45 +0000",
+      "minecraft:dark_forest": "2025-03-04 03:20:43 +0000",
       "minecraft:sparse_jungle": "2025-03-04 02:02:13 +0000",
       "minecraft:river": "2025-03-03 22:36:54 +0000",
       "minecraft:stony_shore": "2025-03-03 22:34:31 +0000",
@@ -4427,6 +4428,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2025-03-04 03:14:44 +0000"
+    },
+    "done": true
+  },
   "rats:cheese": {
     "criteria": {
       "get_cheese": "2025-03-04 02:08:46 +0000"
@@ -4463,6 +4470,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-04 03:16:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-04 02:41:45 +0000"
@@ -4477,7 +4490,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "direct": "2025-03-04 03:11:36 +0000"
+      "direct": "2025-03-04 03:19:36 +0000"
     },
     "done": false
   },
@@ -4511,6 +4524,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_planks": "2025-03-04 03:16:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-03-04 03:16:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-04 02:41:45 +0000"
@@ -4538,6 +4563,12 @@
   "rats:recipes/misc/cheese": {
     "criteria": {
       "has_cheese": "2025-03-04 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-04 03:16:19 +0000"
     },
     "done": true
   },
@@ -4787,6 +4818,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_planks": "2025-03-04 03:16:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/rock_path": {
     "criteria": {
       "has_andesite": "2025-03-04 02:41:56 +0000"
@@ -4835,6 +4872,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_planks": "2025-03-04 03:16:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-03-04 02:38:13 +0000"
@@ -4877,6 +4920,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_redwood": {
+    "criteria": {
+      "has_planks": "2025-03-04 03:16:19 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_leggings_repairing": {
     "criteria": {
       "has_iron_leggings": "2025-03-04 02:09:40 +0000"
@@ -4889,9 +4938,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_planks": "2025-03-04 03:16:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-04 02:41:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_planks": "2025-03-04 03:16:19 +0000"
     },
     "done": true
   },
@@ -4910,6 +4971,18 @@
   "rats:recipes/misc/upgrades/support_upgrade": {
     "criteria": {
       "has_bottle": "2025-03-04 02:38:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-04 03:16:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-04 03:16:19 +0000"
     },
     "done": true
   },

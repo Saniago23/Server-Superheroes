@@ -8799,3 +8799,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 03:11:08.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Lorem Ipsum]
 [04Mar2025 03:13:51.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
 [04Mar2025 03:13:51.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 03:14:44.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has reached the goal [Pure Imagination]
+[04Mar2025 03:15:42.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 fell from a high place
+[04Mar2025 03:15:49.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki was blown up by Creeper
+[04Mar2025 03:18:51.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 03:18:51.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 03:18:55.684] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=819, y=73, z=7403} BlockPos{x=819, y=71, z=7403}
+[04Mar2025 03:18:55.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=818, y=74, z=7404} BlockPos{x=819, y=71, z=7403}
+[04Mar2025 03:18:55.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=818, y=74, z=7404} BlockPos{x=819, y=71, z=7403}
+[04Mar2025 03:18:55.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=818, y=74, z=7402} BlockPos{x=819, y=71, z=7403}
+[04Mar2025 03:23:51.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 03:23:51.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
