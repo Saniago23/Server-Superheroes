@@ -13348,3 +13348,48 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 21:15:10.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
 [04Mar2025 21:15:10.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
 [04Mar2025 21:15:15.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[04Mar2025 21:15:42.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass was mauled by Necromancer's undead
+[04Mar2025 21:16:21.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass was doomed to fall by Necromancer
+[04Mar2025 21:19:16.089] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[04Mar2025 21:20:10.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 21:20:10.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 21:21:03.030] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_path9
+[04Mar2025 21:21:03.035] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_path4
+[04Mar2025 21:21:03.042] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_path1
+[04Mar2025 21:21:03.046] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_smoker
+[04Mar2025 21:21:03.049] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_path2
+[04Mar2025 21:21:03.052] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_path6
+[04Mar2025 21:21:03.055] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_path8
+[04Mar2025 21:21:03.055] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_path3
+[04Mar2025 21:21:03.056] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_path7
+[04Mar2025 21:21:03.059] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_cleric2
+[04Mar2025 21:21:03.063] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_house3
+[04Mar2025 21:21:03.064] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_farm2
+[04Mar2025 21:21:03.067] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_empty
+[04Mar2025 21:21:03.068] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_house7
+[04Mar2025 21:21:03.073] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_house6
+[04Mar2025 21:21:03.074] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_house2
+[04Mar2025 21:21:03.076] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_cartography
+[04Mar2025 21:21:03.077] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_fletching
+[04Mar2025 21:21:03.105] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center3
+[04Mar2025 21:21:03.111] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_house4
+[04Mar2025 21:21:03.112] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_grindstone
+[04Mar2025 21:21:03.152] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_animal_pen3
+[04Mar2025 21:21:03.172] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_animal_pen2
+[04Mar2025 21:21:03.182] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_decoration2
+[04Mar2025 21:21:03.188] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_house5
+[04Mar2025 21:21:03.194] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_house1
+[04Mar2025 21:21:03.208] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_decoration3
+[04Mar2025 21:21:03.212] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_library
+[04Mar2025 21:21:03.212] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_cleric
+[04Mar2025 21:21:03.226] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_decoration1
+[04Mar2025 21:21:03.240] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_animal_pen1
+[04Mar2025 21:21:03.283] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_stonecutter
+[04Mar2025 21:21:03.293] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_farm3
+[04Mar2025 21:21:03.294] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_farm1
+[04Mar2025 21:21:03.295] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_smithing
+[04Mar2025 21:21:03.296] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_loom
+[04Mar2025 21:21:03.298] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_fisher
+[04Mar2025 21:23:25.390] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[04Mar2025 21:25:10.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 21:25:10.176] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2

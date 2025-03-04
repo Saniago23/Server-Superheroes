@@ -5393,15 +5393,69 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/tools/golden_machete": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-04 21:17:18 +0000"
+    },
+    "done": true
+  },
+  "pantheonsent:recipes/building_blocks/gilded_sandstone": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-04 21:17:18 +0000"
+    },
+    "done": true
+  },
   "iwannaskate:iwannaskate/root": {
     "criteria": {
       "item_criteria": "2025-03-04 21:00:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-04 21:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-04 21:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-04 21:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-04 21:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-04 21:17:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-03-04 20:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-04 21:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-04 21:17:18 +0000"
     },
     "done": true
   },
@@ -5417,9 +5471,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-04 21:17:18 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_boots_repairing": {
     "criteria": {
       "has_leather_boots": "2025-03-04 20:23:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-04 21:17:18 +0000"
     },
     "done": true
   },
@@ -5432,6 +5498,12 @@
   "cfm:recipes/decorations/oak_upgraded_fence": {
     "criteria": {
       "has_log": "2025-03-04 20:04:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_ring": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-04 21:17:18 +0000"
     },
     "done": true
   },
@@ -5459,6 +5531,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/angel_upgrade": {
+    "criteria": {
+      "has_gold": "2025-03-04 21:17:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_sofa": {
     "criteria": {
       "has_wool": "2025-03-04 19:59:21 +0000"
@@ -5468,6 +5546,18 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-03-04 20:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-04 21:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-04 21:17:18 +0000"
     },
     "done": true
   },
@@ -5507,6 +5597,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-04 21:17:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_crate": {
     "criteria": {
       "has_planks": "2025-03-04 20:04:03 +0000"
@@ -5528,6 +5624,12 @@
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-03-04 19:59:21 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/golden_rat_skull": {
+    "criteria": {
+      "has_gold": "2025-03-04 21:17:18 +0000"
     },
     "done": true
   },
@@ -5567,6 +5669,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-04 21:17:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-04 21:17:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_cabinet": {
     "criteria": {
       "has_log": "2025-03-04 20:04:03 +0000"
@@ -5582,6 +5696,12 @@
   "iceandfire:recipes/combat/deathworm_red_chestplate": {
     "criteria": {
       "has_item": "2025-03-04 20:57:31 +0000"
+    },
+    "done": true
+  },
+  "pantheonsent:recipes/building_blocks/gilded_sandstone_pillar": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-04 21:17:18 +0000"
     },
     "done": true
   },
@@ -5633,6 +5753,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_gloves": {
+    "criteria": {
+      "has_gold": "2025-03-04 21:17:18 +0000"
+    },
+    "done": true
+  },
   "grave.core:recipes/gray_fabric": {
     "criteria": {
       "has_wool": "2025-03-04 19:59:21 +0000"
@@ -5645,9 +5771,45 @@
     },
     "done": true
   },
+  "rats:all_hats": {
+    "criteria": {
+      "has_archeologist_hat": "2025-03-04 21:18:57 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/stripped_oak_chair": {
     "criteria": {
       "has_planks": "2025-03-04 20:04:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-03-04 21:20:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-04 21:17:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-04 21:17:18 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_pendant": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-04 21:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-04 21:17:18 +0000"
     },
     "done": true
   },

@@ -1945,3 +1945,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 21:09:44.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass fell from a high place
 [04Mar2025 21:11:37.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass fell from a high place
 [04Mar2025 21:14:43.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass was doomed to fall by Zombie
+[04Mar2025 21:15:42.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass was mauled by Necromancer's undead
+[04Mar2025 21:16:21.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass was doomed to fall by Necromancer
