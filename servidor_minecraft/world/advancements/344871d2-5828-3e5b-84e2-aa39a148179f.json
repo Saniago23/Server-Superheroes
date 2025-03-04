@@ -4932,5 +4932,11 @@
     },
     "done": true
   },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-03-04 22:30:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

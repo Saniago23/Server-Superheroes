@@ -8732,3 +8732,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 22:24:25.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
 [04Mar2025 22:24:48.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass fell from a high place
 [04Mar2025 22:27:50.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass was doomed to fall by Skeleton
+[04Mar2025 22:28:29.450] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[04Mar2025 22:29:25.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 22:29:25.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 22:29:49.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Hot Stuff]
+[04Mar2025 22:32:59.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass has made the advancement [Sweet Dreams]
+[04Mar2025 22:33:22.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebass> La cosa esta que arde
+[04Mar2025 22:34:25.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 22:34:25.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 22:34:43.893] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1185, y=32, z=5876} BlockPos{x=1185, y=30, z=5876}
+[04Mar2025 22:36:18.250] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[04Mar2025 22:36:50.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebass> menos 22 menos 14, 116
+[04Mar2025 22:37:04.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass was slain by Zombie
+[04Mar2025 22:37:41.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebass> xaero-waypoint:gui.xaero-deathpoint:D:-13:-30:124:0:false:0:Internal-overworld-waypoints
