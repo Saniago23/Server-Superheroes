@@ -5310,12 +5310,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "direct": "2025-03-04 05:13:08 +0000"
-    },
-    "done": false
-  },
   "alexsmobs:alexsmobs/guster": {
     "criteria": {
       "killed": "2025-03-04 05:13:08 +0000"
