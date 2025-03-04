@@ -129,6 +129,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-03-04 19:58:03 +0000",
       "shrubland": "2025-03-04 04:36:50 +0000",
       "scrubland": "2025-03-04 04:45:19 +0000",
       "highland": "2025-03-03 22:46:38 +0000",
@@ -141,10 +142,12 @@
       "redwood_forest": "2025-03-04 04:37:30 +0000",
       "aspen_glade": "2025-03-03 22:47:49 +0000",
       "seasonal_forest": "2025-03-03 22:28:28 +0000",
+      "volcanic_plains": "2025-03-04 19:56:56 +0000",
       "fir_clearing": "2025-03-03 22:49:53 +0000",
       "pumpkin_patch": "2025-03-04 04:08:30 +0000",
       "grassland": "2025-03-04 04:36:14 +0000",
       "gravel_beach": "2025-03-04 02:05:59 +0000",
+      "rainforest": "2025-03-04 19:56:43 +0000",
       "crag": "2025-03-04 04:34:52 +0000",
       "ominous_woods": "2025-03-04 04:27:13 +0000"
     },
@@ -5361,6 +5364,42 @@
   "alekiships:recipes/crafting/crafting/oar": {
     "criteria": {
       "has_stick": "2025-03-04 19:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-03-04 19:59:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-03-04 19:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-03-04 19:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-03-04 19:59:21 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/gray_flag": {
+    "criteria": {
+      "has_gray_flag": "2025-03-04 19:59:21 +0000"
+    },
+    "done": true
+  },
+  "grave.core:recipes/gray_fabric": {
+    "criteria": {
+      "has_wool": "2025-03-04 19:59:21 +0000"
     },
     "done": true
   },

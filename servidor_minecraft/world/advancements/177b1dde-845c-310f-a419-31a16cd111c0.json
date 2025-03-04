@@ -146,6 +146,7 @@
       "dryland": "2025-03-04 04:57:38 +0000",
       "lush_desert": "2025-03-04 04:57:20 +0000",
       "redwood_forest": "2025-03-04 01:24:31 +0000",
+      "aspen_glade": "2025-03-04 19:56:06 +0000",
       "dune_beach": "2025-03-04 02:05:21 +0000",
       "seasonal_forest": "2025-03-03 22:26:33 +0000",
       "rocky_rainforest": "2025-03-04 04:57:03 +0000",
@@ -1651,6 +1652,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-03 22:43:09 +0000",
+      "cooked_beef": "2025-03-04 19:50:29 +0000",
+      "beef": "2025-03-04 19:58:14 +0000",
       "porkchop": "2025-03-03 22:29:23 +0000",
       "bread": "2025-03-03 23:27:20 +0000",
       "golden_apple": "2025-03-03 23:21:22 +0000"
@@ -5609,12 +5612,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "direct": "2025-03-04 05:08:54 +0000"
-    },
-    "done": false
-  },
   "iceandfire:iceandfire/kill_deathworm": {
     "criteria": {
       "killed_fire_dragon": "2025-03-04 05:08:54 +0000"
@@ -6290,6 +6287,12 @@
   "biomesoplenty:recipes/building_blocks/orange_sandstone": {
     "criteria": {
       "has_orange_sand": "2025-03-04 05:24:17 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/oar": {
+    "criteria": {
+      "has_stick": "2025-03-04 19:54:43 +0000"
     },
     "done": true
   },

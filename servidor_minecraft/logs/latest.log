@@ -1711,3 +1711,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 19:52:58.247] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Todoroxki run scoreboard players set .sang FSang.Gamerule.item 1
 [04Mar2025 19:52:58.247] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Todoroxki run scoreboard objectives add FSang.Gamerule.symbiote dummy
 [04Mar2025 19:52:58.247] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Todoroxki run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[04Mar2025 19:53:15.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 was shot by Skeleton
+[04Mar2025 19:53:20.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki was slain by Zombie
+[04Mar2025 19:53:21.978] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/371, l='ServerLevel[Mundo Superheroes 2]', x=544.70, y=72.00, z=7687.70] died, message: 'Armorer was slain by Zombie'
+[04Mar2025 19:53:27.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki lost connection: Timed out
+[04Mar2025 19:53:27.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki left the game
+[04Mar2025 19:53:27.917] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Mar2025 19:53:29.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bryanc2613> xaero-waypoint:Spawn:S:4:92:-8:2:false:0:Internal-overworld-waypoints
+[04Mar2025 20:01:11.446] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e1d3ef9[id=<null>,name=Todoroxki,properties={},legacy=false] (/127.136.36.252:53641) lost connection: Disconnected
