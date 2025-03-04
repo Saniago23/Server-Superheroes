@@ -3008,11 +3008,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-04 02:53:48 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_hit": {
     "criteria": {
       "direct": "2025-03-04 02:24:54 +0000"
     },
     "done": false
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_gloves": "2025-03-04 02:49:36 +0000"
+    },
+    "done": true
   },
   "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
     "criteria": {
@@ -3035,6 +3047,12 @@
   "cfm:recipes/decorations/oak_desk_cabinet": {
     "criteria": {
       "has_log": "2025-03-04 01:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-04 02:53:48 +0000"
     },
     "done": true
   },
@@ -3062,6 +3080,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-04 02:53:48 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/hammocks/rat_hammock_gray": {
     "criteria": {
       "has_string": "2025-03-04 02:05:26 +0000"
@@ -3077,6 +3101,12 @@
   "aether:recipes/combat/shield_repairing": {
     "criteria": {
       "has_shield": "2025-03-04 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-03-04 02:53:48 +0000"
     },
     "done": true
   },
@@ -3104,6 +3134,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-03-04 02:49:48 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/combat/fisherman_hat": {
     "criteria": {
       "has_string": "2025-03-04 02:05:26 +0000"
@@ -3128,6 +3164,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-03-04 02:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-04 02:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-03-04 02:53:48 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/hammocks/rat_hammock_orange": {
     "criteria": {
       "has_string": "2025-03-04 02:05:26 +0000"
@@ -3137,6 +3191,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-03-04 02:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-04 02:53:48 +0000"
     },
     "done": true
   },
@@ -3167,6 +3227,12 @@
   "rats:recipes/misc/hammocks/rat_hammock_blue": {
     "criteria": {
       "has_string": "2025-03-04 02:05:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2025-03-04 02:49:54 +0000"
     },
     "done": true
   },
@@ -3224,6 +3290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-04 02:53:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-03-04 02:02:24 +0000"
@@ -3275,6 +3347,12 @@
   "cfm:recipes/decorations/stripped_oak_kitchen_counter": {
     "criteria": {
       "has_log": "2025-03-04 01:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-03-04 02:49:48 +0000"
     },
     "done": true
   },
@@ -3422,6 +3500,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_gloves": "2025-03-04 02:49:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_park_bench": {
     "criteria": {
       "has_log": "2025-03-04 01:57:40 +0000"
@@ -3443,6 +3527,18 @@
   "cfm:recipes/decorations/stripped_oak_coffee_table": {
     "criteria": {
       "has_planks": "2025-03-04 01:57:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-03-04 02:49:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2025-03-04 02:49:36 +0000"
     },
     "done": true
   },
@@ -3497,6 +3593,12 @@
   "rats:recipes/misc/hammocks/rat_hammock_yellow": {
     "criteria": {
       "has_string": "2025-03-04 02:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-03-04 02:53:48 +0000"
     },
     "done": true
   },
@@ -3588,6 +3690,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-03-04 02:05:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2025-03-04 02:49:52 +0000"
     },
     "done": true
   },
