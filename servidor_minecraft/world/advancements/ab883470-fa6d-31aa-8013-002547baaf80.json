@@ -134,6 +134,7 @@
       "seasonal_forest": "2025-03-03 23:19:51 +0000",
       "lavender_field": "2025-03-03 23:33:59 +0000",
       "fir_clearing": "2025-03-03 22:45:13 +0000",
+      "gravel_beach": "2025-03-04 03:56:04 +0000",
       "crag": "2025-03-03 22:40:52 +0000"
     },
     "done": false
@@ -2997,6 +2998,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-04 03:59:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-03-04 02:26:28 +0000"
@@ -3282,6 +3289,12 @@
   "aether:recipes/combat/iron_chestplate_repairing": {
     "criteria": {
       "has_iron_chestplate": "2025-03-04 02:30:04 +0000"
+    },
+    "done": true
+  },
+  "iwannaskate:iwannaskate/wandering_skater": {
+    "criteria": {
+      "example": "2025-03-04 04:01:36 +0000"
     },
     "done": true
   },
@@ -3621,6 +3634,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/flight_upgrade": {
+    "criteria": {
+      "has_lapis": "2025-03-04 03:59:01 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-03-04 03:09:40 +0000"
@@ -3822,6 +3841,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_chestplate": "2025-03-04 02:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-04 03:59:01 +0000"
     },
     "done": true
   },
@@ -4596,6 +4621,12 @@
   "cfm:recipes/decorations/stripped_birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-04 03:59:01 +0000"
     },
     "done": true
   },

@@ -1497,3 +1497,55 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 03:51:53.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
 [04Mar2025 03:52:17.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 lost connection: Disconnected
 [04Mar2025 03:52:17.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 left the game
+[04Mar2025 03:57:01.653] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6152a11e[id=<null>,name=bryanc2613,properties={},legacy=false] (/127.142.62.170:43653) lost connection: Disconnected
+[04Mar2025 03:57:12.991] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bryanc2613[/127.142.62.170:46141] logged in with entity id 26701 at (619.7256646829629, 70.0625, 7663.659723029019)
+[04Mar2025 03:57:13.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 joined the game
+[04Mar2025 03:57:13.419] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (177b1dde-845c-310f-a419-31a16cd111c0)
+[04Mar2025 03:57:13.419] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[04Mar2025 03:57:13.419] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: bryanc2613
+[04Mar2025 03:57:13.420] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as bryanc2613 run scoreboard objectives add FSang.Gamerule.item dummy
+[04Mar2025 03:57:13.420] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as bryanc2613 run scoreboard players set .sang FSang.Gamerule.item 1
+[04Mar2025 03:57:13.420] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as bryanc2613 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[04Mar2025 03:57:13.420] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as bryanc2613 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[04Mar2025 03:57:15.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 lost connection: Disconnected
+[04Mar2025 03:57:15.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 left the game
+[04Mar2025 03:57:35.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bryanc2613[/127.142.62.170:38647] logged in with entity id 26862 at (619.7256646829629, 70.0625, 7663.659723029019)
+[04Mar2025 03:57:35.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 joined the game
+[04Mar2025 03:57:36.128] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (177b1dde-845c-310f-a419-31a16cd111c0)
+[04Mar2025 03:57:36.128] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[04Mar2025 03:57:36.128] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: bryanc2613
+[04Mar2025 03:57:36.129] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as bryanc2613 run scoreboard objectives add FSang.Gamerule.item dummy
+[04Mar2025 03:57:36.129] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as bryanc2613 run scoreboard players set .sang FSang.Gamerule.item 1
+[04Mar2025 03:57:36.129] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as bryanc2613 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[04Mar2025 03:57:36.129] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as bryanc2613 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[04Mar2025 03:57:37.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 lost connection: Disconnected
+[04Mar2025 03:57:37.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 left the game
+[04Mar2025 04:01:04.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Teenage Dirtbag]
+[04Mar2025 04:01:23.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Teenage Dirtbag]
+[04Mar2025 04:01:36.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [Teenage Dirtbag]
+[04Mar2025 04:01:41.820] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3097f3b0[id=<null>,name=bryanc2613,properties={},legacy=false] (/127.142.62.170:37669) lost connection: Disconnected
+[04Mar2025 04:01:58.482] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bryanc2613[/127.142.62.170:55247] logged in with entity id 27220 at (619.7256646829629, 70.0625, 7663.659723029019)
+[04Mar2025 04:01:58.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 joined the game
+[04Mar2025 04:01:58.892] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (177b1dde-845c-310f-a419-31a16cd111c0)
+[04Mar2025 04:01:58.893] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[04Mar2025 04:01:58.893] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: bryanc2613
+[04Mar2025 04:01:58.893] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as bryanc2613 run scoreboard objectives add FSang.Gamerule.item dummy
+[04Mar2025 04:01:58.894] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as bryanc2613 run scoreboard players set .sang FSang.Gamerule.item 1
+[04Mar2025 04:01:58.894] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as bryanc2613 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[04Mar2025 04:01:58.894] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as bryanc2613 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[04Mar2025 04:02:01.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 lost connection: Disconnected
+[04Mar2025 04:02:01.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 left the game
+[04Mar2025 04:02:29.185] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bryanc2613[/127.142.62.170:54911] logged in with entity id 27360 at (619.7256646829629, 70.0625, 7663.659723029019)
+[04Mar2025 04:02:29.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 joined the game
+[04Mar2025 04:02:29.615] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (177b1dde-845c-310f-a419-31a16cd111c0)
+[04Mar2025 04:02:29.616] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[04Mar2025 04:02:29.616] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: bryanc2613
+[04Mar2025 04:02:29.616] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as bryanc2613 run scoreboard objectives add FSang.Gamerule.item dummy
+[04Mar2025 04:02:29.616] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as bryanc2613 run scoreboard players set .sang FSang.Gamerule.item 1
+[04Mar2025 04:02:29.617] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as bryanc2613 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[04Mar2025 04:02:29.617] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as bryanc2613 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[04Mar2025 04:02:31.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 lost connection: Disconnected
+[04Mar2025 04:02:31.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 left the game
+[04Mar2025 04:02:58.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Sweet Dreams]
+[04Mar2025 04:02:59.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Sweet Dreams]
+[04Mar2025 04:03:39.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Mine? Mine? Mine?]

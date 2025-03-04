@@ -2901,6 +2901,7 @@
       "minecraft:beach": "2025-03-04 03:06:54 +0000",
       "minecraft:river": "2025-03-04 01:30:34 +0000",
       "minecraft:stony_shore": "2025-03-04 01:23:52 +0000",
+      "minecraft:cold_ocean": "2025-03-04 03:57:36 +0000",
       "minecraft:forest": "2025-03-04 01:59:04 +0000",
       "minecraft:deep_dark": "2025-03-04 01:15:12 +0000",
       "minecraft:meadow": "2025-03-04 02:05:20 +0000",
@@ -3070,6 +3071,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-04 04:02:58 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-03-04 03:01:51 +0000"
@@ -3199,6 +3206,12 @@
   "aether:recipes/combat/iron_chestplate_repairing": {
     "criteria": {
       "has_iron_chestplate": "2025-03-04 02:49:48 +0000"
+    },
+    "done": true
+  },
+  "iwannaskate:iwannaskate/wandering_skater": {
+    "criteria": {
+      "example": "2025-03-04 04:01:04 +0000"
     },
     "done": true
   },
@@ -3373,6 +3386,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-03-04 02:55:01 +0000"
+    },
+    "done": true
+  },
+  "rats:plague_doctor": {
+    "criteria": {
+      "meet_doctor": "2025-03-04 03:59:51 +0000"
     },
     "done": true
   },
@@ -3640,9 +3659,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-03-04 04:00:46 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/rat_breeding_lantern": {
     "criteria": {
       "has_string": "2025-03-04 02:05:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-03-04 04:03:39 +0000"
     },
     "done": true
   },
