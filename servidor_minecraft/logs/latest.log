@@ -1466,3 +1466,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 03:00:47.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [Alex's Caves]
 [04Mar2025 03:01:48.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Alex's Caves]
 [04Mar2025 03:01:51.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Alex's Caves]
+[04Mar2025 03:05:15.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Once Upon a Cave]
+[04Mar2025 03:05:16.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [It Belongs in a Museum]
+[04Mar2025 03:07:25.634] [pool-9-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=709, y=70, z=7365}
+[04Mar2025 03:10:01.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has reached the goal [Quaint Scribe]
+[04Mar2025 03:11:08.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Lorem Ipsum]

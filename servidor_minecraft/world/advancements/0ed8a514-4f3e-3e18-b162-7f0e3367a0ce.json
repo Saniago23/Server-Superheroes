@@ -2790,6 +2790,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_warped_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-03-04 02:20:57 +0000"
@@ -2814,6 +2820,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:48 +0000"
@@ -2826,6 +2838,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-03-04 02:54:55 +0000"
@@ -2835,6 +2859,18 @@
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-03-04 02:38:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
     },
     "done": true
   },
@@ -2892,9 +2928,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
     },
     "done": true
   },
@@ -2942,9 +2990,15 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "direct": "2025-03-04 02:55:42 +0000"
+      "direct": "2025-03-04 03:03:57 +0000"
     },
     "done": false
+  },
+  "cfm:recipes/decorations/magenta_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
   },
   "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
     "criteria": {
@@ -2967,6 +3021,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-03-04 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "grave.ht:recipes/blue_paper": {
+    "criteria": {
+      "has_paper": "2025-03-04 03:08:50 +0000"
     },
     "done": true
   },
@@ -2997,6 +3057,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
     "criteria": {
       "forge:dyes/white": "2025-03-04 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
     },
     "done": true
   },
@@ -3039,6 +3105,12 @@
   "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
     },
     "done": true
   },
@@ -3102,9 +3174,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/lime_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-03-04 02:48:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
     },
     "done": true
   },
@@ -3144,6 +3234,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-03-04 02:18:32 +0000"
@@ -3165,6 +3267,12 @@
   "rats:recipes/misc/hammocks/rat_hammock_purple": {
     "criteria": {
       "has_string": "2025-03-04 02:08:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
     },
     "done": true
   },
@@ -3192,6 +3300,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/gray_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/planter_rich": {
     "criteria": {
       "has_bone_meal": "2025-03-04 01:49:40 +0000"
@@ -3216,9 +3330,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_stone_bricks": "2025-03-04 02:52:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
     },
     "done": true
   },
@@ -3252,6 +3378,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2025-03-04 02:11:24 +0000"
@@ -3261,6 +3393,12 @@
   "cfm:recipes/decorations/crimson_mail_box": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
     },
     "done": true
   },
@@ -3276,9 +3414,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/pink_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/redstone_illuminator": {
     "criteria": {
       "has_redstone": "2025-03-04 02:48:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
     },
     "done": true
   },
@@ -3306,6 +3456,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/mangrove_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-03-04 02:38:59 +0000"
@@ -3330,6 +3486,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-03-04 02:03:01 +0000"
@@ -3345,6 +3507,12 @@
   "rats:recipes/misc/upgrades/jury_rigged_upgrade": {
     "criteria": {
       "has_string": "2025-03-04 02:08:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-03-04 03:11:08 +0000"
     },
     "done": true
   },
@@ -3366,6 +3534,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-03-04 03:08:50 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_chestplate_repairing": {
     "criteria": {
       "has_diamond_chestplate": "2025-03-04 02:32:52 +0000"
@@ -3378,9 +3552,21 @@
     },
     "done": true
   },
+  "rats:recipes/misc/rat_and_crossbones_banner_pattern": {
+    "criteria": {
+      "has_paper": "2025-03-04 03:08:50 +0000"
+    },
+    "done": true
+  },
   "grave.ht:recipes/lns": {
     "criteria": {
       "has_leather": "2025-03-04 02:03:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
     },
     "done": true
   },
@@ -3492,6 +3678,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-03-04 03:08:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_white_dye": "2025-03-04 02:11:24 +0000"
@@ -3510,6 +3702,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-04 03:08:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-03-04 01:55:36 +0000"
@@ -3519,6 +3717,12 @@
   "ad_astra:recipes/misc/white_industrial_lamp": {
     "criteria": {
       "has_white_industrial_lamp": "2025-03-04 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
     },
     "done": true
   },
@@ -3543,6 +3747,12 @@
   "rats:recipes/misc/upgrades/idol_upgrade": {
     "criteria": {
       "has_gold": "2025-03-04 02:12:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
     },
     "done": true
   },
@@ -3672,9 +3882,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/green_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-03-04 01:55:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
     },
     "done": true
   },
@@ -3744,6 +3966,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/speed_upgrade": {
     "criteria": {
       "has_dust": "2025-03-04 02:48:31 +0000"
@@ -3756,9 +3984,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-04 03:08:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
     },
     "done": true
   },
@@ -3846,6 +4092,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-03-04 02:38:59 +0000"
@@ -3861,6 +4113,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-04 01:59:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
     },
     "done": true
   },
@@ -3882,9 +4140,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_cooler": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
     },
     "done": true
   },
@@ -3918,6 +4194,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/rat_breeding_lantern": {
     "criteria": {
       "has_string": "2025-03-04 02:08:28 +0000"
@@ -3936,6 +4218,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_gray_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-03-04 03:05:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-03-04 02:48:31 +0000"
@@ -3948,6 +4242,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:48 +0000"
@@ -3957,6 +4257,12 @@
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "supplementaries:blackboard_white": "2025-03-04 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/cheese_banner_pattern": {
+    "criteria": {
+      "has_paper": "2025-03-04 03:08:50 +0000"
     },
     "done": true
   },
@@ -4038,6 +4344,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/rat_banner_pattern": {
+    "criteria": {
+      "has_paper": "2025-03-04 03:08:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-03-04 02:47:01 +0000"
@@ -4047,6 +4359,18 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-04 01:59:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
     },
     "done": true
   },
@@ -4122,9 +4446,21 @@
     },
     "done": true
   },
+  "rats:recipes/misc/plague_doctorate": {
+    "criteria": {
+      "has_paper": "2025-03-04 03:08:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-03-04 02:27:37 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-03-04 03:05:15 +0000"
     },
     "done": true
   },
@@ -4170,9 +4506,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_mail_box": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
     },
     "done": true
   },
@@ -4266,6 +4614,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-04 03:08:50 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/advanced_energy_upgrade": {
     "criteria": {
       "has_diamond": "2025-03-04 01:55:36 +0000"
@@ -4338,6 +4692,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_blue_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/hammocks/rat_hammock_red": {
     "criteria": {
       "has_string": "2025-03-04 02:08:28 +0000"
@@ -4368,6 +4728,18 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/bucket_upgrade": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/dragon_wing": {
     "criteria": {
       "has_leather": "2025-03-04 02:03:00 +0000"
@@ -4389,6 +4761,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-03-04 02:48:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-04 03:12:33 +0000"
     },
     "done": true
   },

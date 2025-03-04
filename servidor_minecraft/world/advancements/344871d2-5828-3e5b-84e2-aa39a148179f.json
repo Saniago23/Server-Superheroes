@@ -131,6 +131,7 @@
     "criteria": {
       "coniferous_forest": "2025-03-03 22:25:26 +0000",
       "seasonal_forest": "2025-03-03 22:28:23 +0000",
+      "gravel_beach": "2025-03-04 03:06:43 +0000",
       "crag": "2025-03-03 22:28:16 +0000"
     },
     "done": false
@@ -2897,6 +2898,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-03-04 03:06:54 +0000",
       "minecraft:river": "2025-03-04 01:30:34 +0000",
       "minecraft:stony_shore": "2025-03-04 01:23:52 +0000",
       "minecraft:forest": "2025-03-04 01:59:04 +0000",
@@ -3037,12 +3039,6 @@
       "has_granite": "2025-03-04 02:53:48 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "direct": "2025-03-04 02:55:28 +0000"
-    },
-    "done": false
   },
   "aether:recipes/misc/aether_iron_nugget_from_smelting": {
     "criteria": {

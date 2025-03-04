@@ -2978,6 +2978,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-03-04 03:09:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_chair": {
     "criteria": {
       "has_planks": "2025-03-04 02:26:32 +0000"
@@ -3080,6 +3086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-03-04 03:07:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-03-04 02:18:32 +0000"
@@ -3107,6 +3119,12 @@
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2025-03-04 02:20:53 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-03-04 03:10:01 +0000"
     },
     "done": true
   },
@@ -3143,6 +3161,12 @@
   "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-03-04 03:07:01 +0000"
     },
     "done": true
   },
@@ -3518,6 +3542,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-03-04 03:09:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/blue_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:51 +0000"
@@ -3626,9 +3656,21 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-03-04 03:10:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/magenta_cooler": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2025-03-04 03:07:01 +0000"
     },
     "done": true
   },
@@ -3701,6 +3743,18 @@
   "rats:recipes/misc/upgrades/underwater_upgrade": {
     "criteria": {
       "has_gravel": "2025-03-04 02:20:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2025-03-04 03:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-04 03:07:01 +0000"
     },
     "done": true
   },
@@ -3806,6 +3860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-03-04 03:09:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_mail_box": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:51 +0000"
@@ -3836,6 +3896,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-03-04 03:09:40 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-03-04 03:10:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2025-03-04 02:11:28 +0000"
@@ -3857,6 +3929,12 @@
   "cfm:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_planks": "2025-03-04 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-04 03:07:01 +0000"
     },
     "done": true
   },
@@ -4001,6 +4079,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-03-04 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-04 03:07:01 +0000"
     },
     "done": true
   },
@@ -4262,6 +4346,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-03-04 03:09:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-03-04 02:09:51 +0000"
@@ -4385,6 +4475,12 @@
   "cfm:recipes/decorations/spruce_table": {
     "criteria": {
       "has_planks": "2025-03-04 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/enchanter_upgrade": {
+    "criteria": {
+      "has_book": "2025-03-04 03:07:01 +0000"
     },
     "done": true
   },

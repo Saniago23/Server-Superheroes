@@ -8787,3 +8787,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 03:01:51.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Alex's Caves]
 [04Mar2025 03:03:51.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
 [04Mar2025 03:03:51.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 03:05:15.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Once Upon a Cave]
+[04Mar2025 03:05:16.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [It Belongs in a Museum]
+[04Mar2025 03:07:25.634] [pool-9-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=709, y=70, z=7365}
+[04Mar2025 03:07:25.964] [Worker-Main-28/DEBUG] [ModernFix/]: Structure iceandfire:village/desert_scriber_1 is being run through DFU (hash a4c7b209c6b9843cf1ae3380d95e5861ca6debff009fb170d0fdaeb52fa22a18), this will cause launch time delays
+[04Mar2025 03:07:26.185] [Worker-Main-28/DEBUG] [ModernFix/]: Structure domesticationinnovation:desert_petshop is being run through DFU (hash 306e5fbef5fdf1074d19935cefbbf5bf1a789d6a653fa6db56b414711f17684c), this will cause launch time delays
+[04Mar2025 03:07:26.202] [Worker-Main-28/DEBUG] [ModernFix/]: Structure waystones:village/desert/waystone is being run through DFU (hash 5acb5b060578cb1eb92dd528424c2635b6cc7be8b854e58450e2df50a8f8a045), this will cause launch time delays
+[04Mar2025 03:08:51.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 03:08:51.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 03:10:01.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has reached the goal [Quaint Scribe]
+[04Mar2025 03:11:08.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Lorem Ipsum]
+[04Mar2025 03:13:51.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 03:13:51.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
