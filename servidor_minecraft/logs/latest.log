@@ -1423,3 +1423,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 22:36:50.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebass> menos 22 menos 14, 116
 [04Mar2025 22:37:04.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass was slain by Zombie
 [04Mar2025 22:37:41.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebass> xaero-waypoint:gui.xaero-deathpoint:D:-13:-30:124:0:false:0:Internal-overworld-waypoints
+[04Mar2025 22:40:21.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass hit the ground too hard
+[04Mar2025 22:41:36.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass fell from a high place
+[04Mar2025 22:42:27.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass has made the advancement [Crops of the Wild]
+[04Mar2025 22:45:32.254] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Camaila04[/127.64.191.5:56469] logged in with entity id 7215 at (563.6999999880791, 70.5625, 7664.3797373356465)
+[04Mar2025 22:45:32.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 joined the game
+[04Mar2025 22:45:32.526] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (ab883470-fa6d-31aa-8013-002547baaf80)
+[04Mar2025 22:45:32.527] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[04Mar2025 22:45:32.527] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Camaila04
+[04Mar2025 22:45:32.527] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Camaila04 run scoreboard objectives add FSang.Gamerule.item dummy
+[04Mar2025 22:45:32.528] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Camaila04 run scoreboard players set .sang FSang.Gamerule.item 1
+[04Mar2025 22:45:32.528] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Camaila04 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[04Mar2025 22:45:32.528] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Camaila04 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[04Mar2025 22:52:27.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Who You Gonna Call?]
+[04Mar2025 22:57:00.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [Hot Stuff]
