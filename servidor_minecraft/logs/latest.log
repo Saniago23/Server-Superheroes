@@ -1444,3 +1444,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 02:19:47.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved too quickly! -19.27054408211488,0.0,-1.6881940803040152
 [04Mar2025 02:19:48.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved too quickly! -20.256611977304885,0.0,0.7202751307054314
 [04Mar2025 02:19:49.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved too quickly! -19.27054408211488,0.0,-1.6900092018927353
+[04Mar2025 02:24:09.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Isn't It Iron Pick]
+[04Mar2025 02:28:32.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Saniago23: Made bryanc2613 a server operator]
+[04Mar2025 02:28:52.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Saniago23: Made bryanc2613 no longer a server operator]
+[04Mar2025 02:30:04.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [Suit Up]
+[04Mar2025 02:32:52.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Cover Me with Diamonds]

@@ -2984,6 +2984,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-04 02:24:36 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
     "criteria": {
       "has_item": "2025-03-04 02:17:06 +0000"
@@ -3001,6 +3007,12 @@
       "has_bread": "2025-03-04 01:54:41 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-03-04 02:24:54 +0000"
+    },
+    "done": false
   },
   "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
     "criteria": {
@@ -3182,6 +3194,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/flight_upgrade": {
+    "criteria": {
+      "has_lapis": "2025-03-04 02:24:36 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/white_cape": {
     "criteria": {
       "has_white_wool": "2025-03-04 01:56:27 +0000"
@@ -3215,6 +3233,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-03-04 01:57:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-03-04 02:24:09 +0000"
     },
     "done": true
   },
@@ -3260,6 +3284,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-03-04 02:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-04 02:24:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_table": {
     "criteria": {
       "has_planks": "2025-03-04 01:57:40 +0000"
@@ -3277,6 +3313,12 @@
       "illager_camp": "2025-03-04 02:02:46 +0000"
     },
     "done": false
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-04 02:24:09 +0000"
+    },
+    "done": true
   },
   "cfm:recipes/decorations/stripped_oak_desk_cabinet": {
     "criteria": {
@@ -3506,6 +3548,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-03-04 02:24:09 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/stone_axe_repairing": {
     "criteria": {
       "has_stone_axe": "2025-03-04 01:57:07 +0000"
@@ -3528,6 +3576,12 @@
   "rats:recipes/misc/hammocks/rat_hammock_red": {
     "criteria": {
       "has_string": "2025-03-04 02:05:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-04 02:24:36 +0000"
     },
     "done": true
   },
