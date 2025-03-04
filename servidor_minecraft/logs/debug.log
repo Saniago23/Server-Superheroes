@@ -13403,3 +13403,57 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 21:35:10.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
 [04Mar2025 21:35:10.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
 [04Mar2025 21:35:41.405] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[04Mar2025 21:35:54.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki was shot by Pillager
+[04Mar2025 21:36:38.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki fell from a high place
+[04Mar2025 21:37:28.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki fell from a high place
+[04Mar2025 21:40:10.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 21:40:10.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 21:42:58.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Not Today, Thank You]
+[04Mar2025 21:45:10.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 21:45:10.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 21:47:33.043] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_5b
+[04Mar2025 21:48:09.598] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_trapped
+[04Mar2025 21:48:09.601] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_2
+[04Mar2025 21:48:09.606] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/balcony
+[04Mar2025 21:48:09.609] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_1
+[04Mar2025 21:48:09.610] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/double_storage
+[04Mar2025 21:48:09.612] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/armorstand
+[04Mar2025 21:48:09.613] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_1
+[04Mar2025 21:48:09.616] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/ravager_prison
+[04Mar2025 21:48:09.618] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_2
+[04Mar2025 21:48:30.241] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1284, y=-20, z=5888}
+[04Mar2025 21:48:30.252] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1279, y=-20, z=5891}
+[04Mar2025 21:48:30.252] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1284, y=-20, z=5888}
+[04Mar2025 21:48:38.251] [Worker-Main-14/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1283, y=-20, z=5926}
+[04Mar2025 21:48:38.251] [Worker-Main-14/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1284, y=-20, z=5926}
+[04Mar2025 21:48:38.252] [Worker-Main-14/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1279, y=-20, z=5891}
+[04Mar2025 21:48:38.253] [Worker-Main-14/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1284, y=-20, z=5888}
+[04Mar2025 21:48:38.354] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1284, y=-20, z=5926}
+[04Mar2025 21:48:38.355] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1284, y=-20, z=5888}
+[04Mar2025 21:49:03.764] [Worker-Main-21/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1303, y=-20, z=5948}
+[04Mar2025 21:49:03.764] [Worker-Main-21/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1302, y=-20, z=5927}
+[04Mar2025 21:49:03.765] [Worker-Main-21/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1294, y=-20, z=5947}
+[04Mar2025 21:49:03.765] [Worker-Main-21/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1283, y=-20, z=5926}
+[04Mar2025 21:49:03.765] [Worker-Main-21/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1284, y=-20, z=5926}
+[04Mar2025 21:49:07.292] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1303, y=-20, z=5948}
+[04Mar2025 21:49:07.292] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1294, y=-20, z=5947}
+[04Mar2025 21:49:16.141] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1303, y=-27, z=5992}
+[04Mar2025 21:49:42.301] [Worker-Main-14/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1327, y=-20, z=5976}
+[04Mar2025 21:49:42.302] [Worker-Main-14/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1304, y=-27, z=5977}
+[04Mar2025 21:49:42.309] [Worker-Main-14/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1303, y=-27, z=5992}
+[04Mar2025 21:49:42.350] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1327, y=-20, z=5976}
+[04Mar2025 21:49:42.350] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1296, y=-20, z=5955}
+[04Mar2025 21:49:42.351] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1310, y=-34, z=5956}
+[04Mar2025 21:49:42.358] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1296, y=-20, z=5955}
+[04Mar2025 21:49:42.358] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1303, y=-20, z=5948}
+[04Mar2025 21:49:42.359] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1304, y=-20, z=5936}
+[04Mar2025 21:49:42.367] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1303, y=-20, z=5948}
+[04Mar2025 21:49:42.368] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1302, y=-20, z=5927}
+[04Mar2025 21:49:42.368] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1284, y=-20, z=5926}
+[04Mar2025 21:50:10.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 21:50:10.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 21:50:40.384] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[04Mar2025 21:51:51.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass was doomed to fall by Skeleton
+[04Mar2025 21:52:44.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass fell from a high place
+[04Mar2025 21:55:10.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 21:55:10.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2

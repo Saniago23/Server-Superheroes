@@ -5405,6 +5405,12 @@
     },
     "done": true
   },
+  "rats:recipes/building_blocks/manhole": {
+    "criteria": {
+      "has_bars": "2025-03-04 21:38:22 +0000"
+    },
+    "done": true
+  },
   "iwannaskate:iwannaskate/root": {
     "criteria": {
       "item_criteria": "2025-03-04 21:00:10 +0000"
@@ -5483,6 +5489,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-03-04 21:40:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-03-04 21:17:18 +0000"
@@ -5504,6 +5516,12 @@
   "aether:recipes/combat/golden_ring": {
     "criteria": {
       "has_gold_ingot": "2025-03-04 21:17:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-03-04 21:46:50 +0000"
     },
     "done": true
   },
@@ -5687,6 +5705,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "has_bamboo": "2025-03-04 21:46:50 +0000"
+    },
+    "done": true
+  },
   "illagerinvasion:recipes/misc/platinum_sheet": {
     "criteria": {
       "has_platinum_chunk": "2025-03-04 20:24:05 +0000"
@@ -5708,6 +5732,12 @@
   "cfm:recipes/decorations/stripped_oak_park_bench": {
     "criteria": {
       "has_log": "2025-03-04 20:04:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2025-03-04 21:40:46 +0000"
     },
     "done": true
   },
@@ -5771,6 +5801,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-03-04 21:53:53 +0000"
+    },
+    "done": true
+  },
   "rats:all_hats": {
     "criteria": {
       "has_archeologist_hat": "2025-03-04 21:18:57 +0000"
@@ -5789,6 +5825,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-03-04 21:46:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-03-04 21:17:18 +0000"
@@ -5801,9 +5843,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-03-04 21:46:50 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_pendant": {
     "criteria": {
       "has_gold_ingot": "2025-03-04 21:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-03-04 21:46:50 +0000"
     },
     "done": true
   },
