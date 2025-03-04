@@ -1439,6 +1439,7 @@
       "minecraft:phantom": "2025-03-04 22:54:53 +0000",
       "minecraft:witch": "2025-03-04 20:41:33 +0000",
       "minecraft:husk": "2025-03-04 04:55:53 +0000",
+      "minecraft:cave_spider": "2025-03-04 23:37:18 +0000",
       "minecraft:silverfish": "2025-03-04 22:29:07 +0000",
       "minecraft:zombie": "2025-03-03 22:54:31 +0000",
       "minecraft:drowned": "2025-03-04 03:47:12 +0000",
@@ -5866,6 +5867,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-03-04 21:53:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-03-04 23:19:46 +0000"
     },
     "done": true
   },

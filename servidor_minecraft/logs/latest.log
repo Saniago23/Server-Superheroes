@@ -1466,3 +1466,60 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 23:19:37.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass moved too quickly! 0.837969916717384,0.0,10.455655764307267
 [04Mar2025 23:19:38.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [It's an Emu!!!]
 [04Mar2025 23:19:41.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass moved too quickly! 0.9311152625106729,0.0,10.752092328164963
+[04Mar2025 23:19:46.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass moved too quickly! -0.674746669438349,0.0,10.753420078409363
+[04Mar2025 23:19:46.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [It's an Emu!!!]
+[04Mar2025 23:19:50.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass moved too quickly! -0.4528211823905224,0.0,10.593883330993776
+[04Mar2025 23:19:53.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass moved too quickly! 1.7346043884392373,0.0,10.331945302865734
+[04Mar2025 23:19:53.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2583ms or 51 ticks behind
+[04Mar2025 23:19:55.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass moved too quickly! 1.8922913735343343,0.0,10.074031708439179
+[04Mar2025 23:20:18.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass moved too quickly! 0.9945736645778425,0.0,10.843278008619563
+[04Mar2025 23:20:27.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved too quickly! 0.554738160108343,0.0,10.867964058749294
+[04Mar2025 23:20:27.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass moved too quickly! 0.8788833698282019,0.0,10.853052473506523
+[04Mar2025 23:20:41.162] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Mar2025 23:20:41.163] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Mar2025 23:20:52.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass moved too quickly! 1.5905033994710038,0.0,10.771953714283882
+[04Mar2025 23:20:52.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved too quickly! 0.4580490605775367,0.0,10.878006774274127
+[04Mar2025 23:21:02.661] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[04Mar2025 23:21:50.725] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Mar2025 23:22:44.939] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[04Mar2025 23:23:11.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved too quickly! -0.5296634817495942,0.0,10.860982392763617
+[04Mar2025 23:23:11.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass moved too quickly! 0.5540648987100667,0.0,10.86227559679719
+[04Mar2025 23:29:10.909] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bryanc2613[/127.151.40.125:43689] logged in with entity id 25299 at (-6.5, 97.0, -8.5)
+[04Mar2025 23:29:10.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 joined the game
+[04Mar2025 23:29:11.423] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (177b1dde-845c-310f-a419-31a16cd111c0)
+[04Mar2025 23:29:11.423] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[04Mar2025 23:29:11.423] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: bryanc2613
+[04Mar2025 23:29:11.423] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as bryanc2613 run scoreboard objectives add FSang.Gamerule.item dummy
+[04Mar2025 23:29:11.424] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as bryanc2613 run scoreboard players set .sang FSang.Gamerule.item 1
+[04Mar2025 23:29:11.424] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as bryanc2613 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[04Mar2025 23:29:11.424] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as bryanc2613 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[04Mar2025 23:29:13.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 lost connection: Disconnected
+[04Mar2025 23:29:13.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 left the game
+[04Mar2025 23:29:35.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bryanc2613[/127.151.40.125:59773] logged in with entity id 25403 at (-6.5, 97.0, -8.5)
+[04Mar2025 23:29:35.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 joined the game
+[04Mar2025 23:29:35.500] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (177b1dde-845c-310f-a419-31a16cd111c0)
+[04Mar2025 23:29:35.501] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[04Mar2025 23:29:35.501] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: bryanc2613
+[04Mar2025 23:29:35.502] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as bryanc2613 run scoreboard objectives add FSang.Gamerule.item dummy
+[04Mar2025 23:29:35.503] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as bryanc2613 run scoreboard players set .sang FSang.Gamerule.item 1
+[04Mar2025 23:29:35.504] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as bryanc2613 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[04Mar2025 23:29:35.505] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as bryanc2613 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[04Mar2025 23:29:37.838] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 lost connection: Disconnected
+[04Mar2025 23:29:37.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 left the game
+[04Mar2025 23:34:30.833] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass lost connection: Disconnected
+[04Mar2025 23:34:30.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass left the game
+[04Mar2025 23:34:37.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki lost connection: Disconnected
+[04Mar2025 23:34:37.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki left the game
+[04Mar2025 23:35:43.890] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bryanc2613[/127.151.40.125:35639] logged in with entity id 26059 at (-6.5, 97.0, -8.5)
+[04Mar2025 23:35:43.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 joined the game
+[04Mar2025 23:35:44.284] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (177b1dde-845c-310f-a419-31a16cd111c0)
+[04Mar2025 23:35:44.284] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[04Mar2025 23:35:44.285] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: bryanc2613
+[04Mar2025 23:35:44.285] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as bryanc2613 run scoreboard objectives add FSang.Gamerule.item dummy
+[04Mar2025 23:35:44.285] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as bryanc2613 run scoreboard players set .sang FSang.Gamerule.item 1
+[04Mar2025 23:35:44.285] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as bryanc2613 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[04Mar2025 23:35:44.285] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as bryanc2613 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[04Mar2025 23:36:28.427] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=96, z=-10}
+[04Mar2025 23:36:28.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=97, z=-9}
+[04Mar2025 23:36:28.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=98, z=-9}
+[04Mar2025 23:36:28.954] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=97, z=-9}

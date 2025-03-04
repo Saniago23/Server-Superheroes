@@ -6293,6 +6293,42 @@
     },
     "done": true
   },
+  "alekiships:recipes/crafting/crafting/oar": {
+    "criteria": {
+      "has_stick": "2025-03-04 19:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-03-04 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2025-03-04 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-03-04 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-03-04 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-04 20:00:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2025-03-04 20:02:18 +0000"
@@ -6305,9 +6341,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+  "ad_astra:recipes/misc/brown_flag": {
     "criteria": {
-      "has_mutton": "2025-03-04 20:00:36 +0000"
+      "has_brown_flag": "2025-03-04 20:02:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_sofa": {
+    "criteria": {
+      "has_wool": "2025-03-04 20:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-03-04 20:02:18 +0000"
+    },
+    "done": true
+  },
+  "grave.core:recipes/brown_fabric": {
+    "criteria": {
+      "has_wool": "2025-03-04 20:02:18 +0000"
     },
     "done": true
   },
@@ -6317,39 +6371,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
-    "criteria": {
-      "has_item": "2025-03-04 20:03:39 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/brown_flag": {
-    "criteria": {
-      "has_brown_flag": "2025-03-04 20:02:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-03-04 20:02:19 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
-    "criteria": {
-      "has_item": "2025-03-04 20:03:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
-    "criteria": {
-      "has_mutton": "2025-03-04 20:00:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-03-04 20:02:30 +0000"
     },
     "done": true
   },
@@ -6359,27 +6383,33 @@
     },
     "done": true
   },
-  "supplementaries:recipes/pedestal": {
-    "criteria": {
-      "has_stone_bricks": "2025-03-04 20:03:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-03-04 20:02:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+  "cfm:recipes/decorations/black_sofa": {
     "criteria": {
-      "has_stone_bricks": "2025-03-04 20:03:39 +0000"
+      "has_wool": "2025-03-04 20:02:19 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/brown_sofa": {
+  "minecraft:recipes/decorations/black_banner": {
     "criteria": {
-      "has_wool": "2025-03-04 20:02:18 +0000"
+      "has_black_wool": "2025-03-04 20:02:19 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/black_flag": {
+    "criteria": {
+      "has_black_flag": "2025-03-04 20:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-03-04 20:02:30 +0000"
     },
     "done": true
   },
@@ -6395,27 +6425,57 @@
     },
     "done": true
   },
-  "supplementaries:recipes/stone_tile": {
-    "criteria": {
-      "has_stone_bricks": "2025-03-04 20:03:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-03-04 20:02:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall": {
+  "ad_astra:recipes/misc/gray_flag": {
+    "criteria": {
+      "has_gray_flag": "2025-03-04 20:02:30 +0000"
+    },
+    "done": true
+  },
+  "grave.core:recipes/gray_fabric": {
+    "criteria": {
+      "has_wool": "2025-03-04 20:02:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-03-04 20:03:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-03-04 20:03:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_stone_bricks": "2025-03-04 20:03:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_carpet": {
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
-      "has_brown_wool": "2025-03-04 20:02:18 +0000"
+      "has_stone_bricks": "2025-03-04 20:03:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-04 20:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-04 20:03:39 +0000"
     },
     "done": true
   },
@@ -6437,39 +6497,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/black_sofa": {
-    "criteria": {
-      "has_wool": "2025-03-04 20:02:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2025-03-04 20:02:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-03-04 20:03:39 +0000"
-    },
-    "done": true
-  },
-  "alekiships:recipes/crafting/crafting/oar": {
-    "criteria": {
-      "has_stick": "2025-03-04 19:54:43 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/gray_flag": {
-    "criteria": {
-      "has_gray_flag": "2025-03-04 20:02:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2025-03-04 20:00:36 +0000"
     },
     "done": true
   },
@@ -6479,39 +6509,9 @@
     },
     "done": true
   },
-  "grave.core:recipes/gray_fabric": {
-    "criteria": {
-      "has_wool": "2025-03-04 20:02:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2025-03-04 20:00:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-04 20:00:36 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/black_flag": {
-    "criteria": {
-      "has_black_flag": "2025-03-04 20:02:19 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/stonecutting/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2025-03-04 20:03:39 +0000"
-    },
-    "done": true
-  },
-  "grave.core:recipes/brown_fabric": {
-    "criteria": {
-      "has_wool": "2025-03-04 20:02:18 +0000"
     },
     "done": true
   },
