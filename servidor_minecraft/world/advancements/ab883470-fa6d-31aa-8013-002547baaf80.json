@@ -130,6 +130,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-03-04 04:55:22 +0000",
+      "floodplain": "2025-03-04 20:17:19 +0000",
       "highland": "2025-03-04 04:11:58 +0000",
       "maple_woods": "2025-03-04 04:09:39 +0000",
       "field": "2025-03-04 04:15:19 +0000",
@@ -1289,6 +1290,7 @@
     "criteria": {
       "cooked_porkchop": "2025-03-03 22:58:10 +0000",
       "cooked_mutton": "2025-03-04 02:31:37 +0000",
+      "sweet_berries": "2025-03-04 20:13:57 +0000",
       "cooked_beef": "2025-03-03 22:52:20 +0000",
       "apple": "2025-03-04 04:25:47 +0000",
       "bread": "2025-03-04 01:58:51 +0000",
@@ -4933,12 +4935,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "direct": "2025-03-04 04:37:59 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-03-04 04:40:44 +0000"
@@ -4966,6 +4962,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-03-04 19:52:09 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/combat/top_hat": {
+    "criteria": {
+      "has_dye": "2025-03-04 20:10:29 +0000"
     },
     "done": true
   },
@@ -4999,9 +5001,63 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_red_dye": {
+    "criteria": {
+      "forge:dyes/red": "2025-03-04 20:10:29 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/red_industrial_lamp": {
+    "criteria": {
+      "has_red_industrial_lamp": "2025-03-04 20:10:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_red_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-03-04 20:10:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-04 20:17:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-03-04 20:14:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-03-04 19:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-04 20:10:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-04 20:10:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-03-04 20:17:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-03-04 20:10:29 +0000"
     },
     "done": true
   },
@@ -5017,6 +5073,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/igloos/rat_igloo_red": {
+    "criteria": {
+      "has_dye": "2025-03-04 20:10:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-03-04 19:52:09 +0000"
@@ -5029,9 +5091,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-03-04 20:10:29 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_table": {
     "criteria": {
       "has_planks": "2025-03-04 19:52:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-03-04 20:13:52 +0000"
     },
     "done": true
   },
@@ -5065,6 +5139,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/tubes/rat_tube_red": {
+    "criteria": {
+      "has_dye": "2025-03-04 20:10:29 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_chair": {
     "criteria": {
       "has_planks": "2025-03-04 19:52:09 +0000"
@@ -5083,9 +5163,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-04 20:10:29 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_red_industrial_lamp": {
+    "criteria": {
+      "has_small_red_industrial_lamp": "2025-03-04 20:10:29 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/hammocks/hammock_dyed_red": {
+    "criteria": {
+      "has_dye": "2025-03-04 20:10:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-03-04 19:52:09 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/flute_upgrade": {
+    "criteria": {
+      "has_dye": "2025-03-04 20:10:29 +0000"
     },
     "done": true
   },
@@ -5101,9 +5205,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-03-04 20:10:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-04 19:52:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_red_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-03-04 20:10:29 +0000"
     },
     "done": true
   },
