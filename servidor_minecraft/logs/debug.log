@@ -8584,3 +8584,154 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 01:52:36.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [This Must be a Sign!]
 [04Mar2025 01:52:39.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [How long's this been here?]
 [04Mar2025 01:52:39.740] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_2
+[04Mar2025 01:52:51.361] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of pantheonsent:khonshu_temple/temple
+[04Mar2025 01:52:52.323] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[04Mar2025 01:52:59.339] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_dark_oak
+[04Mar2025 01:53:43.810] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/tower
+[04Mar2025 01:53:46.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 01:53:46.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 01:54:25.212] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[04Mar2025 01:54:52.298] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[04Mar2025 01:54:52.488] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19b
+[04Mar2025 01:55:01.985] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[04Mar2025 01:55:01.989] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[04Mar2025 01:55:02.103] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_9b
+[04Mar2025 01:55:11.681] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_trapped
+[04Mar2025 01:55:11.683] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_2
+[04Mar2025 01:55:34.102] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_good_loot
+[04Mar2025 01:55:36.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Diamonds!]
+[04Mar2025 01:55:37.889] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_path_curve_small is being run through DFU (hash 281c816d9f8cb41a383025af7a0e4213bc313309aef3e16047a5b0c4ede33eb3), this will cause launch time delays
+[04Mar2025 01:55:37.897] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_mob_evoker_void is being run through DFU (hash 9b91eae30b402c4a989a52abfca8f7cbfe7d9a0ab749a24eb6320beec47ec165), this will cause launch time delays
+[04Mar2025 01:55:37.897] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_mob_vindicator_void is being run through DFU (hash 5d7828b5d693a3f1e252ff86220898ca1fadc5ad45f4314ca5fe62530a20c8f5), this will cause launch time delays
+[04Mar2025 01:55:37.897] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_mob_witch_void is being run through DFU (hash 2b5921f4f9403f508fa06175b9cc3ea212f7dc8dcf4ad1e2fbc001c41a938b4b), this will cause launch time delays
+[04Mar2025 01:55:37.898] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_mob_vindicator is being run through DFU (hash 3442ad3e20ae07c46729360088bba8bb8c7d98279314a945113ad47e9d66bd56), this will cause launch time delays
+[04Mar2025 01:55:37.898] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_mob_evoker is being run through DFU (hash c03565a8a1348194fdb6212e44a8e6dac016150d6a7debd1b07da49c5f6d48e3), this will cause launch time delays
+[04Mar2025 01:55:37.899] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_mob_pillager_void is being run through DFU (hash 6b15388e872273e4e3f371d4d79293ef2dc9926d0510c3184f9a552cee28d643), this will cause launch time delays
+[04Mar2025 01:55:37.899] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_mob_witch is being run through DFU (hash 39ba52f8ac076f59b10c61028b05b840ba250c45efecf4fb6292ec7251955f5d), this will cause launch time delays
+[04Mar2025 01:55:37.899] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_mob_pillager is being run through DFU (hash f49234d2b847022abf7f235ea88e2b744a71ac481321635bd4dd1464ced73b6b), this will cause launch time delays
+[04Mar2025 01:55:37.900] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_path_straight_medium is being run through DFU (hash 89852fd79c0798a757ca870c81469f39dfefc3aa88379819bbc8fe222e6f6524), this will cause launch time delays
+[04Mar2025 01:55:37.907] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_15 is being run through DFU (hash a5a4147cc2147bf4f47ea439ad4ce26263e9ad375810c986860d9a7260bca7f1), this will cause launch time delays
+[04Mar2025 01:55:37.909] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_12 is being run through DFU (hash 697bd69602bfa4ca099b43d41127d9b02c466aa5723abdb12e840eb3ca2fb7d0), this will cause launch time delays
+[04Mar2025 01:55:37.913] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_path_crossroad_big is being run through DFU (hash fedf41d88927e0efd0391a0cf3b75e6fc2b6a92be8632793c0de846d50b8b6a8), this will cause launch time delays
+[04Mar2025 01:55:37.931] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_17 is being run through DFU (hash ca8e949e1de19824fcbc8203e82793b92e2bf86bea98e3b89d37a4f43bb018d7), this will cause launch time delays
+[04Mar2025 01:55:37.933] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_11 is being run through DFU (hash 8c264cee9a0b84927085bdd66bc865ddea6417fb8e55febada70264d05ec9f2c), this will cause launch time delays
+[04Mar2025 01:55:37.935] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_10 is being run through DFU (hash ad4b23cf4507b111c7257fb40decd5076c8004b735b4842ed035626a4f16c5e6), this will cause launch time delays
+[04Mar2025 01:55:37.936] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_path_straight_large is being run through DFU (hash 4f43df06f6bda056086bcf72fd0c34bfa02e45d02bc2a5648414fa611df438b6), this will cause launch time delays
+[04Mar2025 01:55:37.940] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_path_curve_big is being run through DFU (hash af8735f799ed2f1688c12ef59443bf7d97e4c9bc04a797c498c44a4fa93de0de), this will cause launch time delays
+[04Mar2025 01:55:37.944] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_9 is being run through DFU (hash de9c8681e7568fa5732e97945ff32383065847c586e225a7714a3326214ada04), this will cause launch time delays
+[04Mar2025 01:55:37.945] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_23 is being run through DFU (hash b44354f04dd4cae0212874f03d1d15a6daf8e75dcc3222c049d0c2b4d856aeee), this will cause launch time delays
+[04Mar2025 01:55:37.946] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_mine_entry is being run through DFU (hash 5fb6be1eeb7a81ae294c77785200648c00871d8995e465ba0bb25ec127abd212), this will cause launch time delays
+[04Mar2025 01:55:37.951] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_8 is being run through DFU (hash adc933174e181f0f39a062ad009dbbf67daee07201d28fa98794d56dafc956ee), this will cause launch time delays
+[04Mar2025 01:55:37.952] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_mine_cross is being run through DFU (hash b9abb2b9dbf9ca32c2ef8d6bfc5819851b1363eecd84957a8b5ab70dbc3fbedb), this will cause launch time delays
+[04Mar2025 01:55:37.952] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_5 is being run through DFU (hash 1033e73a70b252e74e4d9c1fa9efe7252ea818dc934c12c9e0f6edda1a62cee2), this will cause launch time delays
+[04Mar2025 01:55:37.953] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_path_t_curve_small is being run through DFU (hash 7bd4dc7dc923ca85844af9cecfdd4d162a025e2cb169313c254d5a8faf12cae4), this will cause launch time delays
+[04Mar2025 01:55:37.954] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_22 is being run through DFU (hash eb8d4fa9d5336662237c57e75a2cb0e6953b63ec67add630b05030cfe1922972), this will cause launch time delays
+[04Mar2025 01:55:37.955] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_21 is being run through DFU (hash e27d6c0aedb4001f334fb438ed11aade7cf10f00d93a5b87c4e430e767ace0a9), this will cause launch time delays
+[04Mar2025 01:55:37.956] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_4 is being run through DFU (hash 7d6187f320f94e1a29aa33240ba95abeaeaf74b1e721a966a9e854e65385f162), this will cause launch time delays
+[04Mar2025 01:55:37.956] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_2 is being run through DFU (hash 61f3f324362a80257758f40a8dac49611847110ddc4a23baac93566fc0fb45b1), this will cause launch time delays
+[04Mar2025 01:55:37.957] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_path_crossroad_small is being run through DFU (hash 4ec74c7a49e3d476c753904d324aa48a9b797b1a9c2919473e0c638d19bce7bb), this will cause launch time delays
+[04Mar2025 01:55:37.958] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_24 is being run through DFU (hash 4fac5e8534aeb86df32cd45b302aee6c286d7af2887f601c865beee5c93cf72e), this will cause launch time delays
+[04Mar2025 01:55:37.960] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_14 is being run through DFU (hash 54f66221ac581447b39829842f68ca993be36fee5fdea4530827b8f40c4b9af8), this will cause launch time delays
+[04Mar2025 01:55:37.961] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_mine_stairs is being run through DFU (hash 7c9e71796ae57713e0f8fbb2fd83133af00f851c9d18e5c7494856f2a80a1e56), this will cause launch time delays
+[04Mar2025 01:55:37.962] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_1 is being run through DFU (hash b25a5dd2be03ba0dcadd4d5f2d6c7bb451a5841ee628421079ae981072ad2816), this will cause launch time delays
+[04Mar2025 01:55:37.963] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_mine_dirt is being run through DFU (hash 111748c6dc1d1f8f7bf07f395d0f705cc4171ccf08f080bd2f06fd2508b318f4), this will cause launch time delays
+[04Mar2025 01:55:37.965] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_20 is being run through DFU (hash 6c83a905672f97cd07cc84447ea82656cbdeaef417413d4d0ce497154d995798), this will cause launch time delays
+[04Mar2025 01:55:37.965] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_6 is being run through DFU (hash 0e63a0dfb851aace375968f037fc9a1fd8a774aa0759314f37b465cec9a5cc53), this will cause launch time delays
+[04Mar2025 01:55:37.966] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_18 is being run through DFU (hash fca6521120ccfec121d3bed3e923ad8c215cf54a1b2559817f0f739dfcb1290f), this will cause launch time delays
+[04Mar2025 01:55:37.967] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_19 is being run through DFU (hash 7d5549e33098051a653120e8f2d89925fd42a60d8410483e8e3dcdf1d2a4eb42), this will cause launch time delays
+[04Mar2025 01:55:37.967] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_7 is being run through DFU (hash de30d61dab03475d806ad67acbba78a3af7425f424e6dfb6c2b9e88fef60957e), this will cause launch time delays
+[04Mar2025 01:55:37.968] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_13 is being run through DFU (hash 4a340af591b15a91e7d563f65bed9772132a415254bba9feebaa1455fae8c198), this will cause launch time delays
+[04Mar2025 01:55:37.968] [Worker-Main-14/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_3 is being run through DFU (hash 2a63b2af44dca2453d0be945cb0e6560573faff798ebf31970b2fe3f9d710164), this will cause launch time delays
+[04Mar2025 01:55:40.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2597ms or 51 ticks behind
+[04Mar2025 01:55:55.247] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[04Mar2025 01:55:55.251] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[04Mar2025 01:56:06.195] [Worker-Main-14/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1278, y=-20, z=5904}
+[04Mar2025 01:56:06.812] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[04Mar2025 01:56:08.706] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1279, y=-20, z=5891}
+[04Mar2025 01:56:08.706] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1278, y=-20, z=5904}
+[04Mar2025 01:56:10.312] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1255, y=-20, z=5918}
+[04Mar2025 01:56:10.312] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1278, y=-20, z=5904}
+[04Mar2025 01:56:10.313] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1265, y=-20, z=5919}
+[04Mar2025 01:56:10.313] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1255, y=-20, z=5913}
+[04Mar2025 01:56:10.448] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1283, y=-20, z=5926}
+[04Mar2025 01:56:10.449] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1278, y=-20, z=5919}
+[04Mar2025 01:56:10.449] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1279, y=-20, z=5891}
+[04Mar2025 01:56:10.449] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1255, y=-20, z=5918}
+[04Mar2025 01:56:10.449] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1278, y=-20, z=5904}
+[04Mar2025 01:56:10.450] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1265, y=-20, z=5919}
+[04Mar2025 01:56:10.450] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1255, y=-20, z=5913}
+[04Mar2025 01:56:39.977] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit
+[04Mar2025 01:56:39.984] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthi_throne
+[04Mar2025 01:56:39.991] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_1
+[04Mar2025 01:56:40.004] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_2
+[04Mar2025 01:56:40.010] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_3
+[04Mar2025 01:56:40.047] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_1
+[04Mar2025 01:56:40.053] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_2
+[04Mar2025 01:56:40.127] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_4
+[04Mar2025 01:56:40.134] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_2
+[04Mar2025 01:56:40.140] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_1
+[04Mar2025 01:56:40.152] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_3
+[04Mar2025 01:56:42.221] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1302, y=-20, z=5927}
+[04Mar2025 01:56:42.221] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1283, y=-20, z=5926}
+[04Mar2025 01:56:57.978] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center3
+[04Mar2025 01:56:57.981] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center3
+[04Mar2025 01:57:15.580] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:illusioner_tower/tower_3
+[04Mar2025 01:57:20.839] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[04Mar2025 01:57:33.060] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_3
+[04Mar2025 01:57:49.934] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=867, y=24, z=5969} but found not block entity block Block{minecraft:diorite} at location
+[04Mar2025 01:57:49.934] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:diorite} but failed at location BlockPos{x=867, y=24, z=5969}
+[04Mar2025 01:58:39.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bryanc2613> xaero-waypoint:Umvuthi The Sun Bird:U:950:65:6145:3:false:0:Internal-overworld-waypoints
+[04Mar2025 01:58:49.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 01:58:49.401] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 01:58:55.276] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[04Mar2025 01:58:58.234] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_29
+[04Mar2025 01:59:29.406] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_birch
+[04Mar2025 01:59:29.415] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_spruce
+[04Mar2025 01:59:29.429] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_2
+[04Mar2025 02:00:00.062] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center1
+[04Mar2025 02:00:00.068] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center1
+[04Mar2025 02:00:06.174] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:illusioner_tower/tower_1
+[04Mar2025 02:00:38.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki burned to death
+[04Mar2025 02:00:58.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/main/conduit_ruin_ring_1
+[04Mar2025 02:00:58.196] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:conduit_ruin/main/conduit_ruin_starting_room is being run through DFU (hash fa9ffb3123afc757a2520d3298cd1e681b5c620358d72d99d36a820184300ab8), this will cause launch time delays
+[04Mar2025 02:00:58.202] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:conduit_ruin/road/conduit_ruin_road_t_curve_1 is being run through DFU (hash afd4fc1186aab0cde2d970c3e02862c39ec161886b865864b1e3d7bb35ae29ac), this will cause launch time delays
+[04Mar2025 02:00:58.203] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:conduit_ruin/road/conduit_ruin_road_t_curve_2 is being run through DFU (hash 0dccc3aa91cfb65f32b5dca0a3cc0a7b040caa09df5d2951e302a3c213c9f402), this will cause launch time delays
+[04Mar2025 02:00:58.205] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:conduit_ruin/road/conduit_ruin_road_t_curve_3 is being run through DFU (hash d8fdc985c112db247a73c2848cd6295d447d4e7e80b8a40aa8b8f9ef0aecc7cd), this will cause launch time delays
+[04Mar2025 02:00:58.206] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:conduit_ruin/road/conduit_ruin_road_straight_2 is being run through DFU (hash 1e90adf4109e90d4d9cc88e678c54aa5935e490b5a36abc6d73110d2910e7ca8), this will cause launch time delays
+[04Mar2025 02:00:58.208] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:conduit_ruin/room/conduit_ruin_room_curve_small is being run through DFU (hash 42a44dc8f0b3bef3828fb005e7f09fc77325378801a52ce35d4c699538e9eb45), this will cause launch time delays
+[04Mar2025 02:00:58.211] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:conduit_ruin/room/conduit_ruin_room_t_curve_small is being run through DFU (hash 0b55db1b3ef6af8a2b2fd4938d7261b0b296701fd14ab141ea02cbe602254739), this will cause launch time delays
+[04Mar2025 02:00:58.215] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:conduit_ruin/room/conduit_ruin_room_t_curve_big is being run through DFU (hash b3bc50897c92605dc05bdf027d03f58414b8b6984b29df7a4ed65554a5e03f6b), this will cause launch time delays
+[04Mar2025 02:00:58.222] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:conduit_ruin/room/conduit_ruin_room_curve_big is being run through DFU (hash 38d7d5c3fa0b05491a494850bebc411626693aa3bfc6ef22edabfc8ad257df8c), this will cause launch time delays
+[04Mar2025 02:00:58.228] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:conduit_ruin/room/conduit_ruin_room_crossroad_small is being run through DFU (hash 8e12cc8e9983f0cbee4af9f82edfc1061948d40c4a6e10cce10aa4fdf0ce7e24), this will cause launch time delays
+[04Mar2025 02:00:58.233] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:conduit_ruin/room/conduit_ruin_room_straight_big is being run through DFU (hash 9abf1d30fdf05dbc635618fa5c1cc29080019d6565686c6a929e9458f1c0a2fb), this will cause launch time delays
+[04Mar2025 02:00:58.239] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:conduit_ruin/room/conduit_ruin_room_crossroad_big is being run through DFU (hash 5c0ffbbd6c5e77baaeaad920a4386d3df0d9e817d513145d0769fabfa44b2a0d), this will cause launch time delays
+[04Mar2025 02:00:58.244] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:conduit_ruin/fallback/conduit_ruin_room_fail is being run through DFU (hash ae1b187bceeed6c12ae89924dc9e3d23dddb2143ad655a25d187caf08a9191fb), this will cause launch time delays
+[04Mar2025 02:00:58.250] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:conduit_ruin/road/conduit_ruin_road_crossroad_1 is being run through DFU (hash aa2bff5313b3cad8029562b4117443d8b9f534baf1158f9ccbfba31438f57918), this will cause launch time delays
+[04Mar2025 02:00:58.262] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:conduit_ruin/road/conduit_ruin_road_straight_1 is being run through DFU (hash a0b8632c7afd9f4cc59eb46cda17be670e7953e442cc16ba6703bfa34911a90e), this will cause launch time delays
+[04Mar2025 02:00:58.263] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:conduit_ruin/fallback/conduit_ruin_road_fail is being run through DFU (hash 87f25cf1f6023020de97e1e05a319a82fbae7d2480d3b4b6bf65c1305f2887e3), this will cause launch time delays
+[04Mar2025 02:01:40.065] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_6
+[04Mar2025 02:02:15.698] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/sorcerer
+[04Mar2025 02:02:15.699] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/vindicator
+[04Mar2025 02:03:14.300] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_1
+[04Mar2025 02:03:49.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 02:03:49.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 02:03:54.766] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_entry/creeping_crypit_entry_house
+[04Mar2025 02:04:49.913] [Worker-Main-28/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_10b is being run through DFU (hash 8e67e0978c41562d9d58e02f2f6b0048e2847205ca5eb41073df846c9fb59d68), this will cause launch time delays
+[04Mar2025 02:06:07.716] [pool-9-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=955, y=67, z=7627}
+[04Mar2025 02:06:08.772] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/taiga_scriber_1
+[04Mar2025 02:06:08.778] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:priest_house_taiga
+[04Mar2025 02:06:08.779] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of domesticationinnovation:taiga_petshop
+[04Mar2025 02:06:08.780] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[04Mar2025 02:06:09.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved too quickly! 2.4939288598084204,-2.024424088213692,9.565888413102698
+[04Mar2025 02:06:09.758] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[04Mar2025 02:06:09.764] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:priest_house
+[04Mar2025 02:06:09.766] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of domesticationinnovation:plains_petshop
+[04Mar2025 02:06:10.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2282ms or 45 ticks behind
+[04Mar2025 02:07:25.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [Tools of the Trade]
+[04Mar2025 02:07:28.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [How long's this been here?]
+[04Mar2025 02:07:33.414] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_8b
+[04Mar2025 02:08:05.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki was slain by Enderman
+[04Mar2025 02:08:51.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[04Mar2025 02:08:51.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[04Mar2025 02:09:15.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bryanc2613> xaero-waypoint:aldeita:A:581:66:7646:4:false:0:Internal-overworld-waypoints
+[04Mar2025 02:11:51.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [Convergent Evolution...]

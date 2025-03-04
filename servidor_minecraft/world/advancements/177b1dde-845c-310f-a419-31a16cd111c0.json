@@ -129,19 +129,26 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-03-04 01:51:50 +0000",
       "shrubland": "2025-03-04 01:22:52 +0000",
+      "scrubland": "2025-03-04 01:52:25 +0000",
+      "floodplain": "2025-03-04 02:01:41 +0000",
       "highland": "2025-03-03 23:26:53 +0000",
       "jacaranda_glade": "2025-03-04 01:26:09 +0000",
+      "old_growth_woodland": "2025-03-04 01:52:24 +0000",
       "maple_woods": "2025-03-03 23:16:54 +0000",
       "field": "2025-03-03 23:29:49 +0000",
       "orchard": "2025-03-04 01:23:34 +0000",
+      "overgrown_greens": "2025-03-04 02:03:58 +0000",
       "coniferous_forest": "2025-03-03 18:33:00 +0000",
       "redwood_forest": "2025-03-04 01:24:31 +0000",
+      "dune_beach": "2025-03-04 02:05:21 +0000",
       "seasonal_forest": "2025-03-03 22:26:33 +0000",
       "fir_clearing": "2025-03-03 22:37:28 +0000",
       "pumpkin_patch": "2025-03-03 23:16:41 +0000",
       "grassland": "2025-03-04 01:22:09 +0000",
       "prairie": "2025-03-04 01:25:10 +0000",
+      "rainforest": "2025-03-04 01:51:31 +0000",
       "crag": "2025-03-04 01:20:47 +0000",
       "ominous_woods": "2025-03-03 23:42:33 +0000"
     },
@@ -1789,15 +1796,20 @@
     "criteria": {
       "minecraft:taiga": "2025-03-03 23:38:24 +0000",
       "minecraft:birch_forest": "2025-03-04 01:28:16 +0000",
+      "minecraft:bamboo_jungle": "2025-03-04 02:02:49 +0000",
+      "minecraft:beach": "2025-03-04 02:04:54 +0000",
       "minecraft:stony_peaks": "2025-03-04 01:30:45 +0000",
+      "minecraft:sparse_jungle": "2025-03-04 02:02:13 +0000",
       "minecraft:river": "2025-03-03 22:36:54 +0000",
       "minecraft:stony_shore": "2025-03-03 22:34:31 +0000",
       "minecraft:snowy_plains": "2025-03-03 22:47:42 +0000",
       "minecraft:snowy_taiga": "2025-03-03 22:47:46 +0000",
       "minecraft:forest": "2025-03-03 22:47:27 +0000",
       "minecraft:jungle": "2025-03-04 01:28:31 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-04 02:02:37 +0000",
       "minecraft:deep_dark": "2025-03-03 22:54:31 +0000",
       "minecraft:meadow": "2025-03-03 22:38:04 +0000",
+      "minecraft:savanna": "2025-03-04 01:52:53 +0000",
       "minecraft:plains": "2025-03-03 22:36:58 +0000"
     },
     "done": false
@@ -4409,6 +4421,102 @@
   "cfm:recipes/decorations/jungle_desk": {
     "criteria": {
       "has_log": "2025-03-04 01:28:38 +0000"
+    },
+    "done": true
+  },
+  "rats:cheese": {
+    "criteria": {
+      "get_cheese": "2025-03-04 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-04 01:55:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-04 01:55:26 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/cheese": {
+    "criteria": {
+      "has_cheese": "2025-03-04 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/block_of_cheese": {
+    "criteria": {
+      "has_cheese": "2025-03-04 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/basic_upgrade": {
+    "criteria": {
+      "has_cheese": "2025-03-04 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/marbled_cheese_raw": {
+    "criteria": {
+      "has_cheese": "2025-03-04 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/chef/string_cheese": {
+    "criteria": {
+      "has_input": "2025-03-04 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/auto_curdler": {
+    "criteria": {
+      "has_cheese": "2025-03-04 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/block_of_blue_cheese": {
+    "criteria": {
+      "has_cheese": "2025-03-04 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-04 01:55:26 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/assorted_vegetables": {
+    "criteria": {
+      "has_a_veggie": "2025-03-04 01:55:26 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/marbled_cheese_raw_alt": {
+    "criteria": {
+      "has_cheese": "2025-03-04 02:08:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-04 01:55:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-03-04 01:55:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-04 01:55:26 +0000"
     },
     "done": true
   },

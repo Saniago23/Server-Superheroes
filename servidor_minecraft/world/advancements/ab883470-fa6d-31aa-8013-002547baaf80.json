@@ -1276,6 +1276,7 @@
     "criteria": {
       "cooked_porkchop": "2025-03-03 22:58:10 +0000",
       "cooked_beef": "2025-03-03 22:52:20 +0000",
+      "bread": "2025-03-04 01:58:51 +0000",
       "rotten_flesh": "2025-03-04 01:20:56 +0000",
       "cooked_chicken": "2025-03-04 01:23:03 +0000"
     },
@@ -1429,6 +1430,7 @@
     "criteria": {
       "minecraft:river": "2025-03-03 22:53:30 +0000",
       "minecraft:stony_shore": "2025-03-03 22:53:46 +0000",
+      "minecraft:forest": "2025-03-04 01:59:02 +0000",
       "minecraft:meadow": "2025-03-03 23:35:00 +0000",
       "minecraft:plains": "2025-03-03 23:34:01 +0000"
     },
@@ -2901,9 +2903,51 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/poison_upgrade": {
+    "criteria": {
+      "has_eye": "2025-03-04 02:04:06 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/manhole": {
+    "criteria": {
+      "has_bars": "2025-03-04 02:00:04 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-03-04 02:06:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-03-04 01:46:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-03-04 01:52:36 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-03-04 02:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-04 02:04:06 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-03-04 02:07:28 +0000"
     },
     "done": true
   },
