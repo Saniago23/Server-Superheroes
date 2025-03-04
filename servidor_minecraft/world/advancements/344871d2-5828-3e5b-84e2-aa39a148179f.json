@@ -4672,9 +4672,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal": {
+  "aether:recipes/combat/wooden_sword_repairing": {
     "criteria": {
-      "has_bone": "2025-03-04 20:44:58 +0000"
+      "has_wooden_sword": "2025-03-04 20:42:18 +0000"
     },
     "done": true
   },
@@ -4684,15 +4684,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-04 20:44:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-03-04 20:44:58 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/wooden_sword_repairing": {
+  "immersive_aircraft:misc/aircraftery": {
     "criteria": {
-      "has_wooden_sword": "2025-03-04 20:42:18 +0000"
+      "has_item": "2025-03-04 21:02:53 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/cannonball": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-04 21:02:53 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/cleat": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-04 21:02:53 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/anchor": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-04 21:02:53 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/oarlock": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-04 21:02:53 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2025-03-04 21:02:59 +0000"
     },
     "done": true
   },

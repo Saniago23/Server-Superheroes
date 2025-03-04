@@ -5375,6 +5375,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-03-04 21:09:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-03-04 20:18:54 +0000"
@@ -5384,6 +5390,12 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2025-03-04 20:42:10 +0000"
+    },
+    "done": true
+  },
+  "iwannaskate:iwannaskate/root": {
+    "criteria": {
+      "item_criteria": "2025-03-04 21:00:10 +0000"
     },
     "done": true
   },
@@ -5411,9 +5423,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_red_leggings": {
+    "criteria": {
+      "has_item": "2025-03-04 20:57:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_upgraded_fence": {
     "criteria": {
       "has_log": "2025-03-04 20:04:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_helmet": {
+    "criteria": {
+      "has_item": "2025-03-04 20:57:31 +0000"
     },
     "done": true
   },
@@ -5462,6 +5486,12 @@
   "rats:recipes/misc/upgrades/aristocrat_upgrade": {
     "criteria": {
       "has_emerald": "2025-03-04 20:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-03-04 20:54:19 +0000"
     },
     "done": true
   },
@@ -5525,6 +5555,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-03-04 20:56:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-03-04 20:04:03 +0000"
@@ -5543,15 +5579,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-04 20:57:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_park_bench": {
     "criteria": {
       "has_log": "2025-03-04 20:04:03 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_red_boots": {
+    "criteria": {
+      "has_item": "2025-03-04 20:57:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_coffee_table": {
     "criteria": {
       "has_planks": "2025-03-04 20:04:03 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/dragon_upgrade": {
+    "criteria": {
+      "has_charge": "2025-03-04 20:54:32 +0000"
     },
     "done": true
   },
@@ -5567,6 +5621,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/support_upgrade": {
+    "criteria": {
+      "has_stand": "2025-03-04 21:12:22 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/gray_flag": {
     "criteria": {
       "has_gray_flag": "2025-03-04 19:59:21 +0000"
@@ -5576,6 +5636,12 @@
   "grave.core:recipes/gray_fabric": {
     "criteria": {
       "has_wool": "2025-03-04 19:59:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/green_dye_from_tiny_cactus": {
+    "criteria": {
+      "has_tiny_cactus": "2025-03-04 21:00:31 +0000"
     },
     "done": true
   },

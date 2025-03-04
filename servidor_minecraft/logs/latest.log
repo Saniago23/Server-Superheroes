@@ -1907,3 +1907,41 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Mar2025 20:49:40.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 was slain by Ghost
 [04Mar2025 20:52:59.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass has made the advancement [Monster Hunter]
 [04Mar2025 20:52:59.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass was slain by Spider
+[04Mar2025 20:56:29.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 was slain by Ghost
+[04Mar2025 20:56:30.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Todoroxki> xaero-waypoint:mi casa w (todoroki):M:-39:20:95:10:false:0:Internal-overworld-waypoints
+[04Mar2025 20:56:47.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [No Step on Snake]
+[04Mar2025 20:59:06.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki was shot by Skeleton
+[04Mar2025 21:00:10.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [I Wanna Skate]
+[04Mar2025 21:00:12.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki fell from a high place
+[04Mar2025 21:00:59.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki fell from a high place
+[04Mar2025 21:03:02.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 was slain by Ghost
+[04Mar2025 21:05:31.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass lost connection: Timed out
+[04Mar2025 21:05:31.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass left the game
+[04Mar2025 21:05:32.194] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki lost connection: Timed out
+[04Mar2025 21:05:32.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki left the game
+[04Mar2025 21:05:59.042] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebass[/127.136.36.252:54125] logged in with entity id 25702 at (-99.30000001192093, 91.0, 150.8061479694675)
+[04Mar2025 21:05:59.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass joined the game
+[04Mar2025 21:05:59.444] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (edfbff84-1beb-33f5-bb26-1f58c91c6fef)
+[04Mar2025 21:05:59.444] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[04Mar2025 21:05:59.444] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Sebass
+[04Mar2025 21:05:59.445] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.item dummy
+[04Mar2025 21:05:59.445] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.item 1
+[04Mar2025 21:05:59.445] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[04Mar2025 21:05:59.445] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[04Mar2025 21:06:12.885] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@75ef3275[id=<null>,name=Todoroxki,properties={},legacy=false] (/127.136.36.252:37119) lost connection: Disconnected
+[04Mar2025 21:06:23.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 was pierced by Necromancer's icicle
+[04Mar2025 21:06:25.996] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Todoroxki[/127.136.36.252:58241] logged in with entity id 25823 at (-34.29860972988902, 11.0, 106.37504591691179)
+[04Mar2025 21:06:26.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki joined the game
+[04Mar2025 21:06:26.205] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (344871d2-5828-3e5b-84e2-aa39a148179f)
+[04Mar2025 21:06:26.205] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[04Mar2025 21:06:26.205] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Todoroxki
+[04Mar2025 21:06:26.206] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Todoroxki run scoreboard objectives add FSang.Gamerule.item dummy
+[04Mar2025 21:06:26.206] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Todoroxki run scoreboard players set .sang FSang.Gamerule.item 1
+[04Mar2025 21:06:26.206] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Todoroxki run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[04Mar2025 21:06:26.206] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Todoroxki run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[04Mar2025 21:06:58.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camaila04> xaero-waypoint:Muerte de cam ^col^c:D:703:111:6322:0:false:0:Internal-overworld-waypoints
+[04Mar2025 21:07:22.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 lost connection: Disconnected
+[04Mar2025 21:07:22.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 left the game
+[04Mar2025 21:09:44.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass fell from a high place
+[04Mar2025 21:11:37.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass fell from a high place
+[04Mar2025 21:14:43.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass was doomed to fall by Zombie

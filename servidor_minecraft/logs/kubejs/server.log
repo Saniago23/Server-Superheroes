@@ -186,3 +186,15 @@
 [20:34:29] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Todoroxki run scoreboard players set .sang FSang.Gamerule.item 1
 [20:34:29] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Todoroxki run scoreboard objectives add FSang.Gamerule.symbiote dummy
 [20:34:29] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Todoroxki run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[21:05:59] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[21:05:59] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Sebass
+[21:05:59] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.item dummy
+[21:05:59] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.item 1
+[21:05:59] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[21:05:59] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[21:06:26] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[21:06:26] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Todoroxki
+[21:06:26] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Todoroxki run scoreboard objectives add FSang.Gamerule.item dummy
+[21:06:26] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Todoroxki run scoreboard players set .sang FSang.Gamerule.item 1
+[21:06:26] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Todoroxki run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[21:06:26] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Todoroxki run scoreboard players set .sang FSang.Gamerule.symbiote 1

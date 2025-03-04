@@ -1298,6 +1298,7 @@
       "apple": "2025-03-04 04:25:47 +0000",
       "bread": "2025-03-04 01:58:51 +0000",
       "rotten_flesh": "2025-03-04 01:20:56 +0000",
+      "melon_slice": "2025-03-04 20:52:40 +0000",
       "cooked_chicken": "2025-03-04 01:23:03 +0000",
       "cooked_salmon": "2025-03-04 03:50:28 +0000"
     },
@@ -4956,6 +4957,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-03-04 20:52:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_coffee_table": {
     "criteria": {
       "has_planks": "2025-03-04 19:52:09 +0000"
@@ -4971,6 +4978,12 @@
   "rats:recipes/combat/top_hat": {
     "criteria": {
       "has_dye": "2025-03-04 20:10:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-03-04 20:52:33 +0000"
     },
     "done": true
   },
@@ -5094,6 +5107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-03-04 20:52:33 +0000"
+    },
+    "done": true
+  },
   "alekiships:recipes/crafting/crafting/cleat": {
     "criteria": {
       "has_iron_ingot": "2025-03-04 20:08:35 +0000"
@@ -5121,6 +5140,12 @@
   "cfm:recipes/decorations/oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-03-04 19:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-03-04 20:52:33 +0000"
     },
     "done": true
   },
@@ -5211,6 +5236,12 @@
   "alekiships:recipes/crafting/crafting/oar": {
     "criteria": {
       "has_stick": "2025-03-04 19:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-03-04 20:52:33 +0000"
     },
     "done": true
   },
