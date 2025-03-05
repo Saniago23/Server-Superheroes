@@ -1374,6 +1374,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-04 20:44:56 +0000",
       "minecraft:spider": "2025-03-04 21:48:54 +0000",
+      "minecraft:creeper": "2025-03-05 02:17:39 +0000",
       "minecraft:zombie": "2025-03-03 22:56:08 +0000"
     },
     "done": false
@@ -5337,6 +5338,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-03-05 02:14:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-03-05 02:17:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-03-05 01:50:39 +0000"
@@ -5367,6 +5380,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_park_bench": {
+    "criteria": {
+      "has_log": "2025-03-05 02:14:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
     "criteria": {
       "has_cod": "2025-03-05 01:50:39 +0000"
@@ -5379,9 +5398,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-05 02:14:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_grill_cooking": {
     "criteria": {
       "has_rabbit": "2025-03-05 01:50:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:14:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_chair": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:14:44 +0000"
     },
     "done": true
   },
@@ -5409,9 +5446,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-03-05 02:14:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2025-03-05 02:10:19 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/tnt_upgrade": {
+    "criteria": {
+      "has_gunpowder": "2025-03-05 02:17:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-03-05 02:17:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_table": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:14:44 +0000"
     },
     "done": true
   },
@@ -5433,9 +5494,39 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_blinds": {
+    "criteria": {
+      "has_log": "2025-03-05 02:14:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_crate": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:14:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2025-03-05 01:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-03-05 02:14:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-03-05 02:14:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-03-05 02:14:44 +0000"
     },
     "done": true
   },
@@ -5451,6 +5542,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_desk": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:14:44 +0000"
+    },
+    "done": true
+  },
   "rats:all_hats": {
     "criteria": {
       "has_archeologist_hat": "2025-03-05 01:39:46 +0000"
@@ -5463,15 +5560,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:14:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-03-05 01:50:39 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-05 02:17:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-03-05 02:07:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:14:44 +0000"
     },
     "done": true
   },
