@@ -832,7 +832,9 @@
       "minecraft:jungle": "2025-03-04 04:40:44 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-04 04:29:03 +0000",
       "minecraft:warm_ocean": "2025-03-04 23:51:39 +0000",
+      "minecraft:flower_forest": "2025-03-05 03:30:06 +0000",
       "minecraft:frozen_peaks": "2025-03-05 00:46:41 +0000",
+      "minecraft:deep_dark": "2025-03-05 03:33:46 +0000",
       "minecraft:meadow": "2025-03-03 22:57:57 +0000",
       "minecraft:savanna": "2025-03-04 04:45:07 +0000",
       "minecraft:plains": "2025-03-03 22:38:05 +0000"
@@ -6243,6 +6245,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/remedy_upgrade": {
+    "criteria": {
+      "has_bottle": "2025-03-05 03:34:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_upgraded_fence": {
     "criteria": {
       "has_log": "2025-03-05 02:11:52 +0000"
@@ -6306,6 +6314,18 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-03-05 03:05:25 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-03-05 03:33:46 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/crimson_liquid": {
+    "criteria": {
+      "has_bottle": "2025-03-05 03:34:04 +0000"
     },
     "done": true
   },
