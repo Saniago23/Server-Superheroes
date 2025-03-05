@@ -1535,3 +1535,73 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [05Mar2025 19:48:29.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki lost connection: Disconnected
 [05Mar2025 19:48:29.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki left the game
 [05Mar2025 19:48:49.148] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@43085f29[id=<null>,name=Camaila04,properties={},legacy=false] (/127.64.191.5:59829) lost connection: Disconnected
+[05Mar2025 19:49:23.497] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5c7ed608[id=<null>,name=Camaila04,properties={},legacy=false] (/127.64.191.5:43363) lost connection: Disconnected
+[05Mar2025 19:49:29.310] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@63afb38e[id=<null>,name=Todoroxki,properties={},legacy=false] (/127.136.36.252:35215) lost connection: Disconnected
+[05Mar2025 19:49:36.661] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Camaila04[/127.64.191.5:46871] logged in with entity id 6271 at (-588.3810587038292, 104.0, 1606.6997578116172)
+[05Mar2025 19:49:36.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 joined the game
+[05Mar2025 19:49:36.940] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (ab883470-fa6d-31aa-8013-002547baaf80)
+[05Mar2025 19:49:36.941] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[05Mar2025 19:49:36.942] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Camaila04
+[05Mar2025 19:49:36.942] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Camaila04 run scoreboard objectives add FSang.Gamerule.item dummy
+[05Mar2025 19:49:36.943] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Camaila04 run scoreboard players set .sang FSang.Gamerule.item 1
+[05Mar2025 19:49:36.943] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Camaila04 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[05Mar2025 19:49:36.944] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Camaila04 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[05Mar2025 19:49:37.857] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 lost connection: Disconnected
+[05Mar2025 19:49:37.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 left the game
+[05Mar2025 19:50:51.743] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 lost connection: Disconnected
+[05Mar2025 19:50:51.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 left the game
+[05Mar2025 19:50:55.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Mar2025 19:50:55.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Mar2025 19:50:55.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Mar2025 19:50:55.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Mar2025 19:50:55.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/minecraft:overworld
+[05Mar2025 19:50:55.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/ad_astra:mars
+[05Mar2025 19:50:55.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/ad_astra:moon_orbit
+[05Mar2025 19:50:55.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/ad_astra:glacio_orbit
+[05Mar2025 19:50:55.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/ad_astra:mars_orbit
+[05Mar2025 19:50:55.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/fsang:the_radiant
+[05Mar2025 19:50:55.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/ad_astra:venus
+[05Mar2025 19:50:55.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/ad_astra:glacio
+[05Mar2025 19:50:55.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/ad_astra:mercury
+[05Mar2025 19:50:55.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/ad_astra:venus_orbit
+[05Mar2025 19:50:55.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/ad_astra:moon
+[05Mar2025 19:50:55.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/speedforce_by_yofadda:the_negative_speedforce
+[05Mar2025 19:50:55.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/deeperdarker:otherside
+[05Mar2025 19:50:55.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/aether:the_aether
+[05Mar2025 19:50:55.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/lostcities:lostcity
+[05Mar2025 19:50:55.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/fsang:negative_speedforce
+[05Mar2025 19:50:55.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/grave.ht:omnitrix
+[05Mar2025 19:50:55.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/grave.core:space
+[05Mar2025 19:50:55.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/speedforce_by_yofadda:the_speedforce
+[05Mar2025 19:50:55.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/minecraft:the_nether
+[05Mar2025 19:50:55.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/fsang:speedforce
+[05Mar2025 19:50:55.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/ad_astra:mercury_orbit
+[05Mar2025 19:50:55.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/ad_astra:earth_orbit
+[05Mar2025 19:50:55.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/fsang:pocket_dimension
+[05Mar2025 19:50:55.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo Superheroes 2]'/minecraft:the_end
+[05Mar2025 19:50:55.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Mar2025 19:50:55.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[05Mar2025 19:50:55.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[05Mar2025 19:50:55.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[05Mar2025 19:50:55.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[05Mar2025 19:50:55.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_radiant): All chunks are saved
+[05Mar2025 19:50:55.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[05Mar2025 19:50:55.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[05Mar2025 19:50:55.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[05Mar2025 19:50:55.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[05Mar2025 19:50:55.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[05Mar2025 19:50:55.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_negative_speedforce): All chunks are saved
+[05Mar2025 19:50:55.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[05Mar2025 19:50:55.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[05Mar2025 19:50:55.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[05Mar2025 19:50:55.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (negative_speedforce): All chunks are saved
+[05Mar2025 19:50:55.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (omnitrix): All chunks are saved
+[05Mar2025 19:50:55.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (space): All chunks are saved
+[05Mar2025 19:50:55.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_speedforce): All chunks are saved
+[05Mar2025 19:50:55.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Mar2025 19:50:55.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (speedforce): All chunks are saved
+[05Mar2025 19:50:55.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[05Mar2025 19:50:55.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[05Mar2025 19:50:55.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[05Mar2025 19:50:55.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Mar2025 19:50:55.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
