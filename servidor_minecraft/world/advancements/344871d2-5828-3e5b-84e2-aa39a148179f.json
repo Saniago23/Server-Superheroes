@@ -5333,6 +5333,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:46:52 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/enter_purple_soda": {
     "criteria": {
       "in_purple_soda": "2025-03-05 01:38:03 +0000"
@@ -5429,9 +5435,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_park_bench": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:46:52 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
     "criteria": {
       "has_item": "2025-03-05 02:07:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:46:52 +0000"
     },
     "done": true
   },
@@ -5465,6 +5483,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:46:52 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/redwood_planks": {
     "criteria": {
       "has_logs": "2025-03-05 02:13:24 +0000"
@@ -5495,6 +5519,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2025-03-05 02:45:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-03-05 02:30:35 +0000"
@@ -5510,6 +5540,12 @@
   "cfm:recipes/decorations/acacia_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-03-05 02:30:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:46:52 +0000"
     },
     "done": true
   },
@@ -5573,6 +5609,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:46:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-03-05 02:30:35 +0000"
@@ -5621,9 +5663,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:46:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_acacia_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-03-05 02:30:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:46:52 +0000"
     },
     "done": true
   },
@@ -5687,6 +5741,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:46:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_table": {
     "criteria": {
       "has_planks": "2025-03-05 02:14:44 +0000"
@@ -5711,9 +5777,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:46:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_crimson_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-03-05 02:30:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2025-03-05 02:46:52 +0000"
     },
     "done": true
   },
@@ -5732,6 +5810,12 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-03-05 02:43:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:46:52 +0000"
     },
     "done": true
   },
@@ -5786,6 +5870,12 @@
   "cfm:recipes/decorations/warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-03-05 02:30:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:46:52 +0000"
     },
     "done": true
   },
@@ -5867,6 +5957,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:46:52 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/biomesoplenty/sign_post_redwood": {
     "criteria": {
       "has_planks": "2025-03-05 02:20:37 +0000"
@@ -5879,9 +5975,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:46:52 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_door": {
     "criteria": {
       "has_planks": "2025-03-05 02:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:46:52 +0000"
     },
     "done": true
   },
@@ -5918,6 +6032,12 @@
   "biomesoplenty:recipes/building_blocks/redwood_wood": {
     "criteria": {
       "has_log": "2025-03-05 02:13:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:46:52 +0000"
     },
     "done": true
   },
@@ -5993,6 +6113,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:46:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-03-05 01:50:39 +0000"
@@ -6017,6 +6143,12 @@
     },
     "done": true
   },
+  "palladium:recipes/decorations/suit_stand": {
+    "criteria": {
+      "has_armor_stand": "2025-03-05 02:45:38 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/bucket_upgrade": {
     "criteria": {
       "has_bucket": "2025-03-05 02:30:35 +0000"
@@ -6026,6 +6158,12 @@
   "cfm:recipes/decorations/stripped_spruce_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-03-05 02:14:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-03-05 02:46:52 +0000"
     },
     "done": true
   },
