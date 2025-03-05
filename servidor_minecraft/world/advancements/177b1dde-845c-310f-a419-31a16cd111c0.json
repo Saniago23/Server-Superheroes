@@ -6527,6 +6527,18 @@
     },
     "done": true
   },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-03-05 00:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-05 00:41:44 +0000"
+    },
+    "done": true
+  },
   "alekiships:recipes/crafting/crafting/cleat": {
     "criteria": {
       "has_iron_ingot": "2025-03-05 00:27:55 +0000"

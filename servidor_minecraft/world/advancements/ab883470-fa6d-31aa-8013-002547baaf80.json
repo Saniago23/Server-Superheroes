@@ -1471,6 +1471,7 @@
       "minecraft:jungle": "2025-03-04 04:40:31 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-04 04:25:12 +0000",
       "minecraft:warm_ocean": "2025-03-04 04:45:31 +0000",
+      "minecraft:frozen_peaks": "2025-03-05 00:46:41 +0000",
       "minecraft:meadow": "2025-03-03 23:35:00 +0000",
       "minecraft:plains": "2025-03-03 23:34:01 +0000"
     },
@@ -5842,6 +5843,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-03-05 00:49:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-03-04 23:01:40 +0000"
@@ -5947,6 +5954,12 @@
   "cfm:recipes/decorations/stripped_oak_park_bench": {
     "criteria": {
       "has_log": "2025-03-04 23:15:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-05 00:41:48 +0000"
     },
     "done": true
   },
@@ -6064,6 +6077,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-03-05 00:41:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-03-04 23:41:13 +0000"
@@ -6091,6 +6110,12 @@
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-03-04 22:56:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
+    "criteria": {
+      "has_moss_block": "2025-03-05 00:41:48 +0000"
     },
     "done": true
   },
@@ -6139,6 +6164,12 @@
   "rats:recipes/misc/upgrades/bucket_upgrade": {
     "criteria": {
       "has_bucket": "2025-03-04 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-05 00:41:48 +0000"
     },
     "done": true
   },

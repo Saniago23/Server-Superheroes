@@ -10155,3 +10155,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Mar2025 00:41:24.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
 [05Mar2025 00:41:26.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!
 [05Mar2025 00:41:28.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!
+[05Mar2025 00:44:32.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[05Mar2025 00:44:32.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[05Mar2025 00:47:34.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!
+[05Mar2025 00:49:32.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[05Mar2025 00:49:32.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[05Mar2025 00:50:52.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Into Fire]
