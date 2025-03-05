@@ -116,3 +116,15 @@
 [05Mar2025 01:10:38.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 was eviscerated by Archevoker's vexes
 [05Mar2025 01:10:53.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 was eviscerated by Archevoker's vexes
 [05Mar2025 01:11:41.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 was eviscerated by Archevoker's vexes
+[05Mar2025 01:16:34.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [Hot Stuff]
+[05Mar2025 01:17:44.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 burned to death
+[05Mar2025 01:22:18.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [Diamonds!]
+[05Mar2025 01:22:33.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Todoroxki[/127.136.36.252:45717] logged in with entity id 46335 at (615.2562707532371, 66.59513117899422, 7660.546044046176)
+[05Mar2025 01:22:33.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki joined the game
+[05Mar2025 01:22:33.649] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (344871d2-5828-3e5b-84e2-aa39a148179f)
+[05Mar2025 01:22:33.650] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[05Mar2025 01:22:33.650] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Todoroxki
+[05Mar2025 01:22:33.650] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Todoroxki run scoreboard objectives add FSang.Gamerule.item dummy
+[05Mar2025 01:22:33.651] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Todoroxki run scoreboard players set .sang FSang.Gamerule.item 1
+[05Mar2025 01:22:33.651] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Todoroxki run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[05Mar2025 01:22:33.651] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Todoroxki run scoreboard players set .sang FSang.Gamerule.symbiote 1
