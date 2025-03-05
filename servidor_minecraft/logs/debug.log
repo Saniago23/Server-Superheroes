@@ -10643,3 +10643,75 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Mar2025 01:22:33.651] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Todoroxki run scoreboard players set .sang FSang.Gamerule.item 1
 [05Mar2025 01:22:33.651] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Todoroxki run scoreboard objectives add FSang.Gamerule.symbiote dummy
 [05Mar2025 01:22:33.651] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Todoroxki run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[05Mar2025 01:24:32.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[05Mar2025 01:24:32.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[05Mar2025 01:25:22.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!
+[05Mar2025 01:28:05.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camaila04> xaero-waypoint:gino:G:105:81:2535:13:false:0:Internal-overworld-waypoints
+[05Mar2025 01:29:24.824] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/tower
+[05Mar2025 01:29:24.832] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/left_no_rooms
+[05Mar2025 01:29:24.832] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/basher
+[05Mar2025 01:29:24.833] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/provoker
+[05Mar2025 01:29:24.833] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/evoker
+[05Mar2025 01:29:24.833] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/vindicator
+[05Mar2025 01:29:24.834] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_no_rooms
+[05Mar2025 01:29:24.835] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/archivist
+[05Mar2025 01:29:24.837] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_and_right
+[05Mar2025 01:29:24.838] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/right_no_rooms
+[05Mar2025 01:29:24.840] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_right_no_rooms
+[05Mar2025 01:29:24.841] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_right_left_room
+[05Mar2025 01:29:24.842] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_no_rooms
+[05Mar2025 01:29:24.844] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_two_rooms
+[05Mar2025 01:29:24.846] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_and_left_right_room
+[05Mar2025 01:29:24.847] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_right_room
+[05Mar2025 01:29:24.848] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/halls/straight_left_room
+[05Mar2025 01:29:24.850] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_6
+[05Mar2025 01:29:24.851] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_7
+[05Mar2025 01:29:24.852] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_9
+[05Mar2025 01:29:24.854] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_5
+[05Mar2025 01:29:24.855] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_4
+[05Mar2025 01:29:24.856] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_8
+[05Mar2025 01:29:24.857] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_0
+[05Mar2025 01:29:24.858] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_3
+[05Mar2025 01:29:24.860] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_2
+[05Mar2025 01:29:24.861] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/rooms/room_1
+[05Mar2025 01:29:24.867] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/marauder
+[05Mar2025 01:29:24.868] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/alchemist
+[05Mar2025 01:29:24.872] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/necromancer
+[05Mar2025 01:29:32.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[05Mar2025 01:29:32.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[05Mar2025 01:29:38.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!
+[05Mar2025 01:29:40.606] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=12, y=35, z=6237} but found not block entity block Block{minecraft:water}[level=5] at location
+[05Mar2025 01:29:40.606] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=5] but failed at location BlockPos{x=12, y=35, z=6237}
+[05Mar2025 01:29:43.125] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Mar2025 01:29:51.825] [Worker-Main-128/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_7b
+[05Mar2025 01:30:02.014] [Worker-Main-128/DEBUG] [ModernFix/]: Structure awesomedungeonocean:frigate_large_start is being run through DFU (hash 5a5fdf864cefb881b8fec3b39cbfeb8586b3c525017e1fa34e586fd2049291c0), this will cause launch time delays
+[05Mar2025 01:30:03.571] [Worker-Main-128/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:pillager_bow
+[05Mar2025 01:30:03.765] [Worker-Main-128/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:skeleton_axe
+[05Mar2025 01:30:03.766] [Worker-Main-128/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:skeleton_cac
+[05Mar2025 01:30:03.767] [Worker-Main-128/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:pillager_axe
+[05Mar2025 01:30:03.767] [Worker-Main-128/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:pillager_cac
+[05Mar2025 01:30:03.768] [Worker-Main-128/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:skeleton_bow
+[05Mar2025 01:30:03.772] [Worker-Main-128/DEBUG] [ModernFix/]: Structure awesomedungeonocean:frigate_large_end_top is being run through DFU (hash 20caecd8c929123d8c0cb667b8cf8a6dfc0c0db5b7603f839343082dece63b98), this will cause launch time delays
+[05Mar2025 01:30:03.816] [Worker-Main-128/DEBUG] [ModernFix/]: Structure awesomedungeonocean:frigate_large_start_top is being run through DFU (hash 4bdfe5861cf4f6a4dfdf56d2498231c9df57d6ce2d4cdb55d1f0a917793e60ef), this will cause launch time delays
+[05Mar2025 01:30:03.913] [Worker-Main-128/DEBUG] [ModernFix/]: Structure awesomedungeonocean:frigate_large_end is being run through DFU (hash 002118f7fb1db0efaa6c4ccaacda4e96ad0164a6912212db98a3acc776261049), this will cause launch time delays
+[05Mar2025 01:30:07.656] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/46168, l='ServerLevel[Mundo Superheroes 2]', x=587.70, y=67.00, z=7654.61] died, message: 'Weaponsmith was slain by Zombie'
+[05Mar2025 01:30:20.554] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_entry/creeping_crypit_entry_house
+[05Mar2025 01:30:24.602] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Mar2025 01:30:34.582] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_birch
+[05Mar2025 01:30:34.589] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_spruce
+[05Mar2025 01:30:34.603] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[05Mar2025 01:30:53.883] [Worker-Main-128/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_22
+[05Mar2025 01:30:58.675] [Worker-Main-128/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_17
+[05Mar2025 01:31:03.167] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46180, l='ServerLevel[Mundo Superheroes 2]', x=612.30, y=66.00, z=7669.70] died, message: 'Villager was slain by Zombie'
+[05Mar2025 01:31:12.579] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_5
+[05Mar2025 01:31:18.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[05Mar2025 01:33:10.641] [pool-9-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=-245, y=75, z=2203}
+[05Mar2025 01:33:47.886] [Worker-Main-129/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_27
+[05Mar2025 01:34:32.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[05Mar2025 01:34:32.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[05Mar2025 01:35:05.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[05Mar2025 01:37:57.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Yellow Brick Road]
+[05Mar2025 01:38:03.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Carbonated Swim]
+[05Mar2025 01:39:32.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[05Mar2025 01:39:32.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[05Mar2025 01:39:58.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has reached the goal [Zombie Doctor]
