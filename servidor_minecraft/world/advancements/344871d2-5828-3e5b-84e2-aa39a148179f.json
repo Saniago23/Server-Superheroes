@@ -5357,6 +5357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-05 03:51:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-03-05 02:30:35 +0000"
@@ -5405,6 +5411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-05 03:51:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-03-05 02:30:35 +0000"
@@ -5420,6 +5432,12 @@
   "biomesoplenty:recipes/redstone/redwood_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-05 02:20:37 +0000"
+    },
+    "done": true
+  },
+  "speedforce_by_yofadda:adv_the_star": {
+    "criteria": {
+      "adv_the_star_0": "2025-03-05 03:51:09 +0000"
     },
     "done": true
   },
@@ -5441,9 +5459,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-05 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-05 03:51:38 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
     "criteria": {
       "has_item": "2025-03-05 02:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-05 03:51:38 +0000"
     },
     "done": true
   },
@@ -5627,6 +5663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-05 03:51:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-03-05 02:30:35 +0000"
@@ -5642,6 +5684,12 @@
   "aether:recipes/tools/iron_axe_repairing": {
     "criteria": {
       "has_iron_axe": "2025-03-05 02:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-05 03:51:38 +0000"
     },
     "done": true
   },
@@ -5684,6 +5732,12 @@
   "cfm:recipes/decorations/dark_oak_cabinet": {
     "criteria": {
       "has_planks": "2025-03-05 02:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-05 03:51:38 +0000"
     },
     "done": true
   },
@@ -5801,6 +5855,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-05 03:51:38 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_lectern": {
     "criteria": {
       "has_book": "2025-03-05 02:43:17 +0000"
@@ -5825,6 +5885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-05 03:51:38 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/building_blocks/auto_curdler": {
     "criteria": {
       "has_hopper": "2025-03-05 01:57:43 +0000"
@@ -5840,6 +5906,12 @@
   "cfm:recipes/decorations/stripped_birch_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-03-05 02:30:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-05 03:51:38 +0000"
     },
     "done": true
   },
@@ -5927,6 +5999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-05 03:51:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-03-05 02:43:17 +0000"
@@ -5966,6 +6044,24 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-03-05 02:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-03-05 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-05 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-05 03:51:38 +0000"
     },
     "done": true
   },
@@ -6048,6 +6144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-03-05 03:51:38 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/support_upgrade": {
     "criteria": {
       "has_bottle": "2025-03-05 03:21:34 +0000"
@@ -6114,6 +6216,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-05 03:51:38 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_spider_dungeon": "2025-03-05 03:01:07 +0000"
@@ -6132,6 +6240,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-05 03:51:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-03-05 01:50:39 +0000"
@@ -6147,6 +6261,12 @@
   "cfm:recipes/decorations/dark_oak_desk": {
     "criteria": {
       "has_planks": "2025-03-05 02:46:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "has_glass": "2025-03-05 03:51:38 +0000"
     },
     "done": true
   },

@@ -293,3 +293,6 @@
 [05Mar2025 03:40:14.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki tried to swim in lava
 [05Mar2025 03:41:14.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 moved wrongly!
 [05Mar2025 03:44:04.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki burned to death
+[05Mar2025 03:51:09.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [S.T.A.R]
+[05Mar2025 03:53:28.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Saniago23> zzzz
+[05Mar2025 03:54:48.782] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=589, y=64, z=7622} BlockPos{x=588, y=64, z=7620}
