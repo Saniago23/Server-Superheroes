@@ -4905,6 +4905,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "pillager_outpost": "2025-03-05 03:03:08 +0000",
       "illager_camp": "2025-03-04 04:05:10 +0000"
     },
     "done": false
@@ -6223,6 +6224,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-03-05 02:55:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_upgraded_fence": {
     "criteria": {
       "has_log": "2025-03-05 02:11:52 +0000"
@@ -6304,6 +6311,12 @@
   "cfm:recipes/decorations/dark_oak_desk": {
     "criteria": {
       "has_log": "2025-03-05 02:11:52 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2025-03-05 03:03:08 +0000"
     },
     "done": true
   },
