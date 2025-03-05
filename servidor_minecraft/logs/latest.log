@@ -78,3 +78,11 @@
 [05Mar2025 00:29:27.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!
 [05Mar2025 00:29:30.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
 [05Mar2025 00:29:46.838] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Pet Shop Owner'/33309, l='ServerLevel[Mundo Superheroes 2]', x=618.13, y=66.00, z=7675.30] died, message: 'Pet Shop Owner was slain by Zombie'
+[05Mar2025 00:32:27.730] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Pet Shop Owner'/33315, l='ServerLevel[Mundo Superheroes 2]', x=591.70, y=67.00, z=7654.30] died, message: 'Pet Shop Owner was slain by Zombie'
+[05Mar2025 00:33:13.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [What a Deal!]
+[05Mar2025 00:33:50.884] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/33322, l='ServerLevel[Mundo Superheroes 2]', x=544.51, y=72.00, z=7687.30] died, message: 'Mason was slain by Zombie'
+[05Mar2025 00:37:02.315] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[05Mar2025 00:38:44.244] [pool-9-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=379, y=101, z=3733}
+[05Mar2025 00:41:24.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[05Mar2025 00:41:26.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!
+[05Mar2025 00:41:28.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!

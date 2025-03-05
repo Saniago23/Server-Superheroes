@@ -6545,6 +6545,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-03-05 00:33:13 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/redwood_wood": {
     "criteria": {
       "has_log": "2025-03-05 00:20:42 +0000"
