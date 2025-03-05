@@ -3615,27 +3615,165 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_warped_kitchen_sink_light": {
+  "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "has_bucket": "2025-03-04 22:50:22 +0000"
+      "illager_camp": "2025-03-04 22:25:25 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2025-03-04 22:25:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+  "grave.core:recipes/light_gray_fabric": {
     "criteria": {
-      "has_potato": "2025-03-04 23:15:09 +0000"
+      "has_wool": "2025-03-04 22:29:24 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/acacia_kitchen_sink_dark": {
+  "rats:recipes/misc/hammocks/rat_hammock_light_gray": {
     "criteria": {
-      "has_bucket": "2025-03-04 22:50:22 +0000"
+      "has_wool": "2025-03-04 22:29:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-04 22:29:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-04 22:29:24 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/light_gray_flag": {
+    "criteria": {
+      "has_light_gray_flag": "2025-03-04 22:29:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-04 22:29:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-03-04 22:29:24 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
     "criteria": {
       "has_pumpkin": "2025-03-04 22:29:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-03-04 22:29:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-03-04 22:29:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-04 22:29:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/moa_egg_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-03-04 22:29:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-04 22:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-03-04 22:29:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
+    "criteria": {
+      "has_moss_block": "2025-03-04 22:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-04 22:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-04 22:32:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2025-03-04 22:39:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-03-04 22:42:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-03-04 22:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-03-04 22:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-03-04 22:42:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-03-04 22:42:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-03-04 22:50:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-03-04 22:50:22 +0000"
     },
     "done": true
   },
@@ -3669,45 +3807,9 @@
     },
     "done": true
   },
-  "rats:recipes/food/rat_burger": {
-    "criteria": {
-      "has_bread": "2025-03-04 23:15:08 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "tomato_seeds": "2025-03-04 22:42:27 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/magenta_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-03-04 22:50:22 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/food/cooked_rat_smelting": {
-    "criteria": {
-      "has_rat": "2025-03-04 23:34:17 +0000"
-    },
-    "done": true
-  },
-  "grave.core:recipes/light_gray_fabric": {
-    "criteria": {
-      "has_wool": "2025-03-04 22:29:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-03-04 23:27:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-03-04 22:32:59 +0000"
     },
     "done": true
   },
@@ -3720,12 +3822,6 @@
   "cfm:recipes/decorations/white_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-03-04 22:50:22 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/redwood_planks": {
-    "criteria": {
-      "has_logs": "2025-03-04 23:33:53 +0000"
     },
     "done": true
   },
@@ -3753,18 +3849,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-03-04 22:42:30 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/hammocks/rat_hammock_light_gray": {
-    "criteria": {
-      "has_wool": "2025-03-04 22:29:24 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-03-04 22:50:22 +0000"
@@ -3777,27 +3861,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-03-04 23:27:05 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/orange_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-03-04 22:50:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-03-04 22:29:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-03-04 23:27:05 +0000"
     },
     "done": true
   },
@@ -3813,33 +3879,15 @@
     },
     "done": true
   },
-  "aether:recipes/combat/golden_leggings_repairing": {
-    "criteria": {
-      "has_golden_leggings": "2025-03-04 22:39:28 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-03-04 22:50:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2025-03-04 22:29:24 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-03-04 22:50:22 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_tavern": {
-    "criteria": {
-      "nova_structures:tavern_oak": "2025-03-04 23:14:28 +0000"
     },
     "done": true
   },
@@ -3867,39 +3915,9 @@
     },
     "done": true
   },
-  "rats:recipes/food/cooked_rat_campfire": {
-    "criteria": {
-      "has_rat": "2025-03-04 23:34:17 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/birch_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-03-04 22:50:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-03-04 23:27:05 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/health_upgrade": {
-    "criteria": {
-      "has_bread": "2025-03-04 23:15:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_carpet": {
-    "criteria": {
-      "has_light_gray_wool": "2025-03-04 22:29:24 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/sweet_berry_cookie": {
-    "criteria": {
-      "has_sweet_berries": "2025-03-04 23:25:57 +0000"
     },
     "done": true
   },
@@ -3912,12 +3930,6 @@
   "cfm:recipes/decorations/birch_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-03-04 22:50:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-03-04 22:42:30 +0000"
     },
     "done": true
   },
@@ -3945,18 +3957,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-03-04 23:15:09 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_all_illager_structures": {
-    "criteria": {
-      "illager_camp": "2025-03-04 22:25:25 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/decorations/stripped_crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-03-04 22:50:22 +0000"
@@ -3969,18 +3969,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/safety_net": {
-    "criteria": {
-      "has_rope": "2025-03-04 22:42:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-03-04 23:15:09 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-03-04 22:50:22 +0000"
@@ -3990,12 +3978,6 @@
   "cfm:recipes/decorations/warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-03-04 22:50:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-03-04 22:29:34 +0000"
     },
     "done": true
   },
@@ -4017,18 +3999,6 @@
     },
     "done": true
   },
-  "rats:recipes/food/assorted_vegetables": {
-    "criteria": {
-      "has_a_veggie": "2025-03-04 23:15:09 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pumpkin_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-04 22:29:34 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/jungle_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-03-04 22:50:22 +0000"
@@ -4047,30 +4017,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-03-04 22:29:55 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:root": {
-    "criteria": {
-      "nova_structures:adventure/find_tavern": "2025-03-04 23:14:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-03-04 22:42:30 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/placer_upgrade": {
-    "criteria": {
-      "has_cobble": "2025-03-04 23:27:05 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-03-04 22:50:22 +0000"
@@ -4080,30 +4026,6 @@
   "cfm:recipes/decorations/stripped_birch_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-03-04 22:50:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-03-04 23:27:05 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/tavern_quest": {
-    "criteria": {
-      "open_tavern_chest": "2025-03-04 23:15:38 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/light_gray_flag": {
-    "criteria": {
-      "has_light_gray_flag": "2025-03-04 22:29:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-03-04 23:15:09 +0000"
     },
     "done": true
   },
@@ -4119,45 +4041,9 @@
     },
     "done": true
   },
-  "rats:recipes/food/cooked_rat_smoking": {
-    "criteria": {
-      "has_rat": "2025-03-04 23:34:17 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-03-04 22:50:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-03-04 22:29:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_banner": {
-    "criteria": {
-      "has_light_gray_wool": "2025-03-04 22:29:24 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/light_gray_sofa": {
-    "criteria": {
-      "has_wool": "2025-03-04 22:29:24 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/food/moa_egg_pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-03-04 22:29:34 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
-    "criteria": {
-      "has_moss_block": "2025-03-04 22:29:55 +0000"
     },
     "done": true
   },
@@ -4167,27 +4053,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-03-04 23:27:05 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/crossbow_repairing": {
-    "criteria": {
-      "has_crossbow": "2025-03-04 22:25:27 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/misc/upgrades/bucket_upgrade": {
     "criteria": {
       "has_bucket": "2025-03-04 22:50:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-03-04 22:29:55 +0000"
     },
     "done": true
   },
@@ -4200,6 +4068,138 @@
   "cfm:recipes/decorations/stripped_spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-03-04 22:50:22 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-03-04 23:14:28 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-03-04 23:14:29 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/rat_burger": {
+    "criteria": {
+      "has_bread": "2025-03-04 23:15:08 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/health_upgrade": {
+    "criteria": {
+      "has_bread": "2025-03-04 23:15:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-04 23:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-04 23:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-03-04 23:15:09 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/assorted_vegetables": {
+    "criteria": {
+      "has_a_veggie": "2025-03-04 23:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-03-04 23:15:09 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-03-04 23:15:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-03-04 23:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-04 23:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-04 23:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-04 23:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-04 23:27:05 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/placer_upgrade": {
+    "criteria": {
+      "has_cobble": "2025-03-04 23:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-04 23:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-04 23:27:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-03-04 23:33:53 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/cooked_rat_smelting": {
+    "criteria": {
+      "has_rat": "2025-03-04 23:34:17 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/cooked_rat_campfire": {
+    "criteria": {
+      "has_rat": "2025-03-04 23:34:17 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/cooked_rat_smoking": {
+    "criteria": {
+      "has_rat": "2025-03-04 23:34:17 +0000"
     },
     "done": true
   },

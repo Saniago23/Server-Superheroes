@@ -5349,5 +5349,11 @@
     },
     "done": true
   },
+  "rats:all_hats": {
+    "criteria": {
+      "has_archeologist_hat": "2025-03-05 01:39:46 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

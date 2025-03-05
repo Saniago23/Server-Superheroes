@@ -138,3 +138,45 @@
 [01:22:33] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Todoroxki run scoreboard players set .sang FSang.Gamerule.item 1
 [01:22:33] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Todoroxki run scoreboard objectives add FSang.Gamerule.symbiote dummy
 [01:22:33] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Todoroxki run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[01:45:19] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[01:45:19] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Sebass
+[01:45:19] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.item dummy
+[01:45:19] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.item 1
+[01:45:19] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[01:45:19] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[01:45:49] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[01:45:49] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Sebass
+[01:45:49] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.item dummy
+[01:45:49] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.item 1
+[01:45:49] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[01:45:49] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[01:46:16] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[01:46:16] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Sebass
+[01:46:16] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.item dummy
+[01:46:16] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.item 1
+[01:46:16] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[01:46:16] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[01:47:09] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[01:47:09] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Sebass
+[01:47:09] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.item dummy
+[01:47:09] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.item 1
+[01:47:09] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[01:47:09] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[01:48:05] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[01:48:05] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Sebass
+[01:48:05] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.item dummy
+[01:48:05] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.item 1
+[01:48:05] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[01:48:05] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[01:48:44] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[01:48:44] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Saniago23
+[01:48:44] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.item dummy
+[01:48:44] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.item 1
+[01:48:44] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[01:48:44] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[01:51:40] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[01:51:40] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Sebass
+[01:51:40] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.item dummy
+[01:51:40] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.item 1
+[01:51:40] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[01:51:40] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.symbiote 1

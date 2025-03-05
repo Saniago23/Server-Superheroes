@@ -143,3 +143,83 @@
 [05Mar2025 01:37:57.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Yellow Brick Road]
 [05Mar2025 01:38:03.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Carbonated Swim]
 [05Mar2025 01:39:58.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has reached the goal [Zombie Doctor]
+[05Mar2025 01:45:00.481] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@491307a9[id=<null>,name=Sebass,properties={},legacy=false] (/127.136.36.252:34797) lost connection: Disconnected
+[05Mar2025 01:45:01.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[05Mar2025 01:45:01.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!
+[05Mar2025 01:45:18.694] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebass[/127.136.36.252:35609] logged in with entity id 54298 at (573.7018577020746, 69.0, 7653.797281371553)
+[05Mar2025 01:45:18.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass joined the game
+[05Mar2025 01:45:19.123] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (edfbff84-1beb-33f5-bb26-1f58c91c6fef)
+[05Mar2025 01:45:19.124] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[05Mar2025 01:45:19.124] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Sebass
+[05Mar2025 01:45:19.124] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.item dummy
+[05Mar2025 01:45:19.124] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.item 1
+[05Mar2025 01:45:19.125] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[05Mar2025 01:45:19.125] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[05Mar2025 01:45:21.829] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass lost connection: Disconnected
+[05Mar2025 01:45:21.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass left the game
+[05Mar2025 01:45:48.938] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebass[/127.136.36.252:60501] logged in with entity id 54302 at (573.7018577020746, 69.0, 7653.797281371553)
+[05Mar2025 01:45:48.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass joined the game
+[05Mar2025 01:45:49.334] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (edfbff84-1beb-33f5-bb26-1f58c91c6fef)
+[05Mar2025 01:45:49.335] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[05Mar2025 01:45:49.335] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Sebass
+[05Mar2025 01:45:49.335] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.item dummy
+[05Mar2025 01:45:49.335] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.item 1
+[05Mar2025 01:45:49.336] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[05Mar2025 01:45:49.336] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[05Mar2025 01:45:51.827] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass lost connection: Disconnected
+[05Mar2025 01:45:51.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass left the game
+[05Mar2025 01:46:16.443] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebass[/127.136.36.252:47135] logged in with entity id 54325 at (573.7018577020746, 69.0, 7653.797281371553)
+[05Mar2025 01:46:16.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass joined the game
+[05Mar2025 01:46:16.636] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (edfbff84-1beb-33f5-bb26-1f58c91c6fef)
+[05Mar2025 01:46:16.636] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[05Mar2025 01:46:16.637] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Sebass
+[05Mar2025 01:46:16.637] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.item dummy
+[05Mar2025 01:46:16.637] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.item 1
+[05Mar2025 01:46:16.637] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[05Mar2025 01:46:16.637] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[05Mar2025 01:46:21.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass lost connection: Disconnected
+[05Mar2025 01:46:21.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass left the game
+[05Mar2025 01:47:09.493] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebass[/127.136.36.252:53457] logged in with entity id 54355 at (573.7018577020746, 69.0, 7653.797281371553)
+[05Mar2025 01:47:09.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass joined the game
+[05Mar2025 01:47:09.704] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (edfbff84-1beb-33f5-bb26-1f58c91c6fef)
+[05Mar2025 01:47:09.704] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[05Mar2025 01:47:09.704] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Sebass
+[05Mar2025 01:47:09.704] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.item dummy
+[05Mar2025 01:47:09.705] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.item 1
+[05Mar2025 01:47:09.705] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[05Mar2025 01:47:09.705] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[05Mar2025 01:47:23.783] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass lost connection: Disconnected
+[05Mar2025 01:47:23.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass left the game
+[05Mar2025 01:47:25.482] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 lost connection: Disconnected
+[05Mar2025 01:47:25.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 left the game
+[05Mar2025 01:47:25.529] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Mar2025 01:48:04.838] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebass[/127.136.36.252:37999] logged in with entity id 54379 at (573.7018577020746, 69.0, 7653.797281371553)
+[05Mar2025 01:48:04.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass joined the game
+[05Mar2025 01:48:05.061] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (edfbff84-1beb-33f5-bb26-1f58c91c6fef)
+[05Mar2025 01:48:05.062] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[05Mar2025 01:48:05.062] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Sebass
+[05Mar2025 01:48:05.062] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.item dummy
+[05Mar2025 01:48:05.062] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.item 1
+[05Mar2025 01:48:05.062] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[05Mar2025 01:48:05.063] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[05Mar2025 01:48:29.827] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass lost connection: Disconnected
+[05Mar2025 01:48:29.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass left the game
+[05Mar2025 01:48:44.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Saniago23[/127.159.56.40:40307] logged in with entity id 54409 at (574.8892174673199, 64.9375, 7639.573838963626)
+[05Mar2025 01:48:44.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 joined the game
+[05Mar2025 01:48:44.807] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (0ed8a514-4f3e-3e18-b162-7f0e3367a0ce)
+[05Mar2025 01:48:44.808] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[05Mar2025 01:48:44.809] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Saniago23
+[05Mar2025 01:48:44.809] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.item dummy
+[05Mar2025 01:48:44.810] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.item 1
+[05Mar2025 01:48:44.810] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Saniago23 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[05Mar2025 01:48:44.810] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Saniago23 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[05Mar2025 01:51:07.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Camaila04> zzz
+[05Mar2025 01:51:39.548] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebass[/127.136.36.252:60565] logged in with entity id 54561 at (573.7018577020746, 69.0, 7653.797281371553)
+[05Mar2025 01:51:39.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass joined the game
+[05Mar2025 01:51:40.028] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (edfbff84-1beb-33f5-bb26-1f58c91c6fef)
+[05Mar2025 01:51:40.028] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[05Mar2025 01:51:40.028] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Sebass
+[05Mar2025 01:51:40.029] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.item dummy
+[05Mar2025 01:51:40.029] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.item 1
+[05Mar2025 01:51:40.029] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[05Mar2025 01:51:40.029] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.symbiote 1

@@ -6913,9 +6913,21 @@
     },
     "done": true
   },
+  "rats:trash_can": {
+    "criteria": {
+      "trash_can": "2025-03-05 01:43:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-05 01:29:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-03-05 01:39:58 +0000"
     },
     "done": true
   },
