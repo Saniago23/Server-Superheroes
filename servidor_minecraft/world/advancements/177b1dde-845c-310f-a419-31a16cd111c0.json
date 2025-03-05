@@ -6515,5 +6515,41 @@
     },
     "done": true
   },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-03-05 00:27:55 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/cannonball": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-05 00:27:55 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/cleat": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-05 00:27:55 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/anchor": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-05 00:27:55 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/oarlock": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-05 00:27:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-03-05 00:20:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

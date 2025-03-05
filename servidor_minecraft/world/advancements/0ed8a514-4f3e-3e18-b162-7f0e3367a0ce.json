@@ -5893,6 +5893,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-03-05 00:22:54 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
     "criteria": {
       "has_lava_bucket": "2025-03-04 22:29:49 +0000"
