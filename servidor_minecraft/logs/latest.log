@@ -223,3 +223,5 @@
 [05Mar2025 01:51:40.029] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.item 1
 [05Mar2025 01:51:40.029] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Sebass run scoreboard objectives add FSang.Gamerule.symbiote dummy
 [05Mar2025 01:51:40.029] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Sebass run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[05Mar2025 01:55:16.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass was blown up by Creeper
+[05Mar2025 01:59:50.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 has made the advancement [Hunt and Gather]

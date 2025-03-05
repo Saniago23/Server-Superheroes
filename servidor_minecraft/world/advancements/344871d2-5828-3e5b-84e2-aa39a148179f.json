@@ -5337,9 +5337,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-03-05 01:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-03-05 01:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-03-05 01:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-05 01:50:39 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/walk_on_rock_candy": {
     "criteria": {
       "cave_book": "2025-03-05 01:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_grill_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-03-05 01:50:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_sugar": "2025-03-05 01:50:47 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/auto_curdler": {
+    "criteria": {
+      "has_hopper": "2025-03-05 01:57:43 +0000"
     },
     "done": true
   },
@@ -5349,11 +5391,41 @@
     },
     "done": true
   },
+  "rats:recipes/building_blocks/block_of_blue_cheese": {
+    "criteria": {
+      "has_sugar": "2025-03-05 01:50:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-03-05 01:50:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-03-05 01:50:47 +0000"
+    },
+    "done": true
+  },
   "rats:all_hats": {
     "criteria": {
       "has_archeologist_hat": "2025-03-05 01:39:46 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-05 01:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-03-05 01:50:39 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
