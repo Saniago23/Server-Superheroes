@@ -289,3 +289,7 @@
 [05Mar2025 03:32:32.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved too quickly! -16.58309368480132,0.0,-5.617352306677745
 [05Mar2025 03:32:33.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved too quickly! 7.816906291356823,0.0,12.176587942708153
 [05Mar2025 03:32:48.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bryanc2613> zzz
+[05Mar2025 03:38:53.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Dark Matter]
+[05Mar2025 03:40:14.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki tried to swim in lava
+[05Mar2025 03:41:14.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 moved wrongly!
+[05Mar2025 03:44:04.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki burned to death

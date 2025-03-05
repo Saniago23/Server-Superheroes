@@ -12459,3 +12459,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Mar2025 03:32:48.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bryanc2613> zzz
 [05Mar2025 03:35:03.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
 [05Mar2025 03:35:03.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[05Mar2025 03:38:53.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [Dark Matter]
+[05Mar2025 03:40:03.017] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[05Mar2025 03:40:03.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[05Mar2025 03:40:14.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki tried to swim in lava
+[05Mar2025 03:41:14.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 moved wrongly!
+[05Mar2025 03:44:04.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki burned to death
+[05Mar2025 03:45:03.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[05Mar2025 03:45:03.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2

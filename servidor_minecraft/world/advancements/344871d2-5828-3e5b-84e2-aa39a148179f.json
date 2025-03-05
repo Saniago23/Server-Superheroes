@@ -6011,6 +6011,13 @@
     },
     "done": true
   },
+  "speedforce_by_yofadda:adv_dark_matter": {
+    "criteria": {
+      "adv_dark_matter_1": "2025-03-05 03:38:26 +0000",
+      "adv_dark_matter_0": "2025-03-05 03:38:53 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/skyroot_bookshelf": {
     "criteria": {
       "has_book": "2025-03-05 02:43:17 +0000"
