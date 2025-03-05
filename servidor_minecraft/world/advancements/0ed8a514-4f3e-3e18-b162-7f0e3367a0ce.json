@@ -823,6 +823,7 @@
       "minecraft:snowy_plains": "2025-03-03 22:55:29 +0000",
       "minecraft:stony_shore": "2025-03-03 22:38:16 +0000",
       "minecraft:snowy_taiga": "2025-03-03 22:55:32 +0000",
+      "minecraft:dripstone_caves": "2025-03-05 03:10:16 +0000",
       "minecraft:grove": "2025-03-05 00:07:21 +0000",
       "minecraft:jagged_peaks": "2025-03-05 00:34:55 +0000",
       "minecraft:cold_ocean": "2025-03-04 02:38:16 +0000",
@@ -6212,9 +6213,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-03-05 03:11:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_park_bench": {
     "criteria": {
       "has_log": "2025-03-05 02:11:52 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/tools/rat_capture_net": {
+    "criteria": {
+      "has_iron": "2025-03-05 03:05:25 +0000"
     },
     "done": true
   },
@@ -6272,9 +6285,27 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/tnt_upgrade": {
+    "criteria": {
+      "has_gunpowder": "2025-03-05 03:11:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-03-05 03:11:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_table": {
     "criteria": {
       "has_log": "2025-03-05 02:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-05 03:05:25 +0000"
     },
     "done": true
   },
@@ -6311,6 +6342,18 @@
   "cfm:recipes/decorations/dark_oak_desk": {
     "criteria": {
       "has_log": "2025-03-05 02:11:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-05 03:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-05 03:11:08 +0000"
     },
     "done": true
   },
