@@ -6655,6 +6655,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2025-03-05 02:33:24 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_dark_oak": {
     "criteria": {
       "has_planks": "2025-03-05 01:07:13 +0000"
@@ -6748,6 +6754,12 @@
   "cfm:recipes/decorations/dark_oak_cabinet": {
     "criteria": {
       "has_planks": "2025-03-05 01:07:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-03-05 02:33:24 +0000"
     },
     "done": true
   },
@@ -6964,6 +6976,12 @@
   "cfm:recipes/decorations/dark_oak_desk": {
     "criteria": {
       "has_planks": "2025-03-05 01:07:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-03-05 02:33:24 +0000"
     },
     "done": true
   },

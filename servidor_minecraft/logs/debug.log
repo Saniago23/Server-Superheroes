@@ -12372,3 +12372,42 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Mar2025 02:20:27.055] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_6b
 [05Mar2025 02:21:16.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todoroxki has made the advancement [What a Deal!]
 [05Mar2025 02:24:15.936] [pool-9-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=-795, y=74, z=1653}
+[05Mar2025 02:25:03.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[05Mar2025 02:25:03.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[05Mar2025 02:29:17.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camaila04 moved wrongly!
+[05Mar2025 02:30:03.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[05Mar2025 02:30:03.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[05Mar2025 02:30:14.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bryanc2613) moved wrongly! 6042.78653360385
+[05Mar2025 02:30:31.691] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/52985, l='ServerLevel[Mundo Superheroes 2]', x=540.50, y=73.00, z=7670.50] died, message: 'Nitwit was slain by Todoroxki'
+[05Mar2025 02:31:08.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-532, y=66, z=1709} BlockPos{x=-532, y=65, z=1709}
+[05Mar2025 02:32:38.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[05Mar2025 02:33:25.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Todoroxki moved wrongly!
+[05Mar2025 02:34:30.843] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-540, y=67, z=1700} BlockPos{x=-542, y=66, z=1699}
+[05Mar2025 02:34:30.898] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-540, y=67, z=1700} BlockPos{x=-542, y=66, z=1699}
+[05Mar2025 02:34:30.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-540, y=67, z=1700} BlockPos{x=-542, y=66, z=1699}
+[05Mar2025 02:34:30.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-540, y=67, z=1700} BlockPos{x=-542, y=66, z=1699}
+[05Mar2025 02:34:31.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-540, y=67, z=1700} BlockPos{x=-542, y=66, z=1699}
+[05Mar2025 02:34:31.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-540, y=67, z=1700} BlockPos{x=-542, y=66, z=1699}
+[05Mar2025 02:34:31.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-540, y=67, z=1700} BlockPos{x=-542, y=66, z=1699}
+[05Mar2025 02:34:31.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-540, y=67, z=1700} BlockPos{x=-542, y=66, z=1699}
+[05Mar2025 02:34:31.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-540, y=67, z=1700} BlockPos{x=-542, y=66, z=1699}
+[05Mar2025 02:34:31.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-540, y=67, z=1700} BlockPos{x=-542, y=66, z=1699}
+[05Mar2025 02:34:48.844] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-519, y=66, z=1687} BlockPos{x=-518, y=66, z=1687}
+[05Mar2025 02:35:00.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-523, y=66, z=1687} BlockPos{x=-523, y=64, z=1687}
+[05Mar2025 02:35:00.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-523, y=67, z=1687} BlockPos{x=-524, y=66, z=1687}
+[05Mar2025 02:35:00.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-523, y=67, z=1687} BlockPos{x=-524, y=66, z=1687}
+[05Mar2025 02:35:00.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-523, y=67, z=1687} BlockPos{x=-524, y=66, z=1687}
+[05Mar2025 02:35:00.643] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-523, y=67, z=1687} BlockPos{x=-524, y=66, z=1687}
+[05Mar2025 02:35:00.694] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-523, y=67, z=1687} BlockPos{x=-524, y=66, z=1687}
+[05Mar2025 02:35:03.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[05Mar2025 02:35:03.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[05Mar2025 02:38:04.186] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mad Scientist'/52984, l='ServerLevel[Mundo Superheroes 2]', x=580.05, y=72.00, z=7679.97] died, message: 'Mad Scientist was slain by Ghost'
+[05Mar2025 02:38:26.746] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-531, y=67, z=1686} BlockPos{x=-530, y=66, z=1686}
+[05Mar2025 02:38:26.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-531, y=67, z=1686} BlockPos{x=-530, y=66, z=1686}
+[05Mar2025 02:39:57.745] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-548, y=66, z=1719} BlockPos{x=-548, y=66, z=1718}
+[05Mar2025 02:40:03.045] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[05Mar2025 02:40:03.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2
+[05Mar2025 02:42:57.889] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebass lost connection: Disconnected
+[05Mar2025 02:42:57.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebass left the game
+[05Mar2025 02:45:03.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo Superheroes 2
+[05Mar2025 02:45:03.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo Superheroes 2

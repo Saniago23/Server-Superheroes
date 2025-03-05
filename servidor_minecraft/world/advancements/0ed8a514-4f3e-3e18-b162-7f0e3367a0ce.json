@@ -131,6 +131,7 @@
     "criteria": {
       "woodland": "2025-03-04 19:58:03 +0000",
       "shrubland": "2025-03-04 04:36:50 +0000",
+      "rocky_shrubland": "2025-03-05 02:22:34 +0000",
       "scrubland": "2025-03-04 04:45:19 +0000",
       "floodplain": "2025-03-04 20:07:18 +0000",
       "lush_savanna": "2025-03-05 00:32:11 +0000",
@@ -6198,6 +6199,12 @@
     },
     "done": true
   },
+  "rats:cheese": {
+    "criteria": {
+      "get_cheese": "2025-03-05 02:41:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_blinds": {
     "criteria": {
       "has_log": "2025-03-05 02:11:52 +0000"
@@ -6222,6 +6229,12 @@
     },
     "done": true
   },
+  "rats:recipes/building_blocks/block_of_cheese": {
+    "criteria": {
+      "has_cheese": "2025-03-05 02:41:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_chair": {
     "criteria": {
       "has_log": "2025-03-05 02:11:52 +0000"
@@ -6234,6 +6247,24 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/basic_upgrade": {
+    "criteria": {
+      "has_cheese": "2025-03-05 02:41:50 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/marbled_cheese_raw": {
+    "criteria": {
+      "has_cheese": "2025-03-05 02:41:50 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/chef/string_cheese": {
+    "criteria": {
+      "has_input": "2025-03-05 02:41:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_table": {
     "criteria": {
       "has_log": "2025-03-05 02:11:52 +0000"
@@ -6243,6 +6274,12 @@
   "cfm:recipes/decorations/dark_oak_upgraded_gate": {
     "criteria": {
       "has_log": "2025-03-05 02:11:52 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/marbled_cheese_raw_alt": {
+    "criteria": {
+      "has_cheese": "2025-03-05 02:41:50 +0000"
     },
     "done": true
   },

@@ -1880,7 +1880,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-03-04 21:17:44 +0000",
+      "sweet_berries": "2025-03-05 02:42:15 +0000",
       "cooked_beef": "2025-03-04 20:44:20 +0000",
+      "bread": "2025-03-05 02:31:58 +0000",
       "rotten_flesh": "2025-03-04 21:03:04 +0000"
     },
     "done": false
@@ -4203,6 +4205,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-05 02:35:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2025-03-05 02:10:43 +0000"
@@ -4239,6 +4247,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/ice_ring_from_freezing": {
+    "criteria": {
+      "has_ring": "2025-03-05 02:32:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_sofa": {
     "criteria": {
       "has_wool": "2025-03-05 02:10:43 +0000"
@@ -4251,9 +4265,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-03-05 02:35:50 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/pickpocket_upgrade": {
+    "criteria": {
+      "has_emerald": "2025-03-05 02:35:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-03-05 02:35:21 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/food/potato_pancake": {
     "criteria": {
       "has_potato": "2025-03-05 02:04:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-03-05 02:35:21 +0000"
     },
     "done": true
   },
