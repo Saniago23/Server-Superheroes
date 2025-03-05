@@ -94,3 +94,25 @@
 [05Mar2025 00:57:59.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saniago23 moved wrongly!
 [05Mar2025 01:02:09.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 was eviscerated by Archevoker's vexes
 [05Mar2025 01:02:27.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 has made the advancement [Magery]
+[05Mar2025 01:03:07.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bryanc2613 lost connection: Timed out
+[05Mar2025 01:03:07.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 left the game
+[05Mar2025 01:03:19.743] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bryanc2613[/127.151.40.125:49945] logged in with entity id 43211 at (552.6726888376185, 70.0, 7655.281460736386)
+[05Mar2025 01:03:19.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 joined the game
+[05Mar2025 01:03:20.146] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (177b1dde-845c-310f-a419-31a16cd111c0)
+[05Mar2025 01:03:20.147] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[05Mar2025 01:03:20.147] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: bryanc2613
+[05Mar2025 01:03:20.148] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as bryanc2613 run scoreboard objectives add FSang.Gamerule.item dummy
+[05Mar2025 01:03:20.148] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as bryanc2613 run scoreboard players set .sang FSang.Gamerule.item 1
+[05Mar2025 01:03:20.148] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as bryanc2613 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[05Mar2025 01:03:20.148] [Server thread/INFO] [KubeJS Server/]: addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as bryanc2613 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[05Mar2025 01:03:32.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 was eviscerated by Archevoker's vexes
+[05Mar2025 01:06:03.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 was eviscerated by Archevoker's vexes
+[05Mar2025 01:06:30.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 was eviscerated by Archevoker's vexes
+[05Mar2025 01:07:33.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 was eviscerated by Archevoker's vexes
+[05Mar2025 01:08:29.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 was eviscerated by Archevoker's vexes
+[05Mar2025 01:10:13.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 has made the advancement [Take Aim]
+[05Mar2025 01:10:18.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 was doomed to fall by Archevoker
+[05Mar2025 01:10:32.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 was doomed to fall by Archevoker
+[05Mar2025 01:10:38.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camaila04 was eviscerated by Archevoker's vexes
+[05Mar2025 01:10:53.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bryanc2613 was eviscerated by Archevoker's vexes
+[05Mar2025 01:11:41.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saniago23 was eviscerated by Archevoker's vexes
